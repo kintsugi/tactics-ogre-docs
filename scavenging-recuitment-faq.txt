@@ -1,0 +1,1433 @@
+# https://gamefaqs.gamespot.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/67152
+
+@----------------------------------------------------------------------------@
+!		    Tactics Ogre: Let Us Cling Together (PSP)	             !
+!									     !
+!			SCAVENGING & RECRUITMENT FAQ	    	             !
+!									     !
+!			       by coineineagh			             !
+!			        version 2.1			             !
+@----------------------------------------------------------------------------@
+
+
+Table Of Contents:
+
+
+1.	INTRODUCTION
+
+2.	WHAT IS SCAVENGING?
+
+3.	HOW IT WORKS
+	- Recruitment skills
+	- Ranked skills from opponents
+	  - Random Battles
+          - Event Battles
+	- Ranked skills from allies
+	- Auctioning monsters
+
+4.	SCAVENGING GROUPS & LIMITATIONS
+	- Unavailable skills
+
+5.	ADVANCED SCAVENGING
+	- Ogre Blade's Bodysnatch
+	- Turning a zombified unit into Undead, then a regular Human
+
+6.	ABOUT UNITS
+	- Unit types
+	- Uniques' RT
+	- Getting the most out of your units
+	- Stats of Regular Generic recruits
+	- Snapdragon usefulness
+
+7.	CURSED WEAPONS & SNAPDRAGON
+	- The Snapdragon process
+	- Maxed Cursed Weapons
+	- Recommended snaps
+
+8.	ENEMY EQUIPMENT
+	- What to expect
+	- What can drop?
+	- Equipment tips
+
+9. 	USEFUL INFO & CREDITS
+	- Rare item drops
+	- Missables
+	- Rare steals
+	- All about weapons
+	- About Fortify, Strengthen & Spellcraft
+	- Credits
+
+10.	VERSION INFORMATION
+
+
+___________________________________________________________________________
+DISCLAIMERS
+
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any website or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+website or as a part of any public display is strictly prohibited, and a
+violation of copyright. This document may not be bought or sold, or used in
+any way for profitable gain.
+
+This FAQ is authorized to be hosted on the following websites:
+
+www.gamefaqs.com
+www.gamespot.com
+www.neoseeker.com
+
+This guide is copyright 2013 by Thomas de Jong, e.g. coineineagh.
+All trademarks and copyrights contained in this document are owned by 
+their respective trademark and copyright holders.
+___________________________________________________________________________
+
+
+				<3 <3 <3 
+Dedicated to my wife Suby, my son Owen, and my bouncy baby boy Andy!
+				<3 <3 <3
+
+
+{1} INTRODUCTION
+----------------
+
+If you are a beginning player, just learning the ropes, then Scavenging &
+Recruitment should *not* be the first thing you learn about this game. If you
+are a newbie, I strongly recommend you read the chapter Early-Game Advice in my
+Skill Improvement FAQ first and foremost, as it has more directly relevant
+information for you. Return to this FAQ when scavenging comes into play.
+
+This guide was written mainly as an aid for players in mid-game who don't yet
+understand how scavenging works. All aspects are discussed, from the most basic
+form of scavenging, to more complex and involved forms. The Advanced Scavenging
+and About Units chapters were transplanted from my Skill FAQ, but have been
+tailored for use in this FAQ. The scope of this FAQ has been expanded since its
+creation, which necessitated a renaming. A lot of loosely related info about
+weaponry and equipment is also included now.
+
+Be advised that scavenging a unit's skills requires that a unit in your roster 
+is deceased, and this is not compatible with the requirements of certain titles
+that can be acquired in the game. Titles offer no advantages in the game, so
+many players, like myself, simply choose to forgo the effort of obtaining them.
+Out of the almost 100 songs in the Warren Report, one can only be unlocked by
+beating the game with no deaths, incapacitations, or use of the Chariot tarot.
+
+
+{2} WHAT IS SCAVENGING?
+-----------------------
+
+Scavenging is the process of transfering the skills from a deceased unit onto a
+living unit. Many players often have questions about what kind of things can be
+scavenged. A lot of people have the mistaken impression that spells are also
+transferable, but this is not the case. Only skills can be scavenged. Ranked 
+skills are not cumulative; they can only override the target's ranked skill, if
+the target has lower skill rank.
+To be able to scavenge a unit's skills, it must first be deceased. This means it
+must permanently lose a heart in battle three times. When a unit loses all of 
+its hitpoints, it is merely incapacitated. A timer starts, with a number 
+indicating the amount of units turns before the unit actually loses a heart, 
+starting at 3. If battle ends before the timer expires, then the unit is rescued
+before it dies. It is included in the victory screen, obtains XP and SP, and 
+will not lose a heart. There are exceptions, like falling into bottomless pits, 
+which do not allow a timer. This saves time if you want to kill off a unit.  
+Undead can only be killed by bottomless pits and exorcism, and Lanselot Tartaros
+has a finisher which takes away a heart. Once all 3 hearts are gone, a unit can 
+no longer take part in combat, or purchase skills with skill points. Keep this 
+in mind when preparing a unit for scavenging.
+
+
+{3} HOW IT WORKS
+----------------
+
+All skills of the deceased unit are scavenged onto a selected target, at the 
+cost of a Silver Oberyth. This is why it is wise not to sell of all your Silver
+Oberyths. I kept 10 of them in my inventory at all times, but after frequent
+scavenging, those still ran out. Story battles often drop them, but there are 
+vast areas with few non-story battles, like Palace of the Dead, where they are
+very hard to come by.
+Humans can only scavenge onto other humans. This doesn't include winged race, 
+but Divine Knight is part of the human scavenge group. Further details on 
+scavenge groups can be found in the Advanced Scavenging chapter.
+
+--- Recruitment skills
+In order to get hold of suitable targets with the skills you are looking for,
+it is often not enough to wait for storyline characters to join your roster.
+Units you encounter in battle have a variety of skills equipped, but remember
+that only the skills present in the first four skill slots are retained upon
+recruitment. Usually, the only ranked skills present in the first 4 slots are
+weapon skills. This is nevertheless very useful, as weapon skills are quite
+hard to improve through AI Skill Improvement. The Fusils and Spellbooks weapon
+skills are also hard to acquire without using rare classmarks to switch class,
+so it is often more practical to get hold of these ranked skills by scavenging.
+- Humans & Winged: Recruit (from Cleric, Rune Fencer/Valkrie, Knight, Ranger, 
+     Princess, Paladin, White Knight, and Songstress)
+- Beasts: Subdue (from Beast Tamer)
+- Lizardmen & Lamia: Coax (from Wizard/Enchantress, Buccaneer, P/Matriarch)
+- Dragons: Tame (from Beast Tamer)
+- Divine Knights: Seraph's Pact (from Cleric, Divine Knight, Priest, Princess)
+- Orcs, Imps, Zombie Humans and Zombie Winged: Demon's Pact (from Lich)
+- Fairies: Fey Pact (from Rogue, Vartan, Shaman)
+- Skeletons & Ghosts: Master Undead (from Necromancer)
+- Golems & Pumpkinheads: Control Golem (from Warlock/Witch, Wicce)
+
+Recruiting opponents in battle can have other beneficial effects besides 
+scavenging skills. During the difficult mid-game, equipment and money are hard
+to get hold of. Recruiting an opponent guarantees that you will receive the 
+entire equipment it had in battle. This is a great source of up-to-date gear,
+preventing the need for buying or crafting it yourself. If the gear is of no
+practical use, then it can be sold for Goth.
+
+--- Ranked skills from opponents
+These are locations where you can scavenge useful skills:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/58370371
+/688396854
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/63779092
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59665872
+An edited/updated repost by BlueMage279 of info provided by Humble_Novice,
+with new sightings by beatumdown and supersaiyangohan:
+
+!!Pay attention to whether an opponent is listed in Random or Event battles!!
+
+--Random Battles
+FISTS - Male Berserker (Rank 4 - The Reisan Way)
+	Umbra Rogue (Rank 5 - Neimrahava Wood)
+	Umbra Rogue (Rank 5 - Bahanna Highlands)
+DAGGERS - Reptile Warrior (Rank 5 - Lambiss Hill)
+	Female Rogue (Rank 5 - Bortegun Fens)
+	Imp Rogue (Rank 5 - Belmorose Highwilds)
+1H SWORDS - Zombie Valkyrie (Rank 5 - Neimrahava Wood)
+2H SWORDS - Female Warrior (Rank 4 - The Reisan Way)
+	Reptile Warrior (Rank 5 - Bahanna Highlands)
+	Umbra Warrior (Rank 5 - Belmorose Highwilds)
+ 	Lamia Juggernaut (Rank 5 - Lambiss Hill)
+	Reptile Warrior (Rank 5 - Madura Drift)
+	Phantom Terror Knight (Rank 5 - Neimrahava Wood)
+AXES - Reptile Berserker (Rank 4 - Madura Drift)
+	Phantom Terror Knight (Rank 5 Neimrahava Wood)
+HAMMERS - Reptile Berserker (Rank 4 - Madura Drift)
+	Phantom Terror Knight (Rank 5 - Neimrahava Wood)
+SPEARS - Winged Rune Fencer (Rank 5 - Lambiss Hill)
+	Zombie Rune Fencer (Rank 5 - Neimrahava Wood)
+	Winged Rune Fencer Rank 5 - Belmorose
+CUDGELS - Female Cleric (Rank 3 - Tynemouth Hill)
+BLOWGUNS - Umbra Rogue (Rank 4 - Qadriga Fortress)
+BOWS - Male Archer (Rank 4 - Bortegun Fens)
+	Winged Archer (Rank 5 - Lambiss Hill)
+	Winged Archer (Rank 5 - Mount Hedon)
+	Phantom Archer (Rank 5 - Neimrahava Wood)
+	Winged Archer (Rank 5 - Lambiss Hill)
+CROSSBOWS - Winged Archer (Rank 5 - Lambiss Hill)
+	Phantom Archer (Rank 5 - Neimrahava Wood)
+	Phantom Archer (Rank 5 - Belmorose Highwilds)
+	Winged Archer (Rank 5 - Mount Hedon)
+FUSILS - Male Fusilier (Rank 3 - The Leupha Coast), also many in the Shrines
+THROWN - Umbra Rogue (Rank 3 - The Reisan Way)
+ANATOMY - Archer (Rank 4 - Tynemouth Hill)
+	Enchantress (Rank 4 - Golborza Plains)
+MEDITATE - Human Enchantress (Rank 4 - The Reisan Way, 
+	Human Enchantress (Rank 4 - Rhea Boum Aqueduct)
+BLACK MUCUS - Octopus (Rank 3 - Rhea Boum Aqueduct)
+
+
+--Event Battles
+1H SWORDS - Reptile Hoplite (Rank 5 - Phorampa Wildwood: Wonder at the Gods
+Above Ch. 4)
+1H KATANA - Ninja (Rank 4 - The Vanessan Way Ch. 4)
+2H KATANA - Female Swordmaster (Rank 4 - Bahanna Highlands Ch. 4)
+WHIPS - Female Beast Tamer (Rank 4 - Bahanna Highlands Ch. 4)
+CUDGELS - Human Wizard (Rank 3 - Vasque Ch. 4)
+	Phantom Wizard (Rank 4 - Pirate¡¯s Graveyard: Cape of Spite CODA)
+SPELLBOOKS - Human Warlock (Rank 4 - Vasque Ch. 4)
+	Phantom Warlock (Rank 4 - Pirate¡¯s Graveyard: Cape of Spite CODA)
+BOWS - Winged Archer (Rank 6 - Floating Ruins 4F Coda)
+CROSSBOWS - Winged Archer (Rank 6 - Floating Ruins 4F Coda)
+THROWN - Reptile Juggernaut (Rank 5 - Phorampa Wildwood: Wonder at the Gods 
+	Above Heavenly General battle)
+AUGMENT EARTH - Earth Dragon (Rank 4 - Tzorious Field Ch. 4)
+AUGMENT LIGHTNING - Thunder Dragon (Rank 4 - The Vanessan Way Ch. 4)
+AUGMENT WATER - Flood Dragon (Rank 4 - The Vanessan Way Ch. 4)
+AUGMENT FIRE - Flame Dragon (Rank 4 - Tzorious Field Ch. 4)
+AUGMENT ICE - Frost Dragon (Rank 4 - Bahanna Highlands Ch. 4)
+AUGMENT LIGHT - Human Witch (Rank 4 - Brigantys West Curtain Wall)
+	Arc Dragon (Rank 4 - Lambiss Hill Ch. 4)
+AUGMENT DARKNESS - Human Warlock (Rank 4 - Brigantys South Curtain Wall) 
+	Human Witch (Rank 4 - Brigantys South Curtain Wall)
+	Dark Dragon (Rank 4 - Tzorious Field Ch. 4)
+TELLURIC RESONANCE - Earth Dragon (Rank 4 - Tzorious Field Ch. 4)
+CHARGED RESONANCE - Thunder Dragon (Rank 4 - The Vanessan Way Ch. 4)
+AQUATIC RESONANCE - Flood Dragon (Rank 4 - The Vanessan Way Ch. 4)
+BLAZING RESONANCE - Flame Dragon (Rank 4 - Tzorious Field Ch. 4)
+ICY RESONANCE - Frost Dragon (Rank 4 - Bahanna Highlands Ch. 4)
+LUMINOUS RESONANCE - Arc Dragon (Rank 4 - Lambiss Hill Ch. 4)
+SHADOW RESONANCE - Dark Dragon (Rank 4 - Tzorious Field Ch. 4)
+BLACK MUCUS - Octopus (Rank 4 - Pirate¡¯s Graveyard: Cape of Spite Coda)
+FEATHERSTEP - Cockatrice (Rank 4 - Oeram Ch. 4)
+EMPOWER BEAST - Winged Beast Tamer (Rank 5 - Pirate¡¯s Graveyard: Bosom of the
+	Sea God) --> Iuria questline
+
+-Of particular interest may be: Meditate - Human Enchantress (Rank 4 - The 
+Reisan Way)
+-Not in this list, and from my own experience: The shrines are full of 
+Fusiliers with rank 3 Fusils. This is a hard skill to acquire normally. 
+Fusils skill is only selectable from Fusiliers at level 15! I scavenged many 
+of them. Chapter 4 may have some rank 4 Fusils, as the story battles in this
+chapter have many rank 4 skills, making them the best place to find skills.
+-Bortegun Fens, the area before Palace of the Dead, is brimming with units 
+that have multiple rank 4 skills each. You can recruit human Warriors (Fist, 
+2H Sword & Whip), Archers (Bow & Crossbow) and Rogues (Fist & Dagger).
+Opponents in chapter 4 story battles also have many rank 4 weapon skills.
+-Many Heavenly General battles have Winged, Lamia and Orc Archers with rank 
+6 Bow & Crossbow skills. The Winged are in San Bronsa Floating Ruins floor 4.
+Some Orc and Lamia Archers can be recruited in Palace of the Dead floor 89.
+
+--- Ranked skills from allies
+Many allies come equipped with certain ranked skills upon recruitment, and you
+might consider scavenging the ones you don't plan to use for those skills.
+This subchapter should not be given too much weight: You should not go out of
+your way in storyline or World mode just to get hold of a halfway-leveled
+Augment. If they happen to be upon your path, that's useful, but otherwise
+most of those skills can be better trained in AI battle. Special thanks to
+"Badposter" for registering to help me complete this list. Ranked skills below
+rank 2 and non-ranked (tiered) skills were omitted both for simplicity, and to
+dissuade players from scavenging units for unimportant skills. I list the units
+with the most noteworthy skills for *scavenging* first, also taking the ease or
+difficulty of (re-)recruiting each unit in World mode into consideration:
+Lanselot - Augment Light 4, Parry 4, Overpower 4, 1H Swords 4
+Rudlum - Golemy 3, Daggers 5
+Chamos - Augment Fire 3, Meditate 3, Cudgels 3
+Oelias - Augment Light 3, Anatomy 2, Cudgels 4
+Tamuz - Augment Light 3, 1H Swords 3, Crossbows 3
+Dievold - Augment Darkness 3, 2H Swords 4
+Phaesta - Augment Lightning 3, Spears 3
+Warren - Augment Lightning 4, Augment Darkness 4, Daemonology 2/3?
+Lindl - Fusils 4, Crossbows 4, Anatomy 3
+Ozma - Augment Ice 3, Parry 2, 1H Swords 4, Whips 4, Resist Stun 4
+Ravness - Augment Lightning 3, Deflect 3, Spears 3
+Deneb - Augment Fire 3, Cudgels 3, Golemy 2, Control Golem 2
+Ganpp - Subdue 2, Empower Beast 2, Teratology 3, Anatomy 2, Deflect 2, Axes 3,
+	Resist Slow 4
+Occione - Tame 2, Empower Dragon 2, Draconology 2, Parry 2, Axes 2, Thrown 2
+Cerya - Augment Fire 2, Anatomy 2, Spears 2, 1H Swords 2
+Gildas - Augment Light 2, Anatomy 2, 2H Swords 2, Axes 2
+Mirdyn - Augment Light 2, Anatomy 2, 1H Swords 2, Spears 2
+Ehlrig - Augment Light 2, Thanatology 2, Anatomy 2, Hammers 3, Cudgels 2
+Azelstan - Herpetology 2, Anatomy 2, Parry 2, 1H Swords 3, Fusils 2
+Jeunan - Draconology 2, Anatomy 2, Spears 2
+Cressida - Augment Darkness?, Resist Stun 5, Resist Silence 5
+Iuria - Instruments 2, Daggers 2, Resist Silence 2
+Catiua - Augment Light 2, Anatomy 2, Cudgels 2
+Sherri - Augment Earth 2, Augment Darkness 2, Empower Golem 2, Cudgels 2
+Olivya - Augment Light?, Anatomy 2, Cudgels 2
+Obda the Younger - Featherstep 2, Resist Charm 4
+Berda the Younger - Featherstep 2, Resist Charm 4
+Vyce - 1H Swords 2, Parry 2
+Hobyrim - 2H Katana 2?, Anatomy 2
+Xapan - Axes 2
+Folcurt - 1H Swords 2
+Arycelle - Bows 2
+Cistina - Anatomy 2
+Bayin - none
+Donnalto - none
+Voltare - none
+Sara - none
+Canopus - none
+Denam - none
+There are unique units known to come with higher skill ranks when recruited at
+higher level, as well as hard-to-acquire spells such as Heal IV, Heavenly Judge
+II and tier II Draconics. I have strived to report the *highest* version of any
+ranked skill, but there may still be inaccuracies. Also brace yourself for
+disappointment in case early recruits have less impressive skills than listed.
+
+--- Auctioning monsters
+Monster recruits have no gear besides jewelry, but they can be auctioned to
+shops for a profit, and their sale makes a variety of crafting components and 
+consumables available in the shop. An overview of the auctioning components:
+- Auctioning a DRAGON in a shop will make 2 Orbs of the Dragon's element
+buyable. The Orbs can be bought from Deneb's shop to recruit her (5 of each 9
+Orb types must be bought). You can also buy a Dragon Steak, which slightly
+raises STR & DEX. 2 of the dragon's classmarks also become buyable.
+All dragons yield the following crafting components upon auction: 6 Iron Ore, 
+4 Silver Ore, and 2 Baldur Ore. Earth Dragon also yields 8 Graphite. Thunder 
+Dragons also yield 8 Saltpeter. Cloud and Flood Dragons also yield 8 Tin Ore.
+Frost Dragons also yield 8 Limestone. Flame Dragons also yield 8 Sulfur.
+Dark Dragon also yields 8 Saltpeter. Arc Dragon also yields 8 Graphite.
+- Auctioning a HYDRA in a shop will make 2 Void Orbs buyable. The Orbs can be 
+bought from Deneb's shop to recruit her (5 of each 9 Orb types must be bought).
+They yield 6 Iron Ore, 4 Silver Ore, 2 Baldur Ore, 1 Gold Ore, 1 Gemstone,
+1 Krystallos Ore, and 8 Beasthide. You can also buy a Minced Patty, which 
+slightly raises AVD & RES. Hydras have no classmarks.
+- Auctioning a GOLEM to any store will only make a mix of crafting items
+buyable, but it doesn't allow you to buy a stat-raising food (Beast & Dragon),
+or an Orb (Dragon). After auctioning, all 4 golem types make buyable 4 Iron
+Sand & 2 Silver Ore. Clay & Stone Golems yield: 8 Tin Ore, 8 Graphite, 4 Iron
+Ore, and 8 Limestone. Iron Golems yield: 4 Tin Ore, 4 Graphite, 16 Iron Ore,
+and 4 Limestone. Baldur Golems yield: 4 Tin Ore, 4 Graphite, 16 Baldur Ore,
+and 4 Limestone. 2 of the golem's classmarks also become buyable.
+- Auctioning a GRYPHON in a shop will make a Braised Skewer buyable, which 
+slightly raises DEX & AGIL, as well as 4 Silver Ore, 2 Gold Ore, 1 Platinum 
+Ore, and 8 Beasthides.
+- Auctioning a COCKATRICE in a shop will make a Minced Patty buyable, which 
+slightly raises AVD & RES, as well as 4 Silver Ore, 2 Gold Ore, 1 Platinum 
+Ore, and 8 Beasthides.
+- Auctioning an OCTOPUS in a shop will make a Steamed Mollusk buyable, which 
+slightly raises INT & MIND, and also 8 Silver Ore, 2 Gold Ore, 1 Platinum Ore,
+1 Gemstone, 1 Krystallos Ore, and 8 Beasthides.
+- Auctioning a CYCLOPS in a shop will make buyable: No meat, 12 Tin Ore, 
+12 Graphite, 8 Saltpeter, 8 Sulfur, and 8 Limestone.
+
+
+{4} SCAVENGING GROUPS & LIMITATIONS
+-----------------------------------
+
+Be advised that some weapon skills from newly recruited units in battle have 
+been observed to lose ranks if the unit changes classes. Although I believe the
+phenomenon only takes place when a ranked skill is entirely unused (0 Skill XP),
+this is not yet confirmed. This already occurs before scavenging, though.
+Skill ranks are transferred, but skill XP is lost. This doesn't mean that 
+accumulated skill XP is lost if the target unit has the same or higher skill 
+rank. Scavenged skills do not override existing ones, only improve. An example:
+A deceased body has rank 3 Blowguns with 55XP, and rank 4 Daggers with 70XP.
+Selected recipient has rank 3 Blowguns with 12XP, and rank 3 Daggers with 15XP.
+After scavenging, it has rank 3 Blowguns with 12XP, and rank 4 Daggers with 0XP.
+As you can see, the rank 4 Daggers skill is transferred, but without accumulated
+skill XP. But the scavenged body's Blowguns skill was lower than the target's,
+so the target has unchanged skill. Skills are not added to each other's ranks, 
+so the deceased body's Blowguns skill was wasted in this example.
+
+--- Unavailable skills
+There are restrictions as to which races can scavenge onto each other. These are
+the groups, including their accessible classes in parentheses (). I list all 
+skills that that the races can make use of, but not purchase themselves:
+
+REGULAR HUMANS and DIVINE KNIGHTS. (ALL EXCEPT Hoplite, Juggernaut, Patriarch,
+                             Familiar, Vartan, Songstress and monster classes).
+- Agonal Scream, Lingering Kiss, Coquettish Kiss, Selfless Kiss.
+
+WINGED HUMANS (Warrior, Archer, Wizard, Cleric, Rune Fencer, Beast Tamer, 
+                                           Vartan, Buccaneer* and Songstress*).
+- Tactician II, Treasure Hunt II, Reflect Magic II, Rampart Aura II, Blowguns, 
+  Recruitment skills.
+
+FAIRIES (Rogue & Familiar).
+- Max TP IV, Reflect Damage II, Recruitment skills.
+
+LIZARDMEN (Warrior, Berserker, Hoplite, Juggernaut, Patriarch).
+- Reflect Magic II, Treasure Hunt II, Recruitment skills.
+
+LAMIA (Warrior, Archer, Enchantress, Witch, Hoplite, Juggernaut, Matriarch).
+- Divine Magic, Treasure Hunt II, Reflect Magic II, Recruitment skills.
+
+ORCS (Warrior, Archer, Wizard, Rune Fencer, Terror Knight, Berserker, Hoplite, 
+	Juggernaut, Patriarch).
+- Treasure Hunt II, Recruitment skills.
+
+IMPS/Gremlins (Rogue & Familiar).
+- Max TP IV, Reflect Damage II, Recruitment skills.
+
+ZOMBIE HUMANS (ALL generic classes. Zombie humans & winged are Umbra race).
+- Agonal Scream, Lingering Kiss, Coquettish Kiss, Selfless Kiss.
+
+ZOMBIE WINGED (Warrior, Archer, Wizard, Cleric, Rune Fencer, Beast Tamer, 
+		Vartan).
+- Tactician II, Treasure Hunt II, Reflect Magic II, Rampart Aura II (for RF) and
+  Blowguns (for Beast Tamer), Recruitment skills.
+
+SKELETONS (Warrior, Archer, Wizard, Knight, Terror Knight).
+- Sanctuary II, Treasure Hunt II, Recruitment skills.
+
+GHOSTS (Wizard/Enchantress, Warlock/Witch).
+- Divine Magic, Max TP IV, Tactician II, Teasure Hunt II, Trajectory, 
+  Recruitment skills.
+
+PUMPKINHEAD golems (Songstress & Familiar).
+- Max TP IV, Reflect Damage II, Treasure Hunt II, Recruitment skills.
+
+GOLEMS (Clay, Stone, Iron and Baldur).
+- None
+
+DRAGONS (all 8 elemental types, not Hydra).
+- Divine Magic, Dark Magic (no actual spells castable by dragons)
+
+HYDRAS
+- None
+
+GRYPHONS
+- None
+
+COCKATRICES
+- None
+
+OCTOPI
+- None
+
+CYCLOPES
+- Absorb MP II (apparently impossible to scavenge in any way)
+
+* these are special classes for Canopus and Iuria, respectively. Keep in mind 
+that Iuria can't be a Vartan.
+These are your limitations for most of the game. But after you have opened up 
+the Palace of the Dead and San Bronsa ruins, you can do a bit more.
+
+
+{5} ADVANCED SCAVENGING
+-----------------------
+
+Most people will end up playing with the humans mainly, because there are unique
+characters with special classes. Humans have access to most classes, and can 
+acquire almost all skills without needing to scavenge. But for a few skills you 
+will need to use complicated methods in order to acquire them from another race.
+There are only 2 methods that can change a unit's race: (1) Bodysnatch ability 
+of the Ogre Blade 2-handed sword, and (2) creating a zombie, turning it into an
+undead, then reverting it to human/DK form. The latter is technically combining
+three race-changing methods, but practically speaking, Undead are not useful, as
+they can't be healed normally or cast Divine Magic, Skeletons and Ghosts have
+very few class options, Skeletons actually get +1 RT making them slower, and
+Zombie units don't gain any XP or SP after battle (they do drain XP & SP gains).
+
+To prepare for these methods, look up item drops in the loot spreadsheets:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59010574
+
+If you are on Neutral Route in story, then you will not be able to do any of 
+these things yet, because one of the characters required for unlocking CODA 1 
+is dead. Fortunately, world mode is available after finishing chapter 4. You 
+should travel back and finish another path first, most easily Chaos Route from
+the end of chapter 3.
+
+--- Turning a zombified unit into Undead, then a regular Human
+This is a very long task, than can only be completed after your 2nd visit to 
+Palace of the Dead. First you need a Book of the Dead, which first drops on 
+floor 37 of the Palace. Unfortunately, the location for turning a zombie into 
+Undead is on floor 22, meaning you must leave and return to the Palace.
+Next you must turn your Undead into a regular Human in San Bronsa. Although the 
+'official' way is to use a Seal of Rebirth in floor 12, you can more easily do 
+it with an Ensanguined Rood (drops on floor 1) on floor 3. This makes your 
+Undead a Divine Knight, but Divine Knight can switch classes into human, and 
+already is part of the same skill transfer group. For all intents and purposes, 
+a Divine Knight is just a regular Generic Human.
+
+You will need this method only for acquiring certain Familiar skills which 
+Rogues can use: Agonal Scream, Lingering Kiss, Coquettish Kiss and Selfless 
+Kiss.
+
+On a sidenote, Divine Knights can use many skills, but have limited access. 
+For a long time people complained about this, but few realized that the Divine 
+Knight can simply scavenge the skills it needs. It needs to learn beforehand, 
+or scavenge the skills: Rampart Aura IV, Treasure Hunt II, Reflect Damage II, 
+Tactician II, Max TP IV, Reflect Magic II and Absorb MP II.
+
+--- Ogre Blade's Bodysnatch
+Getting an Ogre Blade is not easy. There are 2 places you can get hold of one,
+each with different requirements. For the first option, you must already have 
+all Wind God weapons: Euros, Notos, Boreas and Zephyros. Zephyros is found in 
+San Bronsa ruins, the others can be found in the Palace of the Dead. Once you 
+have them, and have already defeated Nybeth on floor 100 of the Palace, then 
+Blackmoor will appear on floor 100, 1 time only. He will not reappear there, 
+so you must travel back in World if you want him to appear again. Blackmoor's 
+ally Lich King and Lich Queen can drop the Ogre Blade, as well as other Ogre 
+gear. Blackmoor will drop the Crest of Fire, an accessory that is useful for 
+snapping cursed weapons, read below. 
+Alternatively, Rodrick is a story encounter on map 115; this 1 time only map 
+disappears after the story battle, making 114 the final floor if you return 
+there afterwards. Don't forget to keep Catiua, Gildas, Mirdyn & Canopus alive 
+if you plan to use world to repeat this battle. Rodrick sometimes drops the 
+Ogre Blade if you defeat him on floor 115, but not always. Either way, you 
+can't get an Ogre Blade until your 2nd visit to the bottom of Palace of the 
+Dead. the Ogre Blade is a unique weapon, so you can have only 1 at any given 
+time.
+
+Bodysnatch ability:
+It works on generic humanoids only. Not on monster classes, not on uniques, 
+and not on unrecruitable enemies. If your unit can't equip 2 handed swords, 
+then it can't use the ability of course. Both units must be generic humanoids, 
+and the target must be an opponent. Range 2, guaranteed success.
+Your unit keeps:
+Name, Loyalty, Skills & Skill Points, Spells, base INT, MIND & Magic Points.
+Your unit takes from opponent (and loses its own):
+Location, Race, Nationality, Gender, Alignment, Class, Equipment, base STR, 
+VIT, DEX, AGIL, AVD, RES & Hit Points.
+Most of this is of little importance, because most Bodysnatches will be 
+performed in order to scavenge skills onto a different unit. Spells will still
+be lost after the scavenge.
+
+I have some tips to convey, when preparing skills for special units.
+
+Canopus needs skills from regular humans, meaning a generic must aqcquire the 
+skills and Bodysnatch with a Winged Recruitable Generic. All skills lacking: 
+Fusils, Double Attack, Tactician II, Treasure Hunt II, Reflect Magic II, 
+Rampart Aura II (for Valkyrie) and Blowguns (for Beast Tamer).* In Ndamsa 
+Fortress 1st descent, a Winged Rune Fencer may appear with Rampart Aura II, to 
+recruit and scavenge. Winged Beast Tamers spawn on the same map with rank 2 
+Blowguns.
+
+Iuria needs skills from regular humans, meaning a generic must aqcquire the 
+skills and Bodysnatch with a Winged Recruitable Generic. All skills lacking: 
+Spellbooks, Draconic Magic, Tactician II, Treasure Hunt II, Reflect Magic II, 
+Rampart Aura II (for RF) and Blowguns (for Beast Tamer).*
+
+A generic Lamia has access to the humanoid-only classes Hoplite, Juggernaut 
+and Matriarch. Orcs and Lizardmen also have access. Orcs have more available 
+classes, while Lizardmen have high STR and VIT. I prefer Lamia, because it has
+access to the useful classes Archer and Witch. Witch can use Empower Golem on 
+Pumpkinhead Familiars, which is a powerful combo. The only usable skills a 
+Lamia lacks access to, are Divine Magic, Treasure Hunt II and Reflect Magic II.
+In my opinion, it's not worth using bodyswap for these skills. In level 7 of 
+the San Bronsa Floating Ruins, a Lamia Witch can be recruited with Divine Magic
+skill.
+
+A Pumpkinhead golem, as was mentioned, gets a great boost from Empower Golem 
+skill. Skills it can use but lacks access to are: Max TP IV, Reflect Damage II.
+Use a regular human with the skills to Bodysnatch with an enemy Pumpkinhead on 
+floor 10 of the Palace, if you consider the skills important.
+
+* Be advised that there are very few suitable targets to Bodysnatch in tiers IV
+and V (floors 76-100 & 101-115) of the Palace of the Dead, which is where you 
+first get access to the Ogre Blade. the only bodyswappable winged are in the 
+Ahurama Heavenly General battle, which requires that you have a Heavenly Fork 
+before entering floor 77 of the Palace (so go to floor 100 before floor 77). 
+Other Heavenly General battles have other races. Asurama on 89 has 2 Lamia and 
+Orc Archers (Archers in Heavenly General battles have rank 6 Bows & Crossbows).
+
+If you use the Ogre Blade from floor 100 inside the Palace, you can get 
+yourself a new Ogre Blade on floor 115 from Rodrick for a 2nd Bodysnatch.
+
+
+{6} ABOUT UNITS
+---------------
+
+--- Unit Types
+This is a small subchapter to detail the traits of different recruits, so you 
+will know what to expect, and what's best to do with them. There are 4 types of
+recruits in the game:
+1. UNIQUE Characters. These are often important people in the game. They have
+better average starting stats (STR, DEX, VIT, AVD, AGIL, MIND, INT, RES) than 
+the rest, some much more than others. Many have special classes available to 
+them, as you can read above. They are often the better choice for permanent
+units in your attack roster.
+2. SEMI-UNIQUES: Donnalto is the first example of such a unit. He starts off 
+looking like a generic Cleric, and if you change his class into something else,
+his portrait and sprite will still appear as that of a generic Cleric.
+3. NAMED GENERICS: These are like generic units because their portraits can 
+change when changing their class. Voltare and Sara are examples. The only reason
+they are not truly generics, is that they still have a character entry in the 
+"Warren Report", and this is quite important. When using the term 'generics' by
+itself, this group is not what it refers to, but rather the next & last group...
+4. REGULAR GENERICS: these are units recruited from shops or in battle. They are
+unpopular because they lack the boost to their stats that most of the other 
+types get, and they also don't have a reduced Reaction Time (RT). But battle 
+recruits can be of all species and races. This makes them the only units that
+can be classed into humanoid- or monster-only classes. Humans recruited from
+shop are the only units you can name yourself, and bodyswapping would allow you
+to transfer the name onto any humanoid race.
+
+--- Uniques' RT.
+Reaction Time (RT) determines which units get to move first in battle, which can
+be an advantage, especially at the start of combat. RT is determined by unit, 
+class, equipment weight and actions taken. RT is the only feature of a unit that
+cannot be changed*. This gives many Unique Characters a permanent advantage.
+A quick overview of unique units' RT, and access to special classes:
+35 - OZMA (Knight Commander, White Knight)
+38 - HOBYRIM, RAVNESS (White Knight)
+40 - FOLCURT, GILDAS (White Knight)
+41 - SHERRI (Shaman), OLIVYA (Shaman), LINDL
+42 - CERYA (Shaman), CISTINA (Shaman), IURIA (Songstress, Shaman), JEUNAN,
+     LANCELOT (Paladin)
+43 - DENAM/main character (Lord, Buccaneer), CANOPUS (Vartan, Buccaneer), GANPP,
+     MIRDYN (White Knight)
+44 - ARYCELLE, RUDLUM, OCCIONE
+45 - CRESSIDA, CATIUA (Priest, Princess, Dark Priest), VYCE (Ranger, Buccaneer),
+     DENEB (Wicce, Shaman), AZELSTAN (Buccaneer, Ranger), XAPAN,
+     WARREN (Astromancer)
+46 - FELICIA, BAYIN, VOLTAIRE
+47 - OELIAS, SARA
+48 - PHAESTA, DONNALTO, DIEVOLD
+49 - EHLRIG
+50 - TAMUZ, Generic Humanoids (includes Pumpkinhead Golems)
+51 - CHAMOS, Skeletons*
+53 - OBDA THE YOUNGER, BERDA THE YOUNGER
+55 - Generic Monsters
+
+* It was recently observed that the Skeleton subrace (not Ghosts) gets +1 to 
+their base RT. Note that this is tied to the race, so if the Skeleton unit 
+changes into another race (read previous chapter), it will have an RT of 50.
+Monster units (Beasts, Dragons and regular Golems) appear to be slow, but they
+are actually quite speedy due to the fact that they don't wear equipment 
+besides jewelry. This is also their huge drawback, limiting their potential 
+once you have acquired powerful weapons and armour.
+
+--- Getting the most out of all your units.
+As described in this FAQ, there are certain things you can do with recruits.
+DO WHAT					WHO CAN DO IT
+- Use them in battle 			ALL (zombies receive no XP or SP)
+- Scavenge them for skills 		ALL (for recipient: see Scavenging/
+								Recruitment FAQ)
+- Bodysnatch 				Regular Generics who can use 2H sword
+- Zombify 				Regular Generics only
+- Transform into Undead 		Zombified Humanoid Generics only
+- Transform into Human 			Regular (Skeleton/Ghost) Generics only
+- Transform into Divine Knight 		Regular (Skeleton/Ghost) Generics only
+- Transform into Lich 			True Unique (Regular Human) Characters
+					and Generic Humans only
+- Snapdragon into a Cursed Weapon 	Regular (Humanoid) Generics only
+
+As you can see, there are very little options for Unique, Semi-Unique and
+Named Generic units in your army when they become redundant. You can only
+scavenge them for skills. I'd avoid the slower uniques for this reason.
+For Cursed Weapons, the stronger the snapdragoned unit's base stats were, the
+stronger they will become. Many people enjoy recruiting humans from shop for
+this, because this allows you to name your future weapon yourself.
+It takes a long time to improve a unit's base stats to a point that the 
+cursed weapon becomes strong for attacking. I'd suggest snapping a series of
+weak recruits with varied elements first, if you plan to take advantage of
+the methods I describe in the Skill Improvement FAQ (link in last chapter).
+You can later destroy the weak cursed weapons, and return to the Palace to 
+get new Cursed Weapon drops for strong snaps. A recent (re)discovery is that 
+the Crest of Fire from the Blackmoor battle in PotD (Blackmoor drops this; he
+is mentioned above) will lower the RT of the snapped weapon by 5 if the unit 
+had it equipped at the time. The Crest of Fire will also be returned to 
+inventory afterwards. Equip no other items when snapping, because they will
+increase weight. To save yourself time in the arduous task of improving  the 
+unit's base stats, it's wise to do 2 things:
+(1) Pick up tarot cards that give stat boosts: STR is best (The Chariot, 
+Strength), and the other relevant stats are VIT (The Hanged Man, The Tower),
+DEX (Judgement, The Star), MIND (The High Priestess, The Hierophant) and INT
+(The Hermit, The Magician). Don't bother with AVD, AGIL or RES for a weapon.
+(2) Team-level a single class. If you have enough equipment, you can be strong
+enough to take the units through many level-ups of a single class. Every time
+a unit levels up a class in battle, it gets +0.1 to ALL of its base stats, 
+which amounts to +4.9STR, +4.9VIT, +4.9DEX, +4.9AGIL, +4.9AVD, +4.9MIND, 
++4.9INT and +4.9RES from level 1 to 50. After battle, if only 1 class gets all
+the XP, you will see levels go up rapidly, speeding up the process, and giving
+stat boosts to many units.
+Technically a 3rd method would be eating Dragon Steaks, which you can buy after
+auctioning in a shop Dragon units that you recruited in battle. But this only 
+gains the equivalent of 2 tarot cards (+0.1-0.5STR, +0.1-0.5VIT) for your unit.
+If the Dragon recruit is low level, it will also steal all the XP gains after 
+battle unless you kill it yourself.
+
+--- Stats of Regular Generic recruits
+Unfortunately this subchapter isn't as detailed as you might have hoped. There
+is a Brady Guide for sale which will tell you about how this works, and even 
+lists stat ranges for recruits. What I can convey, are some simple observations
+about the recruits I had. First of all, I added up the values of all their base
+stats, and I noticed some curious things:
+(1) The total base stats was always similar. A unit may have higher STR than 
+another, but it will have other stats which are lower, so it all averages out.
+Since there are decimal values involved which are not visible, they probably
+get exactly the same total amount.
+(2) Unused units I recruited long ago had lower total stats than similar ones 
+I recruited en masse at the time, which seemed to disprove what I said in (1),
+but when I got recruits with higher total stats a while later, I understood 
+that recruits' stats improve as your own roster improves.
+(3) Most humanoid races had the same amount of total stats, which was about
+260 at the time I recruited mine. Because of (2), this value will be different 
+for other people at different stages of the game.
+
+To give an impression of which stats are more pronounced for which races, I can
+summarize my observations as:
+
+- Regular HUMANS have average stats across the board, with some variation 
+depending on their class when recruited. Average value was about 31-32 for me.
+Humans' biggest advantage is the variety of classes available. They are the only
+race that can snap into a cursed 1- or 2-handed katana, for example.
+
+- HAWKMEN, FAIRIES and MONSTERS were not tested yet, though this may be added 
+in the future. Monsters are of no relevance for Cursed Weapons, though. From
+distant memory of old recruits, I recall that Hawkmen had disappointingly low
+starting stats, which caused me to abandon 4 Winged generics I had recruited.
+I'd hazard a guess and say that they start with lower average stats, just like
+Skeletons, Pumpkinheads, Imps and Ghosts do. How much lower is yet untested.
+Although I've never recruited a Fairy, observations in battle make it clear
+that Fairies are very fragile, so I expect their stats will resemble the Imps.
+
+- LIZARDMEN have significantly higher STR and VIT than other races, which puts
+them at an advantage when snapping a cursed weapon. Be advised that they have 
+few available classes, so their resulting equippable weapons and snappable
+elements are quite limited. They had low AGIL & AVD, and INT & MIND was a tiny
+bit below average. Due to the importance of STR for a weapon, they are the best
+choice if they can snap into the right element. Due to their high STR & VIT, 
+Lizardmen are tough to kill in battle. Many believe they have a hidden damage 
+resistance, but I suspect this is merely because of their stat distribution.
+
+- ORCS have above average STR, DEX, INT & MIND, the other stats below average.
+This is a good 2nd choice, if Lizardman can't snap the element you need. They
+also have a wider variety of classes, so you are more likely to snap the
+element you want with an Orc.
+
+- LAMIA also scored well, with stats distribution similar to Orcs, though 
+slightly less favourable. Be advised that they have few available classes, but 
+including valuable mage classes and Archer.
+
+- SKELETONS' stats averaged to 250; 10 points lower than most living recruits.
+Their stronger stats were STR, DEX, AVD and RES. Remember that Skeletons get 
++1 RT. I snapped a skeleton Terror Knight (89RT), and this value was rounded 
+down to a weapon attack RT of 44, so it didn't affect my weapon. But if your 
+Skeleton's RT becomes an even value, it's another disadvantage. Overall not
+the best race, but not the worst either.
+
+- PUMPKINHEAD GOLEMS also had the 250 average stats that Skeletons got. 
+Pumpkinheads have average STR, INT & MIND, high DEX and low VIT. Snapping 
+from a Pumpkinhead is a lesser alternative. Besides story battles, you can 
+only find them in Palace of the Dead floor 10, and they are the only unit 
+that can be snapped into a Cursed Instrument, because only Songstress can 
+equip it.
+
+- IMPS/GREMLINS had very high DEX, high AVD and RES, average STR, low MIND 
+and very low VIT. Their stats also added up to about 250. Since they fill
+the same role as Fairies, I suspect Fairies are the same. This also explains
+why they are so fragile.
+
+- GHOSTS' stats are quite poor. Total stats added up to 232 average, which 
+is lousy compared to the 250 of Skeletons, and 260 of every living recruit. 
+But they do have considerably high VIT, INT and MIND. Such units might still
+be decent for snapping weapons that complement casters especially, although 
+they wouldn't do much physical damage. Remember that you can convert Ghosts 
+and Skeletons to Divine Knight quite easily, which can then be reclassed into
+human. So they can equip all cursed weapons, and snap into anything.
+
+--- Snapdragon usefulness
+I calculated the races' Snapdragon usefulness, by the following method:
+
+STRx2 [Strength is added to bonus stats, ATT & DEF bonus, and damage type]
++ VIT [bonus stats & DEF bonus]
++ DEX [bonus stats, damage type & ATT bonus]
++ INT [bonus stats & affinity]
++ MIND [bonus stats & affinity]
+= TOTAL 'usefulness'
+
+This isn't a foolproof method, because there are many factors to consider. 
+You wouldn't care as much about INT&MIND when snapping a Fist, for example.
+
+Results are averaged [number of recruits sampled].
+#1= Lizardmen: [4]:	214
+#2= Orc [8]: 		208
+#3= Lamia [3]: 		204
+#4= Regular Humans [6]:	202
+#5= Skeleton [7]: 	189
+#6= Pumpkinhead [4]: 	188
+#7= Imp/Gremlin [2]: 	181
+#8= Ghost [2]: 		170
+
+
+{7} CURSED WEAPONS & SNAPDRAGON
+-------------------------------
+
+--- The Snapdragon process
+Cursed weapons have 34 specific drop locations in the Palace of the Dead: 2 for
+each weapon type. These weapons appear completely useless when you get them,
+because they have no ATT value, or any other stat value for that matter. Their
+appeal is the Snapdragon ability that allows the weapon to trap a unit's life
+force into the weapon. The unit's stats then determine the bonuses that the
+weapon receives. This information reposted by Woofrikinhaw explains the process
+by which stats are calculated for the weapon:
+ATK = (Base STR + Base DEX) * 0.6
+DEF = (Base STR + Base VIT) * 0.6
+Added STR/VIT/DEX/AGIL/AVD/INT/MND/RES = 1/2 sacrificed unit's base stats
+Added HP/MP = 1/4 sacrificed unit's base HP/MP (capped at 50)
+RT = 1/2 sacrificed unit's current RT (rounded down)
+Damage type modifier (Crush, Slash or Pierce) = (Base STR + Base DEX) * 0.1
+Elemental affinity modifier = (Base INT + Base MND) * 0.1
+Racial bonus modifier = (Base VIT + Base AGI) * 0.1
+
+The actual damage type, elemental affinity and racial bonus are determined by
+the class of the sacrificed unit. Any class has a chance to produce any element,
+but certain classes are highly predisposed towards certain elements. Each weapon
+will have one damage type, elemental affinity and racial bonus. Classes with two
+or more damage types or racial bonuses will assign one of them at random.
+
+Warrior:
+Crushing, Slashing, Piercing
+Earth, Fire
+Human, Beast, Reptile
+
+Archer:
+Piercing
+Air, Lightning, Ice
+Human, Divine
+
+Wizard:
+Crushing, Slashing, Piercing
+Air, Earth, Lightning, Water, Fire, Ice, Divine, Dark
+Phantom, Golem
+
+Cleric:
+Crushing, Slashing
+Light
+Divine
+
+Rune Fencer/Valkyrie:
+Crushing, Slashing, Piercing
+Air, Earth, Lightning, Water, Fire, Ice, Divine, Dark
+Human, Divine, Faerie, Golem
+
+Knight:
+Slashing
+Air, Earth, Fire, Divine
+Human
+
+Terror Knight:
+Crushing, Slashing
+Air, Earth, Lightning, Dark
+Umbra
+
+Berserker:
+Crushing
+Lightning, Water
+Human, Beast
+
+Swordmaster:
+Slashing
+Air, Earth
+Human, Reptile
+
+Dragoon:
+Piercing
+Earth, Ice
+Dragon
+
+Ninja/Kunoichi:
+Crushing, Slashing
+Air, Lightning
+Human, Reptile
+
+Rogue:
+Slashing, Piercing
+Earth, Water
+Divine, Umbra, Fairy, Phantom, Golem
+
+Fusiler:
+Crushing, Piercing
+Fire, Divine
+Human, Dragon
+
+Beast Tamer:
+Crushing, Slashing, Piercing
+Air, Water
+Beast, Dragon
+
+Warlock/Witch:
+Crushing, Slashing, Piercing
+Earth, Dark
+Golem
+
+Necromancer:
+Crushing, Slashing, Piercing
+Dark
+Phantom
+
+Lich:
+Crushing, Slashing, Piercing
+Dark
+Umbra, Phantom
+
+Divine Knight:
+Slashing, Piercing
+Light
+Divine
+
+Vartan:
+Crushing
+Lightning
+Human
+
+Songstress:
+Crushing
+Air, Fire, Lightning, Light
+Beast, Dragon, Umbra, Phantom
+
+Hoplite:
+Crushing
+Ice
+Beast, Reptile
+
+Juggernaut:
+Slashing, Piercing
+Fire
+Reptile
+
+Matriach/Patriach:
+Crushing
+Water
+Beast, Reptile, Fairy
+
+Familiar:
+Crushing, Slashing, Piercing
+Ice, Lightning
+Fairy
+
+--- Maxed Cursed Weapons
+I have maxed cursed weapons with 50 to every stat, so I thought it might be nice
+to compare their damage to eachother, to see if any weapon types get advantages.
+I unequipped all skills and equipment on the units i used in this comparison. I
+brought along a target for each race I have acces to: Azelstan Human (H), an
+Orc/Umbra (U), a Lizardman (R) and a Pumpkinhead Golem (G). I also targeted
+Flame Dragons (D) and Griffon beasts (B) that spawned in Mount Weobry, but keep
+in mind that these have *variable* spawning stats. Also remember that they all
+have different classes and base stats, so the actual damage you will see
+actually says nothing about whether certain races take more damage or not. I
+personally suspect that there is no such weakness in existance, and only the
+stats matter for damage, not the race.
+
+Each cursed weapon has a racial affinity, which was also maxed at 20. The type
+is listed in parentheses below. All weapons were crushing damage type, with the
+exception of the Slashing cursed 2H katana.
+My lvl41 Lord was equipping most weapons, but I had to bring in Songstress Iuria
+and Ranger Vyce to test cursed Instrument and Fusil, respectively. Testing other
+equips in comparison, I could observe that Instrument and Fusil conformed to the
+damage picture of most other melee/ranged weapons.
+
+Denam's targeting results on the 6 above-mentioned targets:
+___________________________________________________________
+H 255 |U 227 |R 221 |G 232 |D 087 |B 160 =Fist(B)
+H 339 |U 310 |R 305 |G 339 |D 168 |B 220 =Dagger(G)
+H 285 |U 239 |R 233 |G 244 |D 102 |B 158 =1H sword(H)
+H 255 |U 240 |R 221 |G 232 |D 086 |B 142 =2H sword(U)
+H 255 |U 227 |R 221 |G 232 |D 088 |B 159 =Axe(B)
+H 255 |U 227 |R 221 |G 246 |D 089 |B 144 =Spear(G)
+H 255 |U 227 |R 221 |G 232 |D 088 |B 168 =Hammer(B)
+H 339 |U 310 |R 327 |G 315 |D 164 |B 227 =1H katana(R)
+H 255 |U 227 |R 234 |G 232 |D 087 |B 140 =2H katana(R, slashing)
+H 255 |U 227 |R 241 |G 246 |D 088 |B 145 =Cudgel(G)
+H 255 |U 227 |R 221 |G 232 |D 088 |B 160 =Whip(B)
+H 255 |U 227 |R 221 |G 246 |D 088 |B ??? =Spellbook(G)
+H 255 |U 227 |R 221 |G 232 |D 088 |B 165 =Instrument(B)
+H 312 |U 283 |R 298 |G 288 |D 145 |B 197 =Blowgun(R)
+H 312 |U 283 |R 298 |G 288 |D 142 |B 194 =Bow(R)
+H 312 |U 283 |R 278 |G 288 |D 167 |B 194 =Crossbow(D)
+H 312 |U 283 |R 278 |G 288 |D 167 |B 194 =Fusil(D)
+Instrument and Fusil numbers were extrapolated from comparing Songstress and
+Ranger damage output of these and other equippable weapons, to project what my
+Lord would have had as targeting results, if they could equip them.
+
+The conclusions I have drawn from these observations:
+1) Dagger and Katana both get the same very high damage boost to their attacks,
+   which results in roughly +80dmg for my weapons.
+2) All ranged weapons also get the same high damage boost to their attacks,
+   which results in roughly +60dmg for my weapons.
+3) Swords (1H) gets a slight damage boost to its attacks, which results in
+   roughly +12dmg for my weapon.
+4) There is no percievable difference in damage against monsters for slashing
+   and crushing damage, and I respawned multiple battles with the slashing 2H
+   katana to confirm this. I later tested piercing damage with a piercing 1H
+   sword, and confirmed there was no difference in damage against monsters.
+5) The maximum of 20 racial affinity resulted in a very minor boost to damage;
+   13-24HP depending on enemy toughness.
+6) And finally, I tried zombifying my targets on the spot, to see if they would
+   have any weakness against Light-elemental cursed weapons afterwards. They do
+   not, and I later confirmed that Light-elemental cursed weapons give no innate
+   bonus damage to Skeletons or Ghosts either. The damage boost must be coded in
+   each existing Light-elemental (& Baldur) weapon individually. Cursed weapons
+   miss out on this bonus, but that's no reason to avoid creating Light-element
+   weapons if it suits your purposes.
+
+--- Recommended snaps
+Snapping a weapon from a fresh generic recruit with low base stats will result
+in an equally weak weapon. Its ATTACK value will be below the threshold needed
+to hurt monsters (~70-90ATT), and it will likely do only 1 damage against tough
+humanoids as well. Its main uses would be as a defensive & caster weapon, giving
+a substantial boost to VIT, AVD & RES, as well as the caster stats INT & MIND.
+They are further of great use in A.I. training, because they offer weak attack
+but high defensive boosts. Read my Skill Improvement FAQ for details. In the end
+weak cursed weapons become undesirable, so I'd advise destroying your old cursed
+weapons when you have no further use for them, and returning to the Palace of
+the Dead to get a new series for stronger snaps with high-base-stats generics.
+Remember that any equipment worn by the generic when it was snapped will add to
+the slowness of the cursed weapon's attacks, though it remains weightless. The
+Crest of Fire has a -10 weight value, though, so euipping this during snapping
+will shave 5RT off the resulting weapon's attacks. The Crest of Fire is returned
+to inventory afterwards.
+Cursed Weapons have NO Augments, so it will not boost elemental damage of magic,
+
+finishers or any other special attack. However, it still seems best to snap a
+cursed weapon with the same element as any other attacks your unit employs. For
+this reason, I've compiled a list of recommended snaps, with explanations of the
+synergy it offers a unit.
+FIST: Primarily physical classes use Fists, and I feel that the best synergy is
+  with Fire element, to combine with the srong rank 2 finisher. A Warrior can be
+  used to snap it, and I give the weapon to Canopus as Vartan or Buccaneer.
+DAGGER: Although there is a decent Air element finisher, and this goes well with
+  the Rogue's Sparagmos ability, I personally end up giving the cursed dagger to
+  a mage class, because of the limited weapon options for mages. A Warlock/Witch
+  can be used to snap the weapon, and I prefer Dark element for its versatility.
+SWORD (1H): There are many knight-type classes with healing and other uses for
+  Light element, but there are only 3 unique Light-elemental 1-handed swords for
+  them to use. I snap this element from a RF/Valkyrie.
+SWORD (2H): The 2-handed sword weapon type is best put to use by Terror Knights,
+  however they have enough skill slots to squeeze in a 2nd element. I believe
+  that a  Lightning weapon offers the best synergy with 2 finishers, but I still
+  give it to my Terror Knight, which is the class needed to snap it as well.
+AXE: Axe is a poor weapon type, so you may opt to forgo the effort of training a
+  generic for this. Personally I chose Earth element for mine (Warrior snap),
+  but there is also a decent Ice finisher.
+SPEAR: The rank 6 Giga Tempest is an impressive Lightning finisher, but you may
+  end up regretting a Lightning spear. The best classes to use Spears also make
+  good use of Divine Magic, so a Light-element cursed spear is in fact the best
+  choice. It is snapped from a RF/Valkyrie.
+HAMMER: The rank 6 Fire-elemental Crimson Reach is as impressive as Giga Tempest
+  is for Spears, but there is no other consideration this time. Hammers are very
+  widely equippable among different classes. You can snap Fire element from a
+  Warrior, and I like using it on a Berserker or Paladin (room for 2nd Augment).
+KATANA (1H): This Katana can only be snapped from a Ninja, and the best element
+  it can become is Lightning, due to a finisher.
+KATANA (2H): This Katana can only be snapped from a Swordmaster, but there are
+  no elements the snaps and finishers share. I chose Earth, but there is little
+  difference. It's a weapon type you may choose to forgo, if you find training
+  generics for snapping to be tedious.
+CUDGEL: There is only 1 element good for Cudgels, and that is Light. Finishers
+  all have the same element. You can snap it from a Cleric, and whether or not
+  you actually attack with the Cudgel makes little difference: Without Augments,
+  the only purpose of a cursed weapon's element is for attacking anyway; you're
+  always better off with a Light Cursed Cudgel.
+WHIP: I chose Water element for synergy with the 1st finisher. People often
+  choose Ice or Fire to complement Ozma or Deneb, but their elements are easily
+  altered. Light may be a possibility for Princess Catiua, but there already are
+  Light-elemental Whips, and she has better weapon options. Casters don't have
+  many weapon options, so I made my Deneb into a Water Wicce for synergy. Water
+  element can be snapped from Beast Tamer.
+SPELLBOOK: This became an unexpected dilemma when I was deciding who to allocate
+  which mage weapon to. Shaman was the best recipient for the Spellbook, but she
+  is barred from using Dark Magic, so she has no synergy with the universal Dark
+  element. If you also plan to give your Shaman the Cursed Spellbook, Earth is
+  your best option. Either way, you can snap it from a Warlock/Witch.
+INSTRUMENT: You need a Pumpkinhead to snap this, because that's the only race to
+  allow generic Songstresses (use classmark), the only class that can even equip
+  the weapon. Air is the best element, and you'll find the rank 4 finisher quite
+  impressive. Though due to its class limitation, this is a low priority weapon.
+BLOWGUN: Although Light element would be best to equip on a Familiar with Divine
+  Magic, there is no way to snap this element. I used a Ninja to snap Lightning
+  element instead, which coincides with the strongest finisher.
+BOW: I chose to snap a Ninja for the bow to gain Lightning element. Not only is
+  Lightning the strongest Bow finisher, but the best regular Lightning Bow only
+  has a range of 7, making the Cursed Weapon's range 8 an improvement. Thunder
+  Maiden Arycelle would be the traditional recipient, though I'd use a Ninja
+  instead of an Archer: More movement range, and there is no need for Archer's
+  damage boosting skills once you equip a maxed cursed weapon.
+CROSSBOW: The best element for Crossbow is Fire, for the powerful Brimstone Hail
+  finisher. You need to use a Fusilier to snap this element. Great for a Rogue,
+  Dragoon, Vartan or Archer.
+FUSIL: With no option to create an Air elemental Cursed Fusil, the best element
+  for Crossbow is Light for the powerful Attunement finisher. Good for a Ranger.
+
+
+{8} ENEMY EQUIPMENT
+-------------------
+
+--- What to expect
+Equipment selection in stores updates very slowly. It is not sufficient to
+rely on the selection available there, as you will soon find lucky drops from
+enemies to be far better. There are ways to secure a good selection of up-to-
+date weapons and armour for your allies, and I will discuss them here. First
+of all, I should explain what to expect about enemy levels:
+
+In random battles, enemy units will scale to the level of your highest ally.
+In story battles, enemies are at a fixed level on your first playthrough, but
+will begin to scale to your highest ally once you are 10 levels above that
+fixed level. Once you have finished the main game (after Hanging Gardens),
+World mode is unlocked, and replaying previous story battles (even in new
+paths) will cause enemies to scale to your allies now. The San Bronsa ruins
+adds levels to enemies once you have progressed through the ruins. After San
+Bronsa, enemies will forever be 1-2 levels above your highest ally. This is
+usually a good thing, since the XP bonus will increase.
+
+Enemies come equipped with a selection of weapons based on their level. It
+doesn't have to be the best item they can equip, but it will never be above
+what they are able to equip, nor will you find level 30 enemies with much
+level 1 equipment. There is usually a variety of 2-4 possible weapons that
+they might have. So, a level 30 enemy with Hammers skill may have Yggdrasil
+Gnarl (lvl28), Dragon Hammer (lvl25) or Damasc Hammer (lvl22), but it will
+not come equipped with a Halt Hammer (lvl 1) anymore.
+Generally speaking, equipment will appear within a certain level range.
+Exceptions to this level range are the Buckler shield, which high level mages
+still use often. Baldur Bows and Crossbows also continue to drop at high
+levels, because the selection of 1-handed ranged weaponry is so limited.
+
+The equipment selections follow a broad pattern, that starts with the 'BASIC'
+versions, and almost all of these are equipped on enemies of certain levels,
+and it is advisable to get hold of these items from drops or battlefield
+recruitment. They can often be purchased or crafted, but this is usually a
+waste of money and crafting components when you can get hold of the items
+from enemies.
+Almost all 'basic' equipment has an 'UPGRADED' version, which never drops in
+battle. These upgrades are a significant improvement over the basic versions,
+so it is worthwhile to get hold of the crafting recipes for these.
+And finally, there are ELEMENTAL weapons which come into play later on. They
+are the most powerful weapons and armours, and only some of them follow the
+'basic' & 'upgraded' pattern mentioned before. Sometimes the upgraded weapon
+is not of the same element as its basic version. Some basic elemental weapons
+are equipped by enemies, but the most powerful gear only has one specific
+drop location, and aren't actually equipped by the enemy who drops them. Many
+of the most powerful stuff is also unique; you can only have one of the item.
+MOBILITY rings and footwear come into play later on, and movement advantages
+far outweigh any damage bonuses later on, when your units are much stronger.
+
+--- What can drop?
+Of course, enemies can drop tarot cards, consumables, goth, and any number of
+miscellaneous items they did not have equipped. But drop tables are complex
+and beyond the scope of what this subchapter is intended to convey. Here I'm
+focusing on gear that enemies have EQUIPPED, so you can either kill or reruit
+them to get hold of said gear.
+Here is a list of the most powerful items that enemies drop, for each item
+type. Remember that you won't find any 'upgraded' items, even if they are less
+powerful than the items that do drop.
+Fists: Hellhound Claws
+Daggers: Marauder Knife
+1H Swords: Kukri (Walloon Sword is rare; appears within a narrow level range)
+2H Swords: Rhompaia (also rare)
+Axes: Dragon Axe
+Spears: Culnrikolnne
+Hammers: Yggdrasil Gnarl
+1H Katana: Ghostblade (Muso Blade is rare)
+2H Katana: Oakblade
+Cudgels: Staff of Restoration & Wands of [element]
+Whips: Holy Comet
+Spellbooks: Biblion [race]
+Instruments: Cavaquinho (not equipped, but many San Bronsa enemies drop it)
+Blowguns: Damasc Blowgun
+Bows: Thunder Bow (Crescente missable, see Useful Info)
+Crossbows: Keening Bowgun
+Fusils: Musket
+Shields: Rozenzi Shield
+Helms: Holy Crown (never Wyrmscale Helm)
+Armours: Wyrmscale Armor
+Armguards: Wyrmscale Sleeves
+Legguards: Damasc Leggings (never Arkhiatros or Mage Trousers)
+Rings of [stat]: All except Rings of Intellect or Fortune
+Other jewelry: No random drops
+
+--- Equipment tips:
+To give some tips as to which items are most worth equipping, I'll say this:
+DAGGERS and 1H KATANAS have a very high damage bonus to their weapon types.
+However, Daggers in particular have a low base ATT value. Monsters become
+impossible to beat when your weapon ATT is too low.
+1H SWORDS are a decent starting melee weapon, because they have a double-hit
+finisher at rank 2 already, as well as a slight damage bonus.
+HAMMERS are very good against monsters, because their high ATT values easily
+overcome the monsters' defense threshold. Many classes can use them.
+CUDGELS are the best weapon for mages, and all their finishers are Light
+elemental. Clerics and other Divine casters can attack best with them.
+BLOWGUNS are handy for inflicting status effects on opponents, like Charm or
+Petrify. But they do little damage because of their low ATT.
+BOWS are the most overpowered weapons in the early game. Keep your Bows up-
+to-date and you will easily win most battles. They can lob arrows in an arc,
+avoiding many obstacles in city maps.
+CROSSBOWS will start to outperform Bows once you enter dungeons, and need to
+shoot uphill. THey have a devastating area-effect finisher at rank 2, which
+is probably the best finisher in the game.
+CURSED WEAPONS can be snapped from untrained allies, but they will have weak
+attack. They are still useful for casting and defensive stat bonuses, and
+may facilitate skill imprvement sessions in A.I. (See the Skill Improvement
+FAQ). If you can train a generic ally to have high STR & DEX, the resulting
+Cursed Weapon will become immensely powerful. See the About Units chapter
+for more details. For further details on how weaponry and finishers work in
+general, read the About Weapons chapter in my Skill FAQ.
+BRONZE HELM +1 is a lifesaver in the early game. Your improvement in defense
+and offense will be noticeable. It has a nice bonus to STR and a bunch of
+innate racial defenses against all races. It takes a while before equipment
+will appear that is clearly better than Bronze Helm +1.
+WIZARD'S HAT +1 can be crafted by the mid game, and this item has so many
+advantages that it will continue to outstrip all other pieces of armour.
+Craft many ofthese upgraded hats for the success of your casters. No other
+defensive item offers such a high INT boost, and INT is very important.
+BRIGANDINE +1 has a high DEX bonus that improves attack accuracy when mid
+game players still have problems hitting enemies.
+Most WYRMSCALE gear drops frequently at high level, and equipping 3 pieces
+will give a unit a handy Dragonslayer TP skill in combat.
+MOBILITY footwear (Winged Boots, Sidhe Shoes, Sparkguard Boots and Cloud
+Shoes) is extremely useful in the late game, so they are worth getting hold
+of multiple times. Rings can do the same, but the jewelry slot is usually
+reserved for Chokers.
+CHOKER necklaces add a huge elemental damage component to a spell or weapon
+of their element on top of their Augment +1, making them the best non-unique
+damage booster in the game. Here's some testing done on them by Flaresky:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/67753410
+RING OF FORTUNE +1 offers a substantial bonus to luck which won't fade. Even
+though most units are better off with a Choker, this ring may be worth using
+on a monster. Especially a Gryphon, which gets no benefit from a Winged Ring.
+
+
+{9} USEFUL INFO & CREDITS
+-------------------------
+
+--- Rare item drops
+Loot spreadsheets for Palace of the Dead, San Bronsa and Pirate's Graveyard:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59010574
+Those loot spreadsheets handle over 90% of what you need to know, but let me 
+add what I learned. Some items are hard to come by, and you may not know of 
+their existence yet.
+
+Elixirs: All Octopi in Phorampa Wildwood. Thanks go to Maltherion for 
+confirming that they all drop it.
+
+Snipe Gators: Unique boots. Chaotic Rogue Gremlin, Neimrahava Wood non-story 
+battle. Thanks go to beatumdown for this (re)find.
+
+Fusilier Classmarks: Fair weather, The Leupha Coast, Fusiliers at (5, 24) & 
+(7, 24). Thanks go to grift3r74 for this find. Recruiting Lindl also gives 3.
+
+Dark Priest classmark: 8th, 12th & 18th floors of Hanging Gardens, all drop 
+from Cleric Templars. World mode has a shortcut from 1st to 18th floor.
+
+Necromancer classmarks: Drop from 2 Necromancers in floor 18 of Palace of the
+Dead, but only if you have recruited Cressida (who also brings 3 classmarks
+upon recruitment) in Warren Report. If you go to another route (law/neutral)
+the Necromancers in PotD floor 18 will no longer drop classmarks.
+
+Buccaneer classmarks: Only drop if you have Azelstan in Warren Report, alive,
+AND present during the battle. 1 mark can be gained in the Pirate's Graveyard
+treasure, an Imp rogue in Neimrahava woods can drop it (drops rogue marks 
+without Azelstan), and 3 Skeleton Archers in the *Non-story* battle of On
+Holy Ground will drop 3 each.
+
+Tier II ninjutsu scrolls: All but 1 are found deep in Palace of the Dead. 
+Many also drop in pre-shrine fortress battles. Waveshear II ONLY drops in 
+the Quadriga pre-shrine fortress battle. It drops from a Kunoichi.
+
+Tier II Apocrypha: If you faced all the guardians in story battles before 
+hitting level 35, only tier I dropped. After level 35, recipe drops are not 
+guaranteed, but tier II Apocrypha also become a possibility. I recommend 
+saving, reloading and charioting the killing blow until you get it all. Only 
+the LAST story guardian you defeat will drop 3 (sometimes 6) Shaman classmarks.
+Non-story guardians are very different, and won't drop Apocrypha OR recipes at 
+all. Guardians in non-story revisits are not designated targets, and are not 
+guaranteed to spawn anymore. They have a chance to drop a Shaman classmark. 
+Non-story item drops :
+Water- Tlaloc's Bolt (unique spear)
+Fire - Fire Gauntlets and Fire Shield
+Lightning - Xolotl's Canine (dagger), Wyrm Whisker
+Ice - Hoarfrost Greaves (boots), Enchanted Feather
+Air - Vainateya's Talons (unique fist), Enchanted Feather
+Earth - Nathalork's Mail, Orichalcum
+Despite numerous tries, I was never able to get both a crafting component and
+an item in the same drop, but classmarks dropped frequently with the rest.
+
+Dark Knight Commanders' Loot: The best place to get these is during CODA 4. 
+Read Elyon's CODA guide for details. Ozma can in fact drop 2 unique whips.
+
+The Alluring items are special drops, only accessible in world. They are not 
+equipped, but the female only Dress and Highboots will drop from Gousin 
+during the story battle at the Golborza Plains, but only when you replay 
+this battle in world, not during the first run of the game. Catiua must be 
+present, and answer Gousin's question with the 2nd dialogue option. Similarly,
+the male-only Corset and Boots drop when Oz dies in Phidoch Great Hall chapter
+3, but only when you replay in world. They won't drop in the CODA 4 battle.
+
+The Abyss I & II scrolls can be found in Palace of the Dead, but are easily 
+missed. Abyss I drops in the pre-Fortress battle with the Lich, Water Shrine.
+One of the Ghost Witches has it, but only when replaying in world. Abyss II 
+can be found in world in a special battle against Xapan in Golyat: You need to
+have rescued him before, and refused to recruit him. The battle is only 
+available in lawful path. The Witch present in the battle drops it.
+
+--- Missables
+Only titles are considered missable in this game, but there are also 3 items 
+that will no longer drop once your party is beyond a certain level. Since 
+Denam must be present in STORY battles, you can't just recruit a bunch of 
+low level monster classes you neglected, to pick these up later. If Denam 
+has no more low level classes available to him, then you missed your chance.
+-Crescente bow: Numerous random & story Archers between levels 24 and 26.
+Sharp and Cold the Stars, Hanging Gardens. Disappears after level 34.
+After getting one, I saw some in Wonder at the Gods Above, Phorampa Wildwood.
+-Treatise on Seduction: Demonpetal Dance for Swordmaster. Chapter 4 Barnicia 
+Grand Staircase, from Neutral Swordmaster Templar. Disappears at level 26.
+Enraptured Dreams, Hanging Gardens. Disappears after level 34.
+-Scroll of the Cicada: Decoy for Ninja. Hagia Banhamuba (vs. Sherri). Drops 
+from one of the male Ninjas - the one with lower loyalty up to level 26.
+Chapter 4 Heim Courtyard. Drops from male Ninja next to wizard <lvl27.
+Ebon Stair, Hanging Gardens. Drops from Kunoichi Templar. Disappears @lvl35.
+Thanks go to BM Sirius for quoting the strategy guide, and ronin7997 for
+dispelling rumours that the Hanging Gardens drops stop appearing after lvl26.
+- Wicce class: This seems to have been overlooked. Many people think it's OK
+to just recruit Deneb as a Witch, because getting 30 Glass Pumpkins is a lot 
+of work after having recruited 27 dragons already. But this is one thing that
+cannot be remedied by traveling back in world, because Deneb will no longer
+appear in her shop after she is recruited in your roster. Even when traveling
+back in world mode, Punkin will be running her store. You'd need to remove
+Deneb from your roster to reactivate her quest. An unappealing prospect if you
+invested a lot of time into your Deneb unit.
+
+--- Rare steals
+-Classmarks for Knight Commamder: can be stolen from Zombie Templars during 
+rain at the Reisan Way. You need to have Ozma already.
+-Priest classmarks: Stolen from clerics on the 1st map of Phorampa Wldwood, 
+Adventurer's Gap.
+-Reaver: Stolen from Grim Reaper in Scenic Knoll (Phorampa Wildwood). Requires 
+rank 3 Steal, and item gives +2 Steal. The ring is not unique, so you can get
+more than 1 of them. Since it can cast Boon of Swiftness three times in battle,
+and has Stopproof effect, it is very useful on any class. Getting rank 3 Steal
+is a very tedious & difficult task. Here are some tips on how I did it:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/64869191
+
+--- All about weapons
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/66109724/
+743212391
+Damage comparison with maxed cursed weapons, weapon inventory summary, list
+of finishers, skill comparisons, and much, much more.
+
+--- About Fortify, Strengthen & Spellcraft
+Rumours that Fortify is useless were based on the fact that it only helps if
+you have a *very* low defense, which is only true in the early chapters.
+There are also cases where Strengthen and Spellcraft become useless, but
+this happens much less quickly.
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/66623108
+
+--- Credits
+GAMEFAQS for hosting this and many other useful guides, as well as the forum.
+
+All the frequent visitors to the forum on GAMEFAQS, who offer unique 
+insights, inspiration for ideas, as well as new discoveries. I'd name names, 
+but there are lots and I'm too afraid of forgetting a name and offending 
+someone...
+
+Woofrikinhaw for cursed weapon info
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59045605
+You'll need this to find out which class you need for a certain element.
+
+Humble_Novice & BlueMage279 for scavenging info
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/58370371
+/688396854
+
+Col_mobius for loot spreadsheets, helpful for charioting rare item drops:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59010574
+Google spreadsheets can't be accessed from certain countries. Like China, 
+where I live now. If you have this problem, consider using a proxy program.
+
+Cyril(=Elyon) for the helpful CODA guide:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/63915
+Read this to learn more about Heavenly Generals and their special weapons.
+
+Maltherion for the Crafting Guide:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/62110
+
+Check out my Skill FAQ, to shed light on all the class & level requirements:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/66864
+
+Basic to advanced instruction on the intricacies of Scavenging & Recruitment:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/67152
+
+Special thanks to sEmesextrEm for posting helpful links, as well as providing
+support during hostile discussions.
+And a big shout out to all you trolls out there! I have mixed feelings when
+I need to defend myself on the boards. Any news is good news, as the saying
+goes. By attacking my credibility, you add to my exposure. There's no better
+way to get to know an author than when he's responding to personal attacks.
+
+Thanks for reading, everyone. I hope it's of some use to people for
+scavenging, and advanced planning for skills.
+
+
+{10} VERSION INFORMATION
+------------------------
+
+Version 1.0 adapts the chapters Advanced Scavenging & About Units from the
+	Skill FAQ for use in this FAQ.
+Version 1.1 adds some corrections, relevant links to threads, and some special
+	targets for scavenging rare skills.
+Version 2.0 adds the Enemy Equipment chapter to this guide, and due to the 
+	expanded scope, the name has been changed from "Skill Scavenging FAQ"
+	to "Scavenging / Recruitment FAQ". The subchapter "Ranked Skills from
+	Allies" was also added for completeness. Sightings of enemies with
+	ranked skills were added to the subchapter Ranked skills from
+	opponents. Advanced Scavenging & About Units chapters were removed from
+	the Skill FAQ, so this is now the only FAQ with those chapters. Numerous
+	subchapters were formed for a better overview of info, and a new chapter
+	was created for Cursed Weapon information.
+Version 2.1 is a very minor update.
+

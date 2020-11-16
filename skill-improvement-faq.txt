@@ -1,0 +1,1393 @@
+# https://gamefaqs.gamespot.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/66864
+
+@----------------------------------------------------------------------------@
+!		    Tactics Ogre: Let Us Cling Together (PSP)		     !
+!									     !
+!			   SKILL IMPROVEMENT FAQ			     !
+!									     !
+!			       by coineineagh				     !
+!			        version 2.6				     !
+@----------------------------------------------------------------------------@
+
+
+Table Of Contents:
+
+
+1.	INTRODUCTION
+
+2.	EARLY-GAME ADVICE
+	- Storing your Skill Points is a mistake
+	- Saving money early on is a mistake
+	- Switching weapon types frequently is a mistake
+	- Postponing your crafting upgrades is a mistake
+	- Not switching Denam's class is a mistake
+	- Using just one class is a mistake. Using one of every class is a
+	  mistake.
+	- Not using any new classes is a mistake
+	- Not using any new unique units is a mistake
+
+3.	THE ORIGINAL GOLBORZA PLAINS SETUP
+	- The Setup
+
+4.	RANKED SKILLS
+        - What types of skills can you level up?
+        - And what types of skills CAN'T be leveled up in AI?
+
+5.	REQUIREMENTS CHECKLIST
+	A) Classmarks
+	B) Healing scrolls
+	C) Cursed weapons (reccommended)
+	D) Mid-level Warrior class (reccommended)
+	E) Healing class
+	F) Exit method
+	G) Skill setup
+
+6.	STEP-BY-STEP WALKTHROUGH
+	- Inventory preparation
+	- Readying the units
+	- Commencing battle
+	- A.I. stage
+	- Finishing up
+
+7.	XEOD MOORS METHOD
+	- General description
+	- Requirements
+	- Xeod Moors walkthrough
+	- Pros & Cons
+
+8.	SKILL IMPROVEMENT VARIATIONS
+	- 3 Augments (untested)
+	- Deflect
+	- Overpower (untested)
+	- Herpetology (untested)
+	- Drain Heart & Meditate (untested)
+	- No combat
+	- No enemy attacks
+
+9.	MY "PERFECT" ROSTER
+
+10.	USEFUL INFO & CREDITS
+	- Scavenging skills
+	- Rare item drops
+	- Missables
+	- Rare steals
+	- All about weapons
+	- About Fortify, Strengthen & Spellcraft
+	- Credits
+
+11.	VERSION INFORMATION
+
+
+___________________________________________________________________________
+LEGAL TERMS & DISCLAIMERS
+
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any website or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+website or as a part of any public display is strictly prohibited, and a
+violation of copyright. This document may not be bought or sold, or used in
+any way for profitable gain.
+
+This FAQ is authorized to be hosted on the following websites:
+
+www.gamefaqs.com
+www.gamespot.com
+www.neoseeker.com
+
+This guide is copyright 2012 by Thomas de Jong, e.g. coineineagh.
+All trademarks and copyrights contained in this document are owned by 
+their respective trademark and copyright holders.
+___________________________________________________________________________
+
+
+				<3 <3 <3 
+Dedicated to my wife Suby, my son Owen, and my bouncy baby boy Andy!
+				<3 <3 <3
+
+
+{1} INTRODUCTION
+----------------
+
+It may be unclear to some readers as to what exactly constitutes "Skill
+Improvement" in the context of the game. It can be broadly interpreted as
+the skill of the player during gameplay, and in light of this very important
+aspect, chapter 2 will first provide some general strategic gameplay advice:
+Not a walkthrough, but rather some advice for the difficult first chapters,
+to help create clarity amidst all the new and confusing aspects of the game.
+
+I wrote this guide to convey the method I used for leveling up many ranked 
+skills. Be advised that some of the preferred equipment for my method is 
+hard to acquire, so it is harder to set up during early and mid-game. This 
+should be used for late game flexibility. In the early game, it's more 
+important to apply non-ranked skills (skills that don't level up). Ranked 
+skills can take a very long time to level up, and by the end of the game, 
+you will only have 2 or 3 well-ranked weapon skills, one strong elemental 
+augment, and anatomy at half strength. This is very limiting to your class 
+and equipment options. That's why I devised this method to allow for more 
+flexibility. Thanks should go to Meeghoi, who posted a topic with a lot of 
+useful starting information. It's his basic idea; I just expanded on it, 
+and did some polishing with regard to the details.
+
+For mid-game skill improvement, apply methods from chapter Xeod Moors Method.
+It is recomended for first training sessions, is easier to prepare, but has 
+a few drawbacks. Other methods have since been devised, but these also need
+late-game equipment and skills. This FAQ was originally written to explain
+the Golborza Plains method, and while this method is still very useful to
+late game players such as myself, Xeod Moors offers very easy improvement due
+to its low requirements, simple setup, and few variables. Since rewriting this
+FAQ to first describe Xeod Moors is too complicated, all I can advise readers,
+is to get aquainted with the preparations and thought-processes I describe in
+Golborza, so you better understand what needs to be prepared for Xeod Moors.
+
+
+{2} EARLY-GAME ADVICE
+---------------------
+
+As mentioned, making use of tiered skills is of more importance to you in the
+challenging early game. It's easy to make a wrong choice, which will worsen
+your predicament when you face challenges. Below are a number of easy-to-make
+strategic faux-pas for you to avoid.
+
+- Storing your Skill Points is a mistake
+It's what I did the first time around. I could have had useful skills to help
+me out, but the vast amount of skills confused me, and made me hesitate. Let
+me alleviate the worries by listing your main *early-game* priorities:
+Weapon skill corresponding to your weapon of course. Casters may skip this.
+Counterattack and Strengthen for physical attackers. Fortify I should help
+out for now, and is cheaper than Constitution, which is the second defensive
+skill, and the one that will continue to be effective. Classes have TP-using
+skills of varying usefulness. Depending on their importance, you should get
+some of them sooner or later. Anatomy comes last, because at rank 1 it gives
+a minor boost. Augments are only relevant for casters right now, but they
+should be able to get it quickly due to the few other skills they need.
+Oh, and I almost forgot about Field Alchemy. Consumables are patchworks for
+your mistakes, but you may have need of them, and the more powerful ones
+require this skill to be able to use them.
+
+- Saving money early on is a mistake
+You are given Goth to purchase equipment, so you should do so. There will be
+moments when you want to buy more things than you have the Goth for, but at
+no point in the game is it more vital to be well equipped than at the start.
+Pay extra attention to weapons. Get Great Bows for your Archers, not Short
+Bows. Also stock up on some consumables and scrolls. Get half a dozen Heal
+and Exorcise scrolls for your Knights and Clerics. Don't buy scrolls your
+classes can't use, but you can get scrolls that are higher level than the
+class is, in anticipation. Don't be cheap: You should be able to buy the
+best gear shops have to offer without depleting your purse for a long time,
+provided you make wise purchases.
+
+- Switching weapon types frequently is a mistake
+The earlier you switch to another weapon type, the better. But if you have a
+weapon skill that is (nearly) rank 2, you should honestly consider the wisdom
+of starting over with a new weapon type, as it will be some time before you
+gain access to a finisher. Canopus should really switch to Crossbows early on
+because Bows skill is of limited use to a Vartan (1-handed only). And if you
+are thinking of using Ninja class, definitely abandon Hammers for the new
+1-handed Katanas, as Double Attack allows Ninja to gain skill quickly, while
+the Caldia and Iron Fan (Hammers) will become weak very fast.
+
+- Postponing your crafting upgrades is a mistake
+"+1" gear is a lot more powerful than non-upgraded equipment, and you should
+make a concerted effort to upgrade most things your regular units use, if
+possible. I know the crafting screen is tedious, perhaps the worst aspect of
+the game. But if you can navigate its agonizing interface with success, your
+team will perform all the better for it. Some gear may be less important
+than others to upgrade, so you should use your own judgement. The Mage Staff
+requires rare drop components to upgrade, so avoid wasting rare components on
+this and other mediocre upgrades. Leather Armour +1 does offer a useful DEX
+boost, but unless you got very lucky with Beasthide drops, you won't be able
+to make a lot of these yet. Linen Slops +1 is nearly as good, and much easier
+to make. Bronze Helm +1 is considered a widely beneficial upgrade. Most
+importantly, your physical attackers should equip +1 weaponry to excel.
+
+- Not switching Denam's class is a mistake
+It may surprise you how many people keep Denam in his Warrior class early on,
+probably due to the same indecision that cause all the stockpiling of vital
+early-game resources. But which classes to switch into? Archer works, but I
+find it a waste not to utilize his sturdy stats on the frontline. It also
+leads to difficulties during duels, if Denam is pitted against strong melee
+opponent. I personally liked Knight, to train skills and protect the others
+with healing and Rampart Aura. Ninja is also an excellent choice when it
+becomes available. Rune Fencer is frequently chosen, though *early on* this
+class is too fragile to tank the frontline, and can't do much more than cast
+supporting magic until mid levels. Denam's stats are good enough to perform
+well at most tasks, with the possible exception of spell casting, since he
+usually starts with INT and MIND a bit on the low side.
+
+- Using just one class is a mistake. Using one of every class is a mistake.
+While we are reclassing Denam, you should consider others. It should be noted
+that having 2 or more units of the same class participate in battle will
+allocate more XP to that class after battle, causing it to level faster. So,
+it's advantageous to limit the number of classes you bring into battle. With
+units that are ALL different classes, leveling up may be slow. However, the
+availability of equipment will depend more on battlefield drops than shop
+purchases in the future, and you may find yourself wanting for gear that is
+level-appropriate. A balance is reccommended, which I believe is around 4
+classes per battle. The classes I chose were Archers (acknowledged as the
+most powerful starting class), Knights (versatile and sturdy frontliner),
+Clerics (exorcism & healing) and a Wizard (early on debuffs are effective).
+Vartan would often trade places with Cleric as needed in my attack roster.
+
+- Not using any new classes is a mistake
+The leveling system is the 2nd most problematic aspect of the game, receiving
+almost as much criticism as the crafting system. Classes are universal to all
+units, and start at level 1 when you first use them. Guests like Catiua and
+Vyce also count towards leveling classes. Once your regular classes are into
+double-digit levels, introducing a new class at level 1 is very unappealing:
+It has much lower stats than your high-level allies, and enemies can kill it
+off easily, forcing it to hide in the rear. But this situation lasts just a
+few battles, after which the new class has gained enough XP to be almost on
+par with the others. You don't have to use *every* new class; in fact you
+shouldn't because that would be a mistake, as mentioned above. But choose the
+ones that appeal to your needs. Don't avoid new classes purely because you
+dread the 'hassle' of leveling them up from scratch.
+
+- Not using any new unique units is a mistake
+This 'mistake' is debatable; you can complete the game with just your starting
+generics. But I added this to warn about some people's tendency to stick with
+their starting units devotedly, even missing out on sidequests that depend on
+dialogue from uniques in battle. You will also miss out on special classes
+that only these unique recruits can use. There are too many uniques to make
+room for in your main attack roster, but many of them are worth investing in.
+You can look up unit speed in my Scavenging/Recruitment FAQ under Uniques' RT.
+
+
+{3} THE ORIGINAL GOLBORZA PLAINS SETUP
+--------------------------------------
+
+There are a number of ways to speed up the leveling, but most of them require 
+a measure of hands-on management. Meeghoi first noticed that clerics on 
+Golborza Plain were ideally suited for creating an 'infinite battle'.
+Clerics have weak attack, but are good healers. They can never defeat units 
+with decent defenses and a source of healing. You can manipulate the A.I. by 
+rigging your units. A.I. will try to win the battle for you, but you must 
+prevent that. So, you must use weak weapons, remove all skills that raise 
+damage, and have a healer on hand to counter the cleric's melee. Of course, 
+there is the issue of other enemies on the map, which means you'll need a 
+unit strong enough to defeat them alone. That powerful unit becomes unwelcome 
+after the non-clerics are defeated, so it must leave the battlefield before
+the auto battle starts. If it is possible to have trainees be a much lower 
+level class than the powerful unit accompanying them, then this will also 
+help to make attacks against the clerics weaker, because the clerics will 
+have spawned around the level of the strong unit that exited. It seems simple 
+enough, but in practice it takes ages to setup. That's why I wrote this guide. 
+It's all about the damage picture, for making battle sustainable. Clerics have 
+only weak melee to attack, but can heal a lot of damage. So you must turn your 
+training team into something similar; weak attack with sufficient healing. By 
+activating melee AI, making your characters do low damage, and only battling 
+clerics, the battle is endless, and so is skill improvement. The only 
+limitations are your own skill in setting up the endless battle, and your own 
+ability to muster the patience to wait for skills to max out (some level 
+faster than others).
+
+--- The Setup
+The Golborza Plains are located between Almorica Castle and the Arkhaiopolis 
+of Rhime. It is one of the earliest maps available. As a result, the minimum 
+level of the opponents in a random encounter is set very low. The enemies also 
+have few skills equipped. The clerics who spawn at (1, 7)* and (5, 20)* only 
+have Divine Magic, Sidestep I and Anatomy equipped. The winged cleric who 
+spawns at (11, 2)* only has Divine Magic, Resistance I and Anatomy equipped. 
+It is important to note that the absence of Cudgels skill is a necessity, 
+since cudgel finishers become powerful in the end. The terrain is ideal for 
+mobility in A.I. The clerics can run, but your units will not be hampered by 
+obstacles or elevation.
+
+* The (x, y) notation refers to the Cartesian coordinates system used to 
+locate units on maps in the game. (0, 0) is the leftmost corner on map. The 
+X-coordinate is counted downwards, and the Y-coordinate is counted upwards & 
+to the right.
+
+
+{4} RANKED SKILLS
+-----------------
+
+Ranked skills start at level 1 when learned, and are maxed at level 8. The 
+type of skills that can be leveled using this method, are skills that are used 
+in A.I. mode. If the Artificial Intelligence doesn't apply the skill in battle, 
+it won't level. I'll list the viable skills that can benefit from auto battle 
+in A.I. mode.
+
+--- What types of skills can you level up?
+
+1) Augment Light: You can safely level this without using any light-based 
+action, because enemy clerics attack you. At sufficiently high level, the 
+clerics will have Staff of Restoration equipped, which is Light elemental. 
+The only reason not to equip this, is if Augment Darkness is more important, 
+since they can't be equipped together.
+
+2) Other Augment [element] skills: This is the most important type, in my 
+opinion. The later game becomes all about elements, so it will compel you to 
+stick with a certain element. Leveling more augments will give you much more 
+equipment options, and all kinds of flexibility.
+
+3) Anatomy: This is an important boost when fighting humans, the game's most 
+frequent opponents. Theoretically, you could level similar "-ology" skills 
+by equipping them on a generic recruit of that race.  Aurology on a Fairy, or
+Daemonology on an Orc, for example. But since this will only improve from 
+being damaged by the cleric, other '-ologies' will only improve slowly, and 
+if the clerics choose to target others in your group, it might be too slow.
+
+4) Cudgels skill: You can safely level this without equipping a cudgel, 
+because the clerics attack you with a cudgel. Taking damage from a cudgel 
+will boost your own weapon skill in Cudgels.
+
+5) Other weapon skills: Having skill in using a weapon makes all the 
+difference. Trying to level these is risky, though. Be warned that weapon 
+skills have powerful finishers, which may cause problems for the auto battle. 
+If you are equipping a cursed weapon that only does 1 damage per strike, you 
+can feel safe enough to equip weapon skills. If your base attack is higher, 
+your finisher damage is hard to estimate. They will also occur more often, 
+due to TP buildup.
+Finally, beware of finisher elements. If you have equipped an element that 
+the finisher uses, you may want to reconsider. Finisher damage with elemental 
+augment can become quite high, and the same applies for multi-hit finishers.
+Full info is found in the Skill FAQ chapter About Weapons. For easy reference:
+Fist: Fire, Dark
+Dagger: Air, x2
+1hsword: x2, Ice, Divine
+2hsword: Air, Lightning
+Spear: Lightning, range2-3 area2
+Axe: Ice, x2, Earth
+Hammer: Ice, Lightning, Fire range2-3 area2
+1hkatana: Thunder, x2, Divine
+2hkatana: Fire, Dark
+Cudgel: Divine, Divine x2, Divine x3
+Spellbook: Earth, Dark
+Whip: Water, Ice (Ozma only), x2
+Instrument: x2, Wind range0 area3, Water range0 area3
+Blowgun: Ice, Lightning, Divine
+Crossbow: Fire range3-5 area2, x3
+Bow: Lightning, Fire
+Fusil: Air x2, Divine
+
+6) Parry: This will slow things down considerably, as missed attacks don't 
+level the other skills. A dodged/sidestepped attack does improve weapon skill
+XP even on the target, but Parry or Deflect will only allow for half the 
+improvement of Weapon skill, Augment [element], Anatomy, etc. Be aware that
+this skill levels a lot slower than the rest, so if you are determined to max
+it, it may take days! There is an easy scavenge point for this skill, when you
+acquire Lanselot at the end of the game. That's also an option. The game
+mechanics first checks for successful block attempts before allowing for a
+Parry attempt. If your unit has high AVD stat, this may actually get in the
+way of Parry skill improvement. The only thing you can do about this, is not
+equip gear with high AVD. Enemies will consistently go for the unit with the
+lowest defense score, so it will receive most of the attacks. When bringing in
+a team of trainees, you will likely only see 1 or 2 level up their Parry
+skill, while the rest are neglected. Although you may think this also forms a
+problem for Augment Light and Cudgels skill, this is in fact less of a
+problem. Parry only improves if an attack was parried, but successful cleric
+attacks are another issue. Clerics will get opportunities to strike at the
+back of a unit, which will succeed more often than not. Parry also levels much
+much slower than Cudgels and Augment Light. Clerics successfully attack all of
+your units, so all will see their skills improve. Some skills faster than
+others, of course. Parry and Deflect will *only* be active if a melee weapon
+is equipped.
+
+7) Meditate: It should be possible to get the A.I. to use this, but I 
+haven't attempted it yet. You'd need slow MP regeneration, and a high usage 
+of MP. Try having the lowest damage spell available to the caster costing at 
+least 30MP. Making the unit faster by unequipping armour might also help in 
+this regard, because the unit will gain less MP before it gets its next turn.
+
+8) Other Skills: There are a huge variety of class-specific skills which I 
+haven't even tried out. Try to use your common sense, and imagine if they 
+would be activated in A.I. or not. It may be possible to improve ranked 
+skills like Lament of the Dead, Rapier Glance and Check, but you may find that
+Frightened, Bound or Shackled clerics die more easily as a result.
+
+
+--- And what types of skills CAN'T be leveled up in AI?
+
+9) Deflect: Enemy Clerics don't shoot or throw anything at you, so it's 
+impossible to improve this. Read chapter 9: Skill Improvement Variations for
+suggestions on how to improve this skill.
+
+10) Overpower: I haven't seen Overpower improve in Golborza, because Clerics
+do not have access to Deflect or Parry skill, so there is nothing to 
+Overpower. From other A.I. setups it seems to improve too slowly to possibly
+be viable. It might take weeks. The easiest route to quickly gain rank 4
+Parry and Overpower skills, is from Lanselot in CODA 4. In the chapter Skill
+Improvement Variations I wrote some suggestions for *possibly* improving 
+Overpower, but these would require a very involved set up. Finding a target
+with access to a Deflect or Parry skill to defend against your attacks is key.
+
+11) Resist Silence: It improves from enemy clerics' Silence attempts, but it 
+suffers from the same slowness issues as Overpower. Hardly worth the trouble.
+
+12) Steal: A.I. doesn't use steal, so I can't let it be done automatically. 
+Steal must be leveled up manually. It can't be scavenged because no enemies
+have it equipped. Here's the best way to do it, as well as the best item you
+can get from stealing:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/64869191
+
+13) Recruitment skills: The A.I. will not attempt to recruit opponents under 
+any circumstances.
+
+
+{5} REQUIREMENTS CHECKLIST
+--------------------------
+
+Besides essentials, this also lists non-essential things which speed up or 
+enhance the process somehow.
+
+A) Classmarks: You will need to reclass units so they can equip the elemental 
+weapon you choose for them. Also try to choose a low level class that will 
+deal less damage.
+
+B) Healing scrolls: Divine healing spells are suitable, and the Water Magic 
+Quench spell is a viable alternative too.
+
+C) Cursed weapons: These drop in a variety of locations in Palace of the 
+dead. Each weapon type has 2 drop locations. PotD Cursed Weapon Locations:
+See also: PotD Loot Spreadsheet
+Floor 51: Bow -- Blood Hunter (Male, Chaotic, Elevation 5) (4, 6)
+Floor 54: Blowgun -- Dark Stalker (Female, Chaotic, Elev 10) (16, 3)
+Floor 56: Spear -- Blood Gavial (Chaotic, Elev 4) (5, 4) / 
+	Instrument -- Boogie Man (Chaotic, Elev 4) (18, 4)
+Floor 58: Sword (2H) -- Crimson Uhlan (Male, Chaotic, Elev 10) (5, 4)
+Floor 59: Sword (1H) -- Rune Fencer (Winged, Chaotic, Elev 12) (11, 0)
+Floor 60: Axe -- Executioner (Female, Chaotic, Elev 14) (25, 7)
+Floor 61: Book -- Lore Master (Male, Chaotic, Elev 5) (7, 3)
+Floor 63: Hammer -- Hoplite (Neutral, Elev 18) (4, 21)
+Floor 64: Dagger -- Banshee (Chaotic, Elev 9) (14, 9)
+Floor 70: Katana (2H) -- Kill Seeker (Female, Chaotic, Elev 2) (8, 0) / 
+Fists -- Warrior (Orc, Neutral, Elev 13) (14, 13)
+Floor 72: Cudgel -- Lich King (Male, Chaotic, Elev 16) (3, 8)
+Floor 73: Katana (1H) -- Dark Stalker (Male, Chaotic, Elev 13) (12, 18)
+Floor 74 [non-story battle]: Fusil -- Sniper (Male, Elev 5) / 
+	Whip -- Iron Fist (Female, Elev 5)
+Floor 75: Crossbow -- Blood Hunter (Female, Chaotic, Elev 11) (9, 14)
+Floor 77: Bow -- Blood Hunter (Male, Chaotic, Elev 22) (14, 17)
+Floor 78: Blowgun -- Dark Stalker (Female, Chaotic, Elev 3) (14, 12)
+Floor 79: Whip -- Iron Fist (Female, Chaotic, Elev 4) (15, 9)
+Floor 81: Hammer -- Blood Gavial (Chaotic, Elev 12) (5, 18)
+Floor 83: Fusil -- Sniper (Female, Chaotic, Elev 8) (8, 5)
+Floor 85: Katana (1H) -- Dark Stalker (Male, Chaotic, Elev 6) (14, 14)
+Floor 86: Dagger -- Grim Reaper (Female, Chaotic, Elev 11) (1, 12)
+Floor 88: Katana (2H) -- Kill Seeker (Female, Chaotic, Elev 22) (7, 16)
+Floor 89: Cudgel -- Witch Queen (Female, Chaotic, Elev 19) (3, 5)
+Floor 90: Sword (1H) -- Shadow Knight (Male, Chaotic, Elev 9) (13, 11) / 
+	Crossbow -- Blood Hunter (Female, Chaotic, Elev 4) (12, 2)
+Floor 91: Axe -- Executioner (Male, Chaotic, Elev 15) (3, 1) / 
+	Book -- Lore Master (Female, Chaotic, Elev 4) (11, 5)
+Floor 92: Sword (2H) -- Warrior (Zombie, Male, Neutral, Elev 12) (4, 6)
+Floor 93: Fists -- Night Crow (Chaotic, Elev 14) (7, 27)
+Floor 94: Instrument -- Boogie Man (Chaotic, Elev 14) (7, 14)
+Floor 95: Spear -- Cannibal (Chaotic, Elev 22) (5, 19)
+You need to sacrifice a unit to make the cursed weapon gain an element, an 
+ability called Snapdragon. It only works with generic, non-unique human(oid)s.
+Don't worry if your snapped weapons are a bit weak - that's actually a good 
+thing. These cursed weapons are equippable from level 1, so the right class 
+at any level can pick one up. I can't emphasize enough how important they are.
+If snapped with a unit, it gains an element, and there are lots of stat boots 
+to beef up your defenses. A unit with 1 damage per strike is very safe. 
+Cursed weapons allow for large groups of trainees to fight the clerics 
+together. Without them, you'll be forced to have only 2-3 trainees per 
+session. Choose your elements carefully, and make sure there is variety, so 
+you can auto-level different elements with them. Cursed weapons are very 
+valuable for this method, but they also have great potential by themselves. 
+Using a powerful generic unit to create an equally powerful cursed weapon is 
+an end goal of many players. But a powerful weapon is definitely not suitable 
+for auto battle. That's why I'd suggest you first snap a series of weakish 
+weapons for this purpose, and only create powerful endgame cursed weapons 
+after you have finished training. You should be visiting Palace of the Dead 
+more than once, anyway. A recent (re)discovery is that the Crest of Fire from
+the Blackmoor battle in PotD (see the Skill FAQ for info) will lower the RT of
+the snapped weapon by 5 if the unit had it equipped at the time. The Crest of 
+Fire will also be returned to inventory afterwards.
+
+D) Mid-level Warrior class: Warriors are awesome, because they can choose 
+from a large variety of weapons to equip. They can use 8 out of the 17 types 
+of cursed weapons; more than any other class has available to them. This 
+means you have many potential weapons available, and many elements too. If 
+still at low level, their added Strength is also low. This helps keep their 
+damage to the clerics to a minimum, because Clerics spawned at the level of a
+higher-level ally. Combine with a cursed weapon, and auto-leveling will become
+safe & easy.
+
+E) Healing class: Anything that can cast healing (Quench also works) but not 
+damage spells is fine. This healer may be able to train in 2 augments 
+simultaneously: Light/Water when healing, and another when attacking.
+Theoretically, 3 elements can be leveled up: Light passively, Water when 
+healing, and anything but Dark when attacking.
+
+F) Exit method: you have a number of options to consider for this.
+
+F*) Barricade (RF/Valkyrie, Fusilier) or Jack 'o Lantern (Familiar): A recent
+suggestion by howard2805 caused us to devise an efficient method for removing
+the powerful unit from battle. It requires walling in the strong unit behind
+terrain and barricades, effectively removing it from combat. Even mages and
+archers with ranged attacks seem to ignore opponents if they are unable to
+reach them on foot, regardless of whether their ranged attack can reach the
+enemy or not. It does require that one of the allies can produce an obstacle
+of some kind. Rampart or Sanctuary Shadows may also work, but they have not
+been tested, and may not cause 'A.I. blindness'. Water tiles do not count as
+'blinding' obstacles, but map edge, elevation, vegetation and barricades do.
+Be advised that some finishers and Spears may accidentally destroy obstacles
+that removed a unit from combat, so doublecheck the finisher list before you
+include 'risky' weapon skills for improvement.
+
+F**) Shift Stone or Palace Guide: Allows you to escape battle. The items are 
+rare, but the payoff will be good in the end. You may consider getting more
+Shift Stones with world instead of wasting valuable Palace Guides.
+
+F***) Black Plume: This is the 'cheapest' way to exit with your strong unit. 
+Don't recklessly cast this from scroll, though: It's a rare Necromancy scroll 
+that only drops in story battles on floors 5 & 41 in Palace of the Dead. Use 
+it with care. A high level Necromancer or Lich can cast this easily. I used 
+my Lich for this. It costs a Shoulder Shard instead of a Shift Stone.
+
+F****) Elixir: This is not the most ideal way to do things. If you KILL your 
+own unit, it can later drink an Elixir to restore a heart. Elixirs can be 
+found as drops from all the Octopi in Phorampa Wildwood. An incapacitation 
+and death will be recorded in the Warren Report.
+
+G) Skill setup:
+-UNEQUIP USELESS OR HARMFUL SKILLS: Especially Strengthen for weapon attacks, 
+and Spellcraft in case you plan to use magic. I strongly suggest melee over 
+ranged or magical attacks: Even if your magic is weak enough, it means your 
+units stay far away from the clerics. Clerics will only attack you if you're 
+in their faces; they're not going to chase down Archers just to whack at 
+them. You need those clerics to melee if you want to gain Cudgels, Augment 
+Light and Parry skill passively. Field Alchemy is another very harmful skill, 
+which would allow the A.I. to pillage your stocks of consumables.
+-CUDGELS: Unless you actually equip a cudgel, this is a safe way to gain a 
+free rank 8 Cudgels skill. Don't equip a cudgel with this skill AND Augment 
+Light; it's a guaranteed kill, since there is a triple-strike Light finisher.
+-WEAPON SKILL: This is only feasible if your weapon attack is very weak. 
+Which is why weak cursed weapons are invaluable for this operation.
+-ANATOMY: This will enhance your unit's combat strength considerably. Very 
+important. If maxed from an earlier training session, remove it of course.
+-AUGMENT LIGHT: This levels passively by being hit by Staff of Restoration, 
+which the clerics have equipped.  Sometimes one may spawn with a Damasc Mace 
+instead, which has no element. If more than 1 spawn with Damasc Maces, 
+perhaps you should reload, because they have weak defense from their lack of 
+a shield. On a sidenote, units don't get any improvement from *being* healed,
+so it serves no purpose to equip Augment Water on anyone other than your 
+Quench caster.
+-AUGMENT [element]: To be enhanced in combat. If you equip Augment Dark, 
+you'll be forced to forego Augment Light. They are mutually exclusive.
+-PARRY: Be aware this levels very very slowly, and not all in a large group 
+of trainees will be targeted equally by clerics. Units with lowest defense 
+will be more likely to see it improve. Due to slowness issues, don't rely on 
+this method for leveling Overpower. Read the details about Fortify skill 
+carefully, and act accordingly, if you want to see everyone improve this 
+skill.
+-DIVINE/WATER MAGIC: Don't forget this, or your healer won't be able to heal. 
+A silly but easy mistake to make. And frustrating, trust me. If it can also 
+cast damage spells or debuffs that hamper the clerics, you have a problem. 
+Let another unit be healer instead.
+-COUNTER ATTACK I: It gets your unit another attack while the cleric attacks 
+you, so it speeds things up. Counter Attack I is the safest rank. If you plan 
+to use ranged or magic with your trainees instead of melee, then this skill 
+is useless.
+-TRUESTRIKE: After deliberately weakening the attack of your unit, it will 
+suffer from a high miss chance. This mitigates the problem. The higher the 
+rank, the better. If you can't spend skill points on it, your skill 
+improvement will take a while longer.
+-SPELL WARD: Against Silence. Useful, but Catiua's Crimson Necklace, a 
+Wizard's Hat or Buckler +1 will also make you silenceproof. It's the only 
+option for Knight-type healers training with 2-handed weapons.
+-CONSTITUTION: This is perhaps unnecessary, if your team has enough hit 
+points to survive, but should be considered if there are free slots.
+-FORTIFY: Just in case your allies are very weak, and the clerics actually
+hit hard. If you don't have the skill slots, you may not need it. If a unit
+has high defense, clerics will strike at a weaker trainee instead. I used to
+think Fortify might help even out the distribution of enemy Cleric's attacks,
+but it quickly becomes useless to allies with more than 300 base defense, as
+I've tested myself. Although Fortify increases the defense score in the unit
+screen, it no longer reduces damage beyond approximately 300DEF at level 50;
+the DEF cap is even lower at lower level. Barricades offer more possibilities
+to redistribute enemy attacks, as I will explain.
+
+
+
+{6} STEP-BY-STEP WALKTHROUGH
+----------------------------
+
+--- Inventory preparation
+OK, so let's start at the beginning.
+
+Choose the skills you want to rank up. Your dilemmas will mostly involve 
+which elements, and the mutual exclusivity of Light & Dark elements.
+
+Look at your class roster. Which healing-capable class has the lowest level? 
+Remember, if it's too low, the clerics might actually be dangerous. Assuming 
+the enemy clerics spawn at level 40-50, a class that is still around level 
+15-30 would be ideal.
+
+How does your Warrior class look? Too high level? Choose a class that can 
+equip the weapon/magic skill you plan to use.
+
+Prepare by stocking up on a handful of Quench and/or Heal scrolls.
+
+Do you have any Mend Leaves +0? Craft them all into +1, because A.I. loves to 
+use them, and ignores whether a healer has its turn next. You will also lose 
+all your stock of Illumina Nectar in A.I. mode, unless your magic users are 
+100% silenceproof. Magic Leaves +0 might also be at risk.
+The A.I. doesn't seem to use Glass Pumpkins, Heavenly Forks, scrolls, tarot 
+cards or most other things accessible without Field Alchemy. But..!
+Do any of your trainees have missing hearts? They will drink any Elixirs you 
+have to restore their hearts. If you plan to scavenge the trainee for skills 
+later, it's a waste. If you want to restore another's heart instead, you 
+should do that first.
+
+--- Readying units
+Choose a unit that will defeat the enemies in Golborza Plains on its own. It 
+should be high level, tough and powerful. A Valkyrie, Fusilier, Lich or
+Necromancer would be best, so it can use Barricade or Black Plume afterwards.
+Remember that this unit will leave early, and can't train its skills in that
+session. The strong unit could be any class, as long as it can BE barricaded
+by an ally with the skill.
+
+Choose the trainees you will bring into combat. If you have (Snapdragoned) 
+cursed weapons, you can bring in more units than normal, because your damage 
+is so low. Perhaps two or three can train with normal elemental weapons, but 
+keep a good eye on their damage output.
+
+Reclass the trainees. Make a separate SAVE before doing so, because there 
+are many class complications, and you don't want to waste classmarks.
+
+Equipment should be tailored for their damage output/intake. If you fear 
+their defense is a bit low, use the best gear you can equip on them. If you 
+fear they will damage the clerics too much, avoid items that add a lot of 
+STR, DEX or ATT. Jewelry IV crafting book allows you to craft earrings with 
+a very high damage resistance. They are equippable from level 15. If you 
+deliberately equip the wrong weapon bonus earring, it won't raise your attack 
+much either. But if you expect your attack will be low, equipping the correct 
+weapon-bonus earring should improve accuracy.
+
+Time for skills. Click the 'Remove all skills' button, because you want a 
+clean slate to concentrate on. This requires some time; use the list in (5G).
+Your old skills were for a completely different purpose, and can only serve 
+to distract and confuse you. One wrong skill, and you need to restart. On a 
+sidenote: Don't bother equipping skills that the class can't use. Even when 
+equipped, skills like Cudgels and Overpower won't improve on a Valkyrie, for 
+example.
+
+Which trainee will do the healing? Make sure it has the magic skill equipped, 
+and has learned the scroll. The magic skill shouldn't give the unit access to 
+damage spells or debuffs that would hamper the enemy clerics. Silence is a 
+common problem: If you must us this unit as healer, then auto-battle will 
+only work if an enemy cleric spawned with a Wizard's Hat (silenceproof). If 
+your healer is a new caster and hasn't learned any healing spell yet, don't 
+try to be clever by thinking: "I'll cast if from scroll in battle to get a 
+free healing." It's so easy to make a mistake, so just learn the spell now.
+
+Equip the weapons, of course. Cursed weapons are best. Is something wrong? 
+Did you discover a combination isn't possible? Don't fret. Reload your SAVE 
+from earlier, and think of how to circumvent the problem. You'll get it right 
+in the end.
+
+--- Commencing battle
+Okay, now the training session should be prepared. Go on 'patrol' between 
+Almorica and Rhime until you stumble on a 'random' encounter.
+
+Before you forget to do so, toggle Automate Battle Messages to ON. You will
+find this in the battle Menu --> Options --> Automate Battle Messages. It is
+set to OFF by default. If you don't do this, A.I. will wait after the first 
+message appears from a spell or finisher. It never dismisses story messages.
+
+You'd be very lucky to get all 3 clerics on your first try. Only see two? 
+Wait, don't exit yet. See what kind of damage you do on them. Is a unit close 
+to 100 damage per strike? This won't work. You need to get a cursed weapon 
+for him/her. Check if it might have Strengthen equipped by mistake. Do the 
+clerics take at most around 40 damage each from your strongest trainee? Then 
+they spawned with good equipment, and the two of them might be OK. Since 
+they have good defense, it probably means Staff of Restoration + shield, 
+which is preferable over Damasc Mace. Reloading for 3 clerics takes time, so 
+2 strong ones is a spawn that is just as good. Remember that if your healer 
+can cast Silence, you need to find an enemy cleric with a Wizard's Hat.
+
+Battle time! Let the weakened trainees cower at the back, while your solo 
+hero takes out the Archers first and foremost, then the other threats. Keep 
+the healer in range, just in case your hero gets in trouble.
+
+Once that's done, let the hero make an exit. Wall it in if you can; Black
+Plume is also good; Shift Stone or Palace Guide are other options, and
+suicide is the worst option. He/she can't just hang around: A.I. doesn't have
+a 'do nothing at all' mode.
+
+--- A.I. stage
+Now before you start auto battle, make a QUICKSAVE. Now you can set 
+everyone's A.I. to Melee, Ranged or Caster, depending on their primary attack.
+Like I said before, Melee is by far the preferred option. A.I. gives priority 
+to damage, though, so if your trainee can do more damage with another attack, 
+you're out of luck.
+
+Observe how things are going for the little bruisers for a short while. 
+Perhaps they seem to be continually losing hit points. Check if your healer 
+can actually heal. Are the clerics just outmatched? Maybe you should consider 
+removing your biggest damage dealer. A second Shift Stone is a small price to 
+pay, if up to five other trainees can still benefit.
+
+If everything's going fine, you can leave it. Check up in an hour or so. By 
+this time you will know if the battle is sustainable or not. The 
+'congratulations' victory screen will be an ironic message in this case. 
+Remember to leave your PSP in the charger at this point.
+
+Check up on progress every few hours, and make an occasional QUICKSAVE just 
+in case your progress is somehow lost.
+
+You will probably see that weapon skills have maxed out in no time, elemental 
+augments take a while longer, and Anatomy a bit longer still. Passive skill 
+improvement will probably take longer, especially in large groups. You need 
+to hope and see if the clerics choose to attack you or not. One way to speed 
+up progress for the slackers, is to set A.I. for the finished trainees to 
+something else. Caster, Healer or Rear Guard. But, even if they did max all 
+their skills except Parry, I'd still let them melee for a bit more improvement.
+
+--- Finishing up
+howard2805 made the suggestion of using cleverly placed barricades to pin the
+Clerics down and speed up skill improvement. Although he didn't mean it for
+the Golborza Plains method, it gave me the idea that barricades can be used to
+force enemy Clerics to attack the allies they've been neglecting up until now.
+This may allow you to get better distribution of Parry and other improvement
+to skills that depend on enemy Cleric's attacks. Keep in mind that you can't
+place more than 10 barricades on a map, and you should prevent your attacking
+ally from being knocked back, too: That might allow the Cleric to free itself.
+You have the option of taking an ally Valkyrie out of a self-imposed barricade
+to set up the new barricade for the clerics: It can wall itself in again after
+the new obstacles have been set up, before reactivating the A.I.
+
+You might go straight for another session with other trainees. If for whatever 
+reason you want to bring a previous trainee in again, you could unequip skills 
+you already maxed, like Anatomy.
+
+Enjoy the end result. You don't have to feel bad about using non-elemental 
+weapons anymore, or unequipping ranked skills to make room for others.
+The long 'augmentation race' is over.
+
+You are also welcome to re-read my step-by-step learning experience on the 
+thread I originally posted:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/62813804
+As well as the summary I wrote in the General info topic:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/58370371
+?page=13
+
+
+{7} XEOD MOORS METHOD
+---------------------
+
+--- General description
+Dorami made a detailed thread of this method, so I will attempt to relay the
+method, and add a few missed points. Dorami is not the first or only person 
+to have applied this method, as players have been using this map for a long 
+time, as well as the setup.
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/63627457
+
+This exact method can NOT level the Meditate* skill or any weapon skills 
+besides 1-handed Sword and Hammers. Adaptations of this method can, though.
+They will be mentioned in the following chapter.
+
+You can only train 1 person at a time. It relies on the Valkyrie / Rune 
+Fencer's Hit Point Infusion skill (HP Infusion), a light element weapon 
+(Brynhildr, Oracion or Ambicion) to incapacitate Skeletons/Zombies in one 
+strike, and exploiting the vegetation on the map to wall yourself in. No 
+other weapons are possible; the Valkyrie's weapon selection is limited. 
+Fortunately, Valkyries can equip the Caldia fan, which is considered a Hammer.
+This allows Valkyries and Rune fencers to equip the Hammers skill regardless 
+of gender, and gain passive skill improvement IF attacked by a Hammer.
+
+--- Requirements
+You will need to have your Valkyrie class be at least level 30, to be able to
+use Brynhildr, or alternatively, Ambicion is equippable at level 20. Ambicion
+drops in CODA 4, so for mid-game players Brynhildr and level 30 Valkyrie class
+should be the basic requirement. If you really can't wait, though, you might
+be able to pull it off with an undead-slaying Baldur Sword +1 at level 12.
+But beware of the high risk of dying when you have poor skills and stats.
+
+The equipment should include:
+- Brynhildr
+- Rozenzi Shield (gives +2 to Parry, which will speed up improvement)
+- Armour (the best choice depends on your level)
+- Winged Boots, Sidhe Boots or Cloud Shoes (mobility is highly recommended)
+- Crest of Fire gives stat bonuses and Deathproof. Alternatively  Saint King's
+  Choker, Guardsman's Earring or Ring of the Horde (+1) will suffice.
+
+Your unit's skill setup should be:
+- 1-handed Sword skill
+- Augment Light
+- Augment [other element you want to improve]
+- [element] magic (make sure you have a MISSILE-type spell learned too)
+- HP Infusion
+The following skills are not essential, but desirable if there is room:
+- Parry
+- Anatomy (optional & only if the *trainee* is human. read below)
+- Daemonology (Zombie humans are considered Umbra in the game, not Undead)
+- Thanatology
+- Hammers (Sometimes Zombie Knights spawn with a Hammer equipped. If you make
+  sure that unit is attacking you, you could improve Hammers passively)
+- Barricade (to create obstacles, optional)
+Skills which aid melee, if that is necessary for your unit:
+- Fortify (less damage taken)
+- Constitution (more Hit Points)
+- Strengthen (more damage dealt)
+- Truestrike (better hit chance)
+
+DON'T equip:
+- Field Alchemy (A.I. might plunder your consumables)
+- Spellcraft (you don't want to easily kill opponents at range)
+- Counterattack* (you risk not-killing opponent and giving it TP for finisher)
+
+Unlike Golborza, there are no human opponents in Xeod. This means that you 
+only gain Anatomy skill if you get hit by them. Anatomy will advance far 
+slower than in the Golborza method, because you will often be blocking and 
+parrying attacks. You may find that Anatomy is too slow to improve because of
+this, so I'd advise to try Golborza for fast Anatomy instead.
+
+The main reason that you must use a light-element sword, is because you want 
+to one-hit-knock-out (OHKO) you opponent. If your attack does less damage, the 
+opponent will be alive with TP for a finisher, and this is especially dangerous
+when facing a Hammer opponent, because there is a ranged area-effect hammer 
+finisher, which could cause the opponent to move away from you, and/or destroy
+vegetation that surrounds you.
+
+* Sometimes A.I. chooses to use TP for a finisher instead of HP Infusion. In my
+experience, A.I. uses HP Infusion often enough to keep the trainee alive, but
+in some situations you may get unlucky. Dorami recommended Counterattack III to
+ensure the opponent gets stilled the moment it revives and attacks you. This 
+only works if your damage at 75% is still enough to OHKO. If you are unsure, 
+then it's better to unequip the skill, or check the damage at the start of 
+battle by selecting your sword attack, and scrolling over the enemies.
+
+** The only Dark spells that can affect Undead and Zombies, are the Drain-type 
+spells and Hellhound. Hellhound can be used by Valkyries, and this is the only
+way a Valkyrie can possibly improve Augment Darkness.
+
+--- Xeod Moors walkthrough
+You will need 3 to 5 Banish or Exorcism scrolls. Banish is only available in 
+Palace of the Dead, but costs 300Goth less than Exorcism scrolls. 
+Just like the Golborza method, make sure you have crafted all your Mend Leaf 
++0 into +1, so the A.I. can't use them without Field Alchemy.
+
+Once you have your trainee equipped and ready, go on patrol between Balmamusa 
+and Coritanae until you enter battle.
+
+Before you forget to do so, toggle Automate Battle Messages to ON. You will
+find this in the battle Menu --> Options --> Automate Battle Messages. It is
+set to OFF by default. If you don't do this, A.I. will wait after the first 
+message appears from a spell or finisher.
+
+It's better to only deploy your trainee. Other units will need to exit using 
+a Shift Stone, Palace Guide or Black Plume spell. If you have a Lich or 
+Necromancer with that last spell, it could help out. Don't forget that it 
+might make enemies spawn at higher level, if it is higher level than the 
+Valkyrie / Rune Fencer trainee.
+
+Beware of the enemies' clan and your trainees: Enemies from nearly all clans 
+can spawn at Xeod Moors: I didn't take careful notes, but I've seen Walister, 
+Galgastani, Bakram and even Lodis units. Avoid facing units of the same clan 
+in battle!
+
+You want to do a headcount now. you need to see at least 3 melee units that 
+are not of your clan. If there aren't at least 3, you'll have to reload for 
+better spawns. Spear users don't count. This might take a while if your 
+trainee is Galgastani. Jeunan and Azelstan will be hard to train here. Are you 
+planning to improve Hammer skill passively? Look to see if a Zombie knight is 
+there, and what its clan is.
+
+If you decided to equip Counterattack III, check to see if your projected 
+damage at 75% is still enough to OHKO your chosen melee opponent.
+
+Assuming you entered battle alone, you must first eliminate the Archers, as 
+they are the biggest threat. Use your boots or a Wheel of Fortune or The 
+World tarot card to gain a mobility advantage, and ignore the melee units for 
+now. Your boots only have 5 castings of your mobility spell, so move wisely. 
+If you run out of castings, there are always tarot cards for emergencies.
+Archers, mages and Spear users are a threat to the auto battle. They destroy 
+vegetation and/or deal too much damage. They must be removed permanently. 
+Remove the stilled Undead and Zombies with Banish/Exorcise scrolls before 
+their timer runs out.
+
+There should be 3 or 4 melee units left behind. 4 is preferable. Look at 
+their Magic Resist score in the unit screen. The unit with the lowest score 
+will likely be targeted in A.I., though it may step out of range of your magic 
+later, so it's no guarantee. If you want the Zombie Knight to hit you with a 
+Hammer, you already know who your attacker must be, so you can skip this part.
+
+Now you must make your way to the rightmost corner of the map. If you have the 
+Barricade skill available, you can first create obstacles at locations that 
+will be out of range of your missile magic spells. This will reduce the number
+of missed chances to attack opponents at range, because they all happen to 
+stand on nearby squares. When you wall yourself in at (13, 21), try to make the
+enemy that stands in front of you be of the other creature type than the one 
+with lowest Magic Resist. This way, your chances of attacking both Skeleton and
+Zombie are highest, and you will see both Thanatology and Daemonology improve.
+
+Perhaps you will be doing a lot of magic damage at range. This is why you need 
+
+at least 3, preferably 4 enemies remaining. Combat will end if all are stilled.
+
+You will see that Parry is leveling slowly but surely. In fact, this method 
+improves Parry more reliably than the Golborza method.
+
+Put your PSP in the charger. Remember to make quicksaves periodically, as it 
+will still take some time. If you see one of the skills Thanatology or 
+Daemonology improve much faster than the other, you could consider exorcising 
+1 of the 4 units, or flying out and back into the defensive location so that 
+a different kind of unit will stand next to you. If you were tackling the 
+Zombie Knight with a Hammer before, it will now have maxed Hammer skill, which
+means it has access to a ranged area-effect finisher. You must exorcise it, or
+it will destroy the obstacles at range.
+
+--- Pros & Cons
+A lot simpler than the Golborza Plains method, as you can see.
+ADVANTAGES of XEOD MOORS training method, compared with Golborza method:
+1) Lower requirements, which are a lot easier to meet.
+2) Setting up the training is simpler, as only 1 unit needs to be reclassed 
+and adapted for the session.
+3) Once the training session is successfully underway, the risk of an unwanted 
+victory is very low.
+4) Leveling will occur faster, and passive skill acquirement (Parry) is more 
+reliable. Read the next chapter for tips about ranking Deflect skill. Parry 
+and Deflect will *only* be active if a melee weapon is equipped.
+5) Easy rank 8 weapon skill for 1-handed Swords, and possibly Hammers.
+6) No Shift Stone needed, or any equivalent escape method.
+7) Less reloads due to mistakes, because there are less details to consider.
+8) After winning combat, you can gain thousands of extra SP for all the incaps
+performed.
+
+DISADVANTAGES of XEOD MOORS training method, compared with Golborza method:
+1) No Meditate improvement.*
+2) No passive Cudgels skill improvement.
+3) No weapon skill improvement besides 1-handed Swords & maybe Hammers.
+The requirement of non-Winged RF/Valkyrie class places significant limitations
+upon the types of skills and races that can be upgraded through this method.
+4) Winged units will fly over the vegetation, so they cannot use this method.
+5) HP Infusion, and possibly other combat skills needed against the melee 
+enemies, will probably cost more skill points than you need to spend when 
+facing clerics at Golborza Plains.
+6) The preparation & battle only benefits one unit at a time.
+7) If your trainee's attack and defense are insufficient, there is a risk of 
+defeat.
+8) Can cost up to 4000Goth in Exorcism scrolls per session.
+9) If you accidentally kill a member of the same clan as your trainee, it will 
+decrease the trainee's loyalty to you, as well as affect your Chaos Frame 
+value for that clan. If this happens before world, it might be better to reload 
+and try again. In postgame, you can simply travel to another Anchor Point, and 
+get your old CF back.
+
+* Another method was devised by edant79, and is described on the same thread. 
+It makes use of a MAGE with the DRAIN HEART spell to 'heal' damage and hurt 
+the enemy. It is reportedly an efficient way to improve the MEDITATE skill at 
+the same time. The setup should be similar to the Valkyrie setup described.
+Remember that this can only be achieved with Drain Heart, due to the healing,
+and undead are immune to all other Dark damage spells besides Hellhound. Have
+a 'fresh' Dark Magic caster whose cheapest spell is the 30MP Drain Heart; you
+don't want a cheaper spell like Paralytic Wave in the list, because then 
+Meditate will not be used.
+
+
+{8} SKILL IMPROVEMENT VARIATIONS
+--------------------------------
+
+The greatest difference between the original Golborza Plains method and the 
+Xeod Moors method, is that Golborza battles human clerics, who must be kept 
+alive to sustain the battle. Xeod Moors works better if you one-hit-knock-out
+(OHKO) the undead enemies instead. Of course you are able to explore 
+possibilities on other maps, using different combinations of weak attack or
+OHKO tactics. The Barricade skill of Valkyries will literally allow you to
+recreate the Xeod Moors corner on any map. These two maps and methods are not 
+the only possibilities out there. Use your imagination, but always look at 
+your and the enemy's skills carefully.
+
+--- 3 Augments (untested)
+The Cursed Blowgun is the only 1-handed cursed ranged weapon. A non-healer is 
+able to learn a 3rd element with it. If the Blowgun has highest attack value,
+it will improve. Any weak melee weapon can be used in counterattacks when the 
+clerics attack the unit. The 2nd element, if you're wondering, is passive 
+Augment Light from cleric attacks, which levels more slowly than your melee 
+augment. Since the A.I. gives priority to damage, it's best if both melee and 
+blowgun attack do 1 damage. Then the A.I. will actually do what you say.
+
+--- Deflect
+Recently shinera/ACrossCountry explained to me the method he thought of and 
+used for improving Deflect skill in Xeod Moors:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/64818659
+Together we devised an efficient strategy for this, and it is summarized as:
+
+Rune Fencer/Valkyrie equipped with:
+-Strong 1-H sword (needs a weapon to defeat the unwanted opponents first)
+-Shield of the Winds/Storm/Tundra (for the extra defense against bow attacks)
+-Ogre Armor (or whatever is your strongest armour against bows)
+-Ogre Helm (or whatever is your 2nd strongest armour against bows)
+-Crest of Fire (Deathproof gives immunity to any status effects from finishers,
+                and it boosts defense and damage greatly)
+Skills:
+-1-H Swords (NOT recommended; equip Tactician II if you equip this)
+-Bows (gain passive skill improvement)
+-Deflect (gain passive skill improvement)
+-Augment [enemy bow's element] (passive skill improvement)
+-[ANY] Magic (optional)
+-Augment [ANY] (optional)
+-Augment [ANY] (melee with sword can improve any augment,also Dark)
+-Anatomy (optional & only if the trainee is human. details in previous chapter)
+-Thanatology and/or Daemonology (depending on melee & archer opponent's race)
+-HP Infusion
+-Barricade (optional; only if you intend to create your own obstacles)
+That's more skills than slots, so it should be clear that you should pick & 
+choose your preferred options. If you forgo a magic attack & augment, you 
+spared 2 slots. I recommend not using 1-H Swords skill, due to finisher TP.
+Previously I wrote that it might be good to wall yourself in with a Barricade,
+however after testing I found that even the Archer wanders off and loses 
+interest if you are unreachable by foot, despite the fact that it has a clear 
+path of ranged attack.
+Melee is unavoidable, so you can make use of this by melee attacks with an 
+elemental sword, best to be used without the 1-H Swords skill. It can cast weak
+magic attacks if able to. Just an Archer and 1 or 2 melee units are enough to 
+keep battle going. Beware of equipping 1H sword skill with your sword; the 
+A.I. loves to use the TP on finishers, which depletes the TP bar, and takes 
+away a lot of healing potential. I did succeed in maxing the weapon skill, but
+I needed all the equipment listed above to reduce the Archer's damage, and I 
+had to babysit the A.I. for the first hours, because there were Game Over 
+screens. The enemy Archer gets rank 8 bows very quickly, increasing damage and 
+risk until you rank up your defense skills. If your sword doesn't OHKO the 
+opponent, you should be prepared to do some babysitting.
+
+--- Overpower (untested)
+As a question that was raised more than once, I should make some comments about
+Overpower advancement. I have seen rank 8 Overpower on an enemy Archer after I
+finished ranking up Deflect on my unit, so it is clear that Overpower can 
+neutralize both successful Parries and Deflects. The easiest way I can think of
+to rank Overpower, is by getting lucky and finding an opponent that spawns with
+Deflect/Parry equipped, or carries a Rozenzi Shield (+2 Parry). I have observed
+Knights at Xeod Moors with the shield. You don't need to have Parry or Deflect 
+skill equipped yourself; the opponent must have some form of defense that you 
+can constantly attack with melee or ranged, allowing for a chance at Overpower.
+Parry and Deflect will *only* be active if a melee weapon is equipped, but from
+this evidence it is clear that Overpower is active and will improve on a 2H Bow
+Archer.
+
+--- Herpetology (untested)
+An untested idea of mine should be fairly easy to set up in Tyenmouth Hill:
+I'm very interested in ranking up Herpetology skill, because Lizardmen remain 
+very sturdy due to their high STR and VIT, which beefs up their defenses. If 
+I set up a mix of non-OHKO melee vs. Lizardman while it gets healed by a 
+cleric, I should be able to survive enemy 2H sword or Axe finishers (they are 
+all lame single hitters).
+
+--- Drain Heart & Meditate (untested)
+As stated before, it should be feasible to use the Drain Heart spell to heal, 
+while also ranking up Meditate skill. With some imagination, it may be 
+possible to do this on other maps, and even with living units, where clerics 
+heal the drained damage.
+
+--- No combat
+A method by ladapop6, which I haven't tested myself, can apparrently improve
+skills quite fast, by trapping units on a poison mold tile, and letting them 
+heal. It keeps enemy units out of range, so it cannot improve weapon skills or
+any kind of passive skills from enemy combat. It's useful if you really want to
+improve 1 or 2 skills soon, but otherwise I'd prefer to improve a whole bunch of
+skills at the same time.
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/65742233
+
+--- No enemy attacks
+howard2805 got mentioned before in the Step-by-step Checklist chapter as the
+inspiration to some clever usage of Barricade. His own method actually uses the
+Adventurer's Gap map of Phorampa Wildwoods. He devised a method that surrounds
+enemy Clerics (no Cudgels equipped), reducing delays from unit movements. It
+also speeds up improvement because allies go in without armour. To quote him:
+"http://postimg.org/image/ouefxg757/
+http://postimg.org/image/h2xpyw2zv/
+Since it takes a bit of time to setup, i used my own units instead.
+Gryphon=enemy clerics,,white knights=weak/armor-less units,
+red dude=unit that uses cudgels(for getting hit),
+Denam=a place for training magic users,
+Pointer=good place for a boon of swiftness user
+Barricades next to gryphons can be moved for more units, but they may get hit.
+If I just wanted immobilize them, then any map will do. The main reason I chose
+Adventure's Gap is because of the terrain. The place the white knights were
+standing can hit the enemies below while not being attacked. This means you can
+take off armor."
+
+
+{10} MY "PERFECT" ROSTER
+------------------------
+
+
+This is just a list of the 17 units I ended up playing with, to form a team I
+considered the ideal endgame group. It requires a lot of explanation, but let
+me just say that I placed I high priority on access to special classes, fast
+characters, variety, versatility, and ability to all equip a different cursed
+weapon. Some of the class, weapon and skill aspects may require explanations
+that can be found in my Skill FAQ, linked in the Useful Info & Credits chapter.
+Special character speed (RT) is listed in my Scavenging/Recruitment FAQ.
+
+DENAM - Lord. Cursed 1H Katana (lightning). Katana is really overkill for a
+class that's already so powerful, but this is what came out of my mix-'n-match.
+Previously I favoured 2H katana, because I was adamant that Swordmaster
+wouldn't make it in my endgame party. But speed and gameplay variety comes
+first; Terror Knight is out, Swordmaster is in.
+CATIUA - Princess. Cursed Dagger (dark) & Baldur Shield +1. An unlucky element
+combo, since Princess will be using Divine Magic of course. But it's of little
+relevance to her as a caster; she still gets the stat bonuses, and since cursed
+weapons don't have an augment, only physical attacks are influenced in any way.
+OZMA - Knight Commander. Cursed 2H Sword (lightning). KC Ozma equips Divine
+Magic, Lightning Magic and Augment Lightning, for strong magical attacks and
+healing options.
+HOBYRIM - Ninja. Cursed Bow (lightning) & Thunderfire Katana. Ninjustu seems
+unnecessary for a unit with great climbing skills and a bow. But everything
+about the Ninja class is overkill.
+RAVNESS - White Knight. Cursed Spear (lightning). Yes, Valkyrie would be more
+powerful and even a bit faster. But White Knight's Velocity Shift is more fun.
+OLIVYA - Swordmaster. Cursed 2H Katana (earth). I kept Olivya around as an
+extra unit with access to Shaman, though in retrospect Gildas would have been
+the better choice. Swordmaster is the worst class in the game, but it's the
+only class with access to 2H Katana (except Lord) and Wardances.
+SHERRI - Shaman. Cursed Spellbook (earth). Earth turned out to be the best
+element for a Spellbook, with Sherri already trained in the correct element.
+Shaman is way overpowered, but also fun to play.
+DENEB - Wicce. Cursed Whip (water). Perhaps people will scoff at me changing
+Deneb into a Water Wicce, just for a Whip finisher. Sure, Water has lousy
+utility spells, but she mostly kills stuff with Magic and Physical. And now she
+can even heal a little, too.
+IURIA - Songstress. Cursed Instrument (air). There are 2 things that make my
+Songstress worth keeping around: the rank 4 Instrument finisher (also air) and
+Ardent Conga for Spellcraft and MP boosts.
+CANOPUS - Buccaneer. Cursed Fist (fire). I'd have preferred to switch to
+crossbow and let Rogue have the Fist, but alas, Buccaneer can't use all
+crossbows. Speedstar lets Canopus fly all around the map swiftly, to deliver
+OHKO punches.
+VYCE - Ranger. Cursed Fusil (light). No Ji'ygla's; this is a cursed team after
+all. Arycelle has the jiggy set, but she's not a regular anymore. Vyce is my
+cold, calculating sniper. When it's his turn, something's gonna die.
+AZELSTAN - Rogue. Cursed Crossbow (fire). Without a melee weapon, Sneak Attack
+is out. Sparagmos is also pretty redundant when you have Brimstone Hail. But
+all the better: Azelstan can make use of Steal, Speedstar, and some Familiar
+kisses that he inherited through scavenging.
+WARREN - Astromancer. Cursed Cudgel (light). Warren ends up being the best
+candidate for the light cursed cudgel, which also solves the "light or dark?"
+dilemma for me. No utiliy whatsoever, just a strong mage that can exorcise with
+ease.
+LANSELOT - Paladin. Cursed Hammer (fire). Divine Magic and Augment Fire for
+him. Healing is barely affected by the lack of an augment, though he has enough
+skill slots to easily accommodate Augment Light. It lets your Consecrate Edge
+be more effective - if he ever needed it to.
+GENERIC - Divine Knight. Cursed 1H Sword (light) & Medusa Shield OR Damasc Bow
++1. Folcurt became this through cheats, and the -10RT makes a big difference.
+He doesn't have a flying animation, so it often looks like he's blinkwalking. 
+LAMIA - Juggernaut. Cursed Axe (earth). I opted for this instead of Matriarch;
+it's fast and fun.
+PUMPKINHEAD - Familiar. Cursed Blowgun (lightning) & Malitza's Staff (to give
+MP to Lord). A trusty sidekick for Denam.
+
+Be advised that I applied cheats with the CWCheats program, to easily create
+cursed weapons with maxed stats. Creating 17 cursed weapons without cheats is
+beyond what people can achieve during normal gameplay - it takes too long.
+PS: remember when equipping 2 weapons, that the Off Hand weapon's bonus stats
+won't be applied to attack or defense, though a shield's stat bonuses do apply.
+This is especially relevant when equipping cursed weapons, because they have so
+many stat bonuses. Always equip cursed weapons in the Main Hand slot.
+The Off Hand weapon's stats don't apply, though it will still attack with it's
+base ATT, and any stat bonuses from the Main Hand weapon.
+
+
+{10} USEFUL INFO & CREDITS
+--------------------------
+
+--- Scavenging Skills
+Some skills cannot be leveled with my method. Weapon skills are also risky 
+to level with trainees, as the finishers might cause a premature victory. 
+Sometimes it's just better to scavenge. My Scavenging & Recruitment FAQ is
+linked below.
+-Of particular interest may be: Meditate - Human Enchantress (Rank 4 - The 
+Reisan Way)
+-From my own experience: The shrines are full of Fusiliers with rank 3
+Fusils. This is a hard skill to acquire normally. Fusils skill is only
+selectable from Fusiliers at level 15! I scavenged many of them. Chapter 4
+may have some rank 4 Fusils, as the story battles in this chapter have many
+rank 4 skills, making them the best place to find skills.
+-Bortegun Fens, the area before Palace of the Dead, is brimming with units 
+that have multiple rank 4 skills each. You can recruit human Warriors (Fist, 
+2H sword & Whip), Archers (Bow & Crossbow) and Rogues (Fist & Dagger).
+Opponents in chapter 4 story battles also have many rank 4 weapon skills.
+-Many Heavenly General battles have Winged, Lamia and Orc Archers with rank 
+6 Bow & Crossbow skills. The Winged are in San Bronsa Floating Ruins floor 4.
+The Orc and Lamia Archers can be recruited in Palace of the Dead floor 89.
+
+--- Rare item drops
+Loot spreadsheets for Palace of the Dead, San Bronsa and Pirate's Graveyard:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59010574
+Those loot spreadsheets handle over 90% of what you need to know, but let me 
+add what I learned. Some items are hard to come by, and you may not know of 
+their existence yet.
+
+Elixirs: All Octopi in Phorampa Wildwood. Thanks go to Maltherion for 
+confirming that they all drop it.
+
+Snipe Gators: Unique boots. Chaotic Rogue Gremlin, Neimrahava Wood non-story 
+battle. Thanks go to beatumdown for this (re)find.
+
+Fusilier Classmarks: Fair weather, The Leupha Coast, Fusiliers at (5, 24) & 
+(7, 24). Thanks go to grift3r74 for this find. Recruiting Lindl also gives 3.
+
+Dark Priest classmark: 8th, 12th & 18th floors of Hanging Gardens, all drop 
+from Cleric Templars. World mode has a shortcut from 1st to 18th floor.
+
+Necromancer classmarks: Drop from 2 Necromancers in floor 18 of Palace of the
+Dead, but only if you have recruited Cressida (who also brings 3 classmarks
+upon recruitment) in Warren Report. If you go to another route (law/neutral)
+the Necromancers in PotD floor 18 will no longer drop classmarks.
+
+Buccaneer classmarks: Only drop if you have Azelstan in Warren Report, alive,
+AND present during the battle. 1 mark can be gained in the Pirate's Graveyard
+treasure, an Imp rogue in Neimrahava woods can drop it (drops rogue marks 
+without Azelstan), and 3 Skeleton Archers in the *Non-story* battle of On
+Holy Ground will drop 3 each.
+
+Tier II ninjutsu scrolls: All but 1 are found deep in Palace of the Dead. 
+Many also drop in pre-shrine fortress battles. Waveshear II ONLY drops in 
+the Quadriga pre-shrine fortress battle. It drops from a Kunoichi.
+
+Tier II Apocrypha: If you faced all the guardians in story battles before 
+hitting level 35, only tier I dropped. After level 35, recipe drops are not 
+guaranteed, but tier II Apocrypha also become a possibility. I recommend 
+saving, reloading and charioting the killing blow until you get it all. Only 
+the LAST story guardian you defeat will drop 3 (sometimes 6) Shaman classmarks.
+Non-story guardians are very different, and won't drop Apocrypha OR recipes at 
+all. Guardians in non-story revisits are not designated targets, and are not 
+guaranteed to spawn anymore. They have a chance to drop a Shaman classmark. 
+Non-story item drops :
+Water- Tlaloc's Bolt (unique spear)
+Fire - Fire Gauntlets and Fire Shield
+Lightning - Xolotl's Canine (dagger), Wyrm Whisker
+Ice - Hoarfrost Greaves (boots), Enchanted Feather
+Air - Vainateya's Talons (unique fist), Enchanted Feather
+Earth - Nathalork's Mail, Orichalcum
+Despite numerous tries, I was never able to get both a crafting component and
+an item in the same drop, but classmarks dropped frequently with the rest.
+
+Dark Knight Commanders' Loot: The best place to get these is during CODA 4. 
+Read Elyon's CODA guide for details. Ozma can in fact drop 2 unique whips.
+
+The Alluring items are special drops, only accessible in world. They are not 
+equipped, but the female only Dress and Highboots will drop from Gousin 
+during the story battle at the Golborza Plains, but only when you replay 
+this battle in world, not during the first run of the game. Catiua must be 
+present, and answer Gousin's question with the 2nd dialogue option. Similarly,
+the male-only Corset and Boots drop when Oz dies in Phidoch Great Hall chapter
+3, but only when you replay in world. They won't drop in the CODA 4 battle.
+
+The Abyss I & II scrolls can be found in Palace of the Dead, but are easily 
+missed. Abyss I drops in the pre-Fortress battle with the Lich, Water Shrine.
+One of the Ghost Witches has it, but only when replaying in world. Abyss II 
+can be found in world in a special battle against Xapan in Golyat: You need to
+have rescued him before, and refused to recruit him. The battle is only 
+available in lawful path. The Witch present in the battle drops it.
+
+--- Missables
+Only titles are considered missable in this game, but there are also 3 items 
+that will no longer drop once your party is beyond a certain level. Since 
+Denam must be present in STORY battles, you can't just recruit a bunch of 
+low level monster classes you neglected, to pick these up later. If Denam 
+has no more low level classes available to him, then you missed your chance.
+-Crescente bow: Numerous random & story Archers between levels 24 and 26.
+Sharp and Cold the Stars, Hanging Gardens. Disappears after level 34.
+After getting one, I saw some in Wonder at the Gods Above, Phorampa Wildwood.
+-Treatise on Seduction: Demonpetal Dance for Swordmaster. Chapter 4 Barnicia 
+Grand Staircase, from Neutral Swordmaster Templar. Disappears at level 26.
+Enraptured Dreams, Hanging Gardens. Disappears after level 34.
+-Scroll of the Cicada: Decoy for Ninja. Hagia Banhamuba (vs. Sherri). Drops 
+from one of the male Ninjas - the one with lower loyalty up to level 26.
+Chapter 4 Heim Courtyard. Drops from male Ninja next to wizard <lvl27.
+Ebon Stair, Hanging Gardens. Drops from Kunoichi Templar. Disappears @lvl35.
+Thanks go to BM Sirius for quoting the strategy guide, and ronin7997 for
+dispelling rumours that the Hanging Gardens drops stop appearing after lvl26.
+- Wicce class: This seems to have been overlooked. Many people think it's OK
+to just recruit Deneb as a Witch, because getting 30 Glass Pumpkins is a lot 
+of work after having recruited 27 dragons already. But this is one thing that
+cannot be remedied by traveling back in world, because Deneb will no longer
+appear in her shop after she is recruited in your roster. Even when traveling
+back in world mode, Punkin will be running her store. You'd need to remove
+Deneb from your roster to reactivate her quest. An unappealing prospect if you
+invested a lot of time into your Deneb unit.
+
+--- Rare steals
+-Classmarks for Knight Commamder: can be stolen from Zombie Templars during 
+rain at the Reisan Way. You need to have Ozma already.
+-Priest classmarks: Stolen from clerics on the 1st map of Phorampa Wldwood, 
+Adventurer's Gap.
+-Reaver: Stolen from Grim Reaper in Scenic Knoll (Phorampa Wildwood). Requires 
+rank 3 Steal, and item gives +2 Steal. The ring is not unique, so you can get
+more than 1 of them. Since it can cast Boon of Swiftness three times in battle,
+and has Stopproof effect, it is very useful on any class. Getting rank 3 Steal
+is a very tedious & difficult task. Here are some tips on how I did it:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/64869191
+
+--- All about weapons
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/66109724/
+743212391
+Damage comparison with maxed cursed weapons, weapon inventory summary, list
+of finishers, skill comparisons, and much, much more.
+
+--- About Fortify, Strengthen & Spellcraft
+Rumours that Fortify is useless were based on the fact that it only helps if
+you have a *very* low defense, which is only true in the early chapters.
+There are also cases where Strengthen and Spellcraft become useless, but
+this happens much less quickly.
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/66623108
+
+--- Credits
+GAMEFAQS for hosting this and many other useful guides, as well as the forum.
+
+All the frequent visitors to the forum on GAMEFAQS, who offer unique 
+insights, inspiration for ideas, as well as new discoveries. I'd name names, 
+but there are lots and I'm too afraid of forgetting a name and offending 
+someone...
+
+Woofrikinhaw for cursed weapon info
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59045605
+You'll need this to find out which class you need for a certain element.
+
+Humble_Novice & BlueMage279 for scavenging info
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/58370371
+/688396854
+
+Col_mobius for loot spreadsheets, helpful for charioting rare item drops:
+www.gamefaqs.com/boards/999440-tactics-ogre-let-us-cling-together/59010574
+Google spreadsheets can't be accessed from certain countries. Like China, 
+where I live now. If you have this problem, consider using a proxy program.
+
+Cyril(=Elyon) for the helpful CODA guide:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/63915
+Read this to learn more about Heavenly Generals and their special weapons.
+
+Maltherion for the Crafting Guide:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/62110
+
+Check out my Skill FAQ, to shed light on all the class & level requirements:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/66864
+
+Basic to advanced instruction on the intricacies of Scavenging & Recruitment:
+www.gamefaqs.com/psp/999440-tactics-ogre-let-us-cling-together/faqs/67152
+
+Special thanks to sEmesextrEm for posting helpful links, as well as providing
+support during hostile discussions.
+And a big shout out to all you trolls out there! I have mixed feelings when
+I need to defend myself on the boards. Any news is good news, as the saying
+goes. By attacking my credibility, you add to my exposure. There's no better
+way to get to know an author than when he's responding to personal attacks.
+
+Thanks for reading, everyone. I hope it helps you all to get stronger skills.
+
+
+{11} VERSION INFORMATION
+------------------------
+
+Version 2.0 describes a simple but limited skill improvement method in chapter
+	8. Mid-game players will find this method more useful and easier to set
+	up, especially because of the lower requirements.
+Version 2.1 adds disclaimers, references and some minor corrections.
+Version 2.2 adds the chapter Skill Improvement Variations.
+Version 2.3 mentions the advantage of snapping with the Crest of Fire, and adds
+	comments about Deflect and Parry limitations.
+Version 2.4 adapts the FAQ to incorporate new knowledge about Fortify and other
+	skills, with links added.
+Version 2.5 adds a better method for removing the strong unit from combat in
+	Golborza Plains. Minor updates to knowledge of skills and improvement.
+	The chapter Example Results was unnecessary and removed. Numerous
+	(sub)chapters were formed or renamed for a better overview of info.
+Version 2.6 broadens the definition of Skill Improvement with an Early-Game
+	Advice chapter.
+

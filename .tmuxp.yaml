@@ -1,0 +1,11 @@
+session_name: tactics-ogre-docs
+start_directory: ./
+environment:
+  PROJECT_ROOT: ~/proj/tactics-ogre-docs
+windows:
+- window_name: terminal
+  panes:
+  - pane
+- window_name: exit
+  panes:
+  - exit

@@ -1,0 +1,2783 @@
+@----------------------------------------------------------------------------@
+!	    	    A VERSATILE POWERGAMING PARTY GUIDE	         	     !
+!	    with many tips for character creation and development.	     !
+!				    for:				     !
+!			       ICEWIND DALE II		   	             !
+!				and its mods				     !
+!									     !
+!			       by coineineagh			             !
+!			        version 7.1			             !
+@----------------------------------------------------------------------------@
+
+
+
+
+Table of Contents:
+
+1,	GENERAL
+	- Introduction
+	- First Things
+		- Selling items for gold
+		- Skill Point Squatting
+		- Level Squatting
+		- Modding
+		- CHA-bonus items
+	- My Priorities
+	- ECL
+	- Favoured Class
+	- Ability Modifiers
+
+2.	CHOOSING MAIN CLASSES
+	- About Mix-Ins
+	- Summary of Main Classes
+	- Battlecleric Summary
+		- Which Class
+		- Which Race
+		- Which Domain
+		- Effectiveness as Frontliners
+
+3.	MIX-INS, FEATS AND SKILLS
+	- Summary of Mix-ins
+	- Feats
+
+4.	SHORT TACTICAL DISCUSSION
+	- Chapter 0
+	- Chapter 1
+	- Chapter 2
+	- Chapter 3
+	- Chapter 4
+	- Chapter 5
+	- Chapter 6
+
+5.	THE PARTY, AND BATTLE TACTICS
+	- Starting Stats
+	- Heart of Fury Stats
+	- Battle Tactics
+		- JAHEIRA
+		- VICONIA
+		- JAN JANSEN
+		- BODHI
+		- IMOEN
+		- MINSC
+		- KORGAN
+
+6.	PARTY MEMBERS
+	- JAHEIRA in detail
+	- VICONIA in detail
+	- JAN JANSEN in detail
+	- BODHI in detail
+	- IMOEN in detail
+	- MINSC in detail
+	- KORGAN in detail
+
+7.	SPELLS
+	- JAHEIRA's Spellbook
+	- VICONIA's Spellbook
+	- JAN JANSEN's Spellbook
+	- BODHI's Spellbook
+	- IMOEN's Spellbook
+	- MINSC's Spellbook
+	- KORGAN's Spellbook
+
+8.	USE OF ITEMS AND BUFF SPELLS (item spoilers)
+	- JAHEIRA's Items & Buffs
+	- VICONIA's Items & Buffs
+	- JAN JANSEN's Items & Buffs
+	- BODHI's Items & Buffs
+	- IMOEN's Items & Buffs
+	- MINSC's Items & Buffs
+	- KORGAN's Items & Buffs
+
+9.	LIST OF SPOILERS
+
+10.	List of abbreviations, acknowledgements, version info
+
+
+___________________________________________________________________________
+DISCLAIMERS
+
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any website or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+website or as a part of any public display is strictly prohibited, and a
+violation of copyright. This document may not be bought or sold, or used in
+any way for profitable gain.
+
+This FAQ is authorized to be hosted on the following websites:
+
+www.gamefaqs.com
+www.gamespot.com
+www.neoseeker.com
+www.sorcerers.net
+
+This guide is copyright 2015 by Thomas de Jong, e.g. coineineagh.
+All trademarks and copyrights contained in this document are owned by 
+their respective trademark and copyright holders.
+___________________________________________________________________________
+
+
+				   <3 <3 <3 
+	Dedicated to my wife Suby, my son Owen, and our new arrival Andy!
+				   <3 <3 <3
+
+
+*----------------------*
+|  Chapter 1: GENERAL  |
+*----------------------*
+
+
+INTRODUCTION
+------------
+First of all, I should explain that this guide is a plain text format of the
+original guide I wrote in Word. It has been available on Sorcerer's Place since
+2008 under the name IWD2-4dummies.  It was my very first guide, so it was time
+to include it on GameFAQs with the half dozen or so other guides I wrote for
+random games. I also felt that this format vastly helps improve the overview,
+as do the new chapter indicators. Since the old version came with accompanying
+files, there is still a passing mention of the mod link list, an excel file I
+wrote with exact leveling instructions per level, and other files. They are all
+included in a zipfile you will find in a link below.
+I started this party creation guide to document and convey the effort I took in
+creating my party, so that others may benefit as well. The party is balanced to
+the other characters, so an individual character might not be a useful addition
+to a totally different party. My guide should effectively inform you of
+processes in the game, making you understand a lot more aspects of the game
+without having to read all the guides. I sometimes state the obvious, though it
+may not be so obvious for a novice. Still, it¡¯s worth reading even for an
+experienced player. Clearly marked spoilers are included at the back explaining
+bonuses you acquire in the game. They are incorporated into the development of
+my party. You might not appreciate reading about them if you haven¡¯t played
+through the game yet, so be warned. This guide comes with ¡®coineineagh¡¯s
+versatile powergaming party¡¯, an excel sheet that explains character leveling
+in detail. The contents of this plain text formatted guide should be clear
+without the need of the accompanying excel sheet, but in case more detailed
+information is needed on leveling choices, it can be found here:
+http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2-4dummies.zip
+
+
+A few FIRST THINGS I should mention which I discovered were very useful:
+      ------------
+1) SELLING ITEMS FOR GOLD: To maximize the money you get from selling a single
+type of item, do it in one go. If you unload a valuable item on a merchant
+multiple times, he will offer you less and less each time. Unload the valuables
+in one go: you can use the Bag of Holding to dump 40 items at once. If the
+trader sells the item already, he¡¯ll also offer less for it. Selling +1 arrows
+won¡¯t reduce the value of +2 arrows, only the exact item influences the price.
+If you have a mod installed that makes your bag of holding bottomless, then
+keep items stored until you need the gold. I¡¯m not sure about this, but I
+think the game responds to the amount of gold currency you have, but not to
+your items. After a while, many enemies *seem to* drop more gold.
+2) MODDING: To get the most out of the game it¡¯s advisable to install the
+patch, for repairing some bugs in the old game, and it¡¯s required for certain
+mods. Many players don¡¯t want to let go of the high level Animate Dead
+summons: Festering Drowned Dead and Apocalyptic Boneguard. This could be
+considered exploiting a single cheese or cheat in the game; according to the
+manual, Animate Dead was intended to be an evil-only spell, probably meant to
+compensate for their inability to shift-click spell to convert them into
+healing spells. If you don¡¯t want the patch, then some of the mods can¡¯t be
+installed, like custom dll. Install Ease-of-use*; it applies optional tweaks to
+the game, and fixes overlooked bugs. Adjust it to your liking, but *read my 
+'Install order' file for essential instructions! Select the tweak that makes 
+armour give you damage reduction (DR); it makes sense. If it makes the game
+less challenging, just increase the difficulty. I played Heart of Fury (HoF) at
+Insane difficulty, it¡¯s doable if your party is high enough level. Read this
+thread for a mod list & links: 
+http://www.sorcerers.net/forums/showthread.php?t=46611 
+I also installed the Light of Selune mod, Level 40 XP Patcher, Level 40
+Extended Tables, and many others. I altered the MONCRATE.2DA file to my liking,
+because I found that the ¡®always get some XP per kill¡¯ file gave too much XP
+for low-level kills, and I also wanted a table that incorporated level 40
+leveling as well. There is a steep experience curve in the unmodified game, as
+explained above. It¡¯s ridiculous: a large portion of opponents towards the end
+of the game are too low level to gain XP from, while these are still very tough
+battles! Don¡¯t get bogged down, just indulge yourself by installing these
+rebalancing mods. A lot of fun is in the 2nd go (in HoF mode, same story, new
+items!) with a mid-level party, since the amount and danger level of enemies is
+increased to your level. The altered file (MONCRATE.2DA ¨C move to Override
+folder) is in this zipfile. It allows you to always get some XP for kills (but
+not too much), and still get XP at level 40. No other XP table does both.
+In the light of Selune mod there is one component that has far more
+disadvantages than bonuses: Upgraded Classes may screw up the ranger¡¯s Reflex
+S.T., and reduces many class skills in the original game to non-class skills.
+I advise against installing this part of the mod, but there is one redeeming
+aspect of Upgraded Classes, and that is the new druid spells, especially Tremor
+at level 8. If you want to get these spells without having to use the
+component, then just drop my LISTSPLL.2DA file (included) into the Override
+folder. It works with the IWG2 conversion mod. The Icewind Gate 2 mod is an
+abandoned beta made by the creator of the WeiDU installer program, Westley
+Weimer. It converts almost all of Baldur¡¯s Gate 2 into the Icewind Dale 2
+engine, making it playable. Because it is unfinished, it has been largely
+ignored by all but skilled enthusiasts. In this version of my IWD2_4dummies I
+attempt to make the installation of this beta clear, easy and accessible for
+'dummies'.
+3) SKILL POINT SQUATTING: The Patch enables you to save 1 skill point to spend
+at a higher level; this gives you a great opportunity to allocate your skills.
+You can wait with a skill until you take a level in a class that only takes 1
+point to increase that skill instead of 2. This is different from level
+squatting (see below): The best example of this is my character Viconia, who
+takes 4 fighter levels. She would be required to invest her skill points in
+Intimidate, the only fighter class skill, however if she alternates fighter
+levels with cleric levels, she will get 4 extra points to allocate in cleric
+skills, like Spellcraft or Concentration. Unfortunately you can only keep 1
+skill point stored to use in the next level, so its usefulness has limits. The
+newest customdll fix allows you to store more than 1 skillpoint indefinitely.
+4) LEVEL SQUATTING: To get the most out of your kills don¡¯t level up
+immediately: Leveling one of your 6 characters up can mean the difference
+between getting 162XP for slaying a Black Archer, or 81XP! When all your
+characters are at level 11 give/take 1 level, you can go a long way with this
+level squatting tactic. I checked carefully, and the game keeps track of all
+abilities, skills and feats you are due, so don¡¯t worry about missing out in
+the end. Not to mention: if you only get 1 skill point per level you can select
+a skill that takes 2 points to level up. Then your fighters can do something
+other than Intimidate! Also, if you¡¯re leveling up your INT ability scores,
+you can get more skill points for previous levels! Example: If your wizard has
+INT of 18 and you plan to increase the ability to 20, your effective score
+increases from +4 to +5, giving you skill points of: 1 (base) +5 (bonus from
+20INT) = 6 points per level instead of just 5. I found that squatting more than
+4 levels (Levels 5-8, 13-16, 21-24, etc.) is impractical. The average party
+level is calculated rounding up always, so if your party has 6 members, 5 are
+level 10, and one is level 11, then the game recognizes your party as being
+average level 11. But level squatting is a workaround mainly to compensate for
+the steep experience adjustment curve; other workarounds involve a 4-member
+party and/or introducing a level 1 character late in the game to keep the
+average party level down. If you, like me, find this awkward, then install some
+fan-built modules (mods) mentioned below.
+Sir Rechet/Jukka, the resident maths specialist on ID2 forums, has determined
+that you gain less XP if your *average* party level is a whole number, meaning
+it's best to keep one party member a level below the average. For example: A
+party with five members at level 8 and one still level 7, will be considered
+level 7 average (despite the average being approximately 7.8), and will receive
+the same amount of XP from kills as a party of six level 7 characters would.
+5) CHA-BONUS ITEMS: There are three abilities that give spellcasters their
+spells, INT (wizards), WIS (divine casters) and CHA (bards and sorcerers).
+INT and WIS are stable, by which I mean that memorized spells stay even if you
+unequip an item that gave the character bonus spells. CHA-bonus items should
+be handled with more caution, since unequipping them causes the character to
+temporarily lose bonus spells. Always check the info screen to see if you have
+bonus spells that are at risk. For example: Your level 12 sorcerer has 21CHA
+and a +3CHA bonus item, total 24, giving him an extra level 2 and 6 spell for
+22CHA, and an extra level 3 spell for 24CHA. You want to unequip the item, but
+you just rested, and haven¡¯t used up any spells yet (if you already used a
+level 2, 3 and 6 spell, you can just unequip with no risk). You decide to
+first equip a different item in a different item slot, which has +1CHA. This
+will keep your level 2 and 6 spells safe. Your sorcerer can then cast a level
+3 spell, like Magic Circle against Evil, and then unequip the +3CHA item. This
+way, you haven¡¯t wasted any spells.
+
+
+MY PRIORITIES by which I created my party, are as follows:
+-------------
+Originally I intended to make an Underdark party with all 11 classes included,
+but this idea was soon ignored in favour of practicality.
+Powergaming is the most important aspect. I wanted to create a party that is
+useful in practice, not just in theory. It is geared to be effective when
+using many kinds of tactics, from combat to spellcasting.
+No XP penalties (read the Favoured Class paragraph on page 4). I don¡¯t
+tolerate builds that get XP penalties at any point in the game, not even
+temporarily, or at the 'final' level.
+No high-AC decoy. In HoF, it is very difficult to get a high enough AC to make
+much difference (Tactics4IWD2 mod remedies this, giving +20AC in HoF). But
+with 72 AC, a character will become very hard to hit by most enemies.
+Achieving this high AC often involves taking mix-ins that give an XP penalty,
+using all the best items, and casting numerous short-lasting spells. You end
+up with a character that is nearly useless at doing anything else, other than
+running around as a decoy. Powerful monsters and bosses have a higher attack
+bonus, so they¡¯ll hit regularly anyway, and if enemies roll a critical
+(rolling 20 on a d20, 5% chance per attack), they will still hit, and hit
+hard. Also, the decoy¡¯s spells wear off, meaning this tactic can only be used
+a few times before resting. I dislike this type of character, because it is
+designed for a singular purpose, and adds no versatility or strength to the
+party. To learn more about high-AC decoys, read an Ultimate Powergaming Guide.
+I minimize and delay mix-ins (read about mix-ins in chapter 3). It is important
+to keep the main class of your character as high as possible (read why in
+chapter 2), so taking mix-ins should be done only if it is worth it. Timing is
+also of great importance. But speedleveling is of limited priority: I didn¡¯t
+dismiss ECL races (read below) just because they put me at a disadvantage early
+on. If the benefits later greatly outweigh the inconvenience, then the race is
+chosen regardless.
+I wanted to have a 6-member party from the start of the game all the way to the
+end of HoF. This means I couldn¡¯t use party strategies to increase my XP gains
+(small party, and muling), with the exception of level squatting.
+Roleplaying concerns were not taken into account when creating the party. A
+Lawful Good Drow Morninglord of Lathander was not dismissed for being an
+unrealistic character. Significant creative leeway was applied when choosing
+the BG2 NPC Jaheira as her name/identity. The only roleplaying features involve
+cosmetic things, like names, biographies and pictures.
+
+
+ECL: Certain races are at a 1, 2 or 3 level disadvantage, or ¡®Effective
+----
+Character Level¡¯. But if many in your party have an ECL, then the rest is
+actually at a relative advantage. The level adjustment to XP will slightly
+compensate for this disadvantage, as you will gain more XP for kills. I can¡¯t
+accurately predict what this difference does to your total gained XP, because I
+know the maps spawn more opponents depending on your level, and these opponents
+give varying XP, also depending on your level. Spoiler1!
+Some of  the new races in the game are at an ECL disadvantage, so although your
+Svirfneblin is at level 1, his/her ECL is at 4, meaning her total XP must
+exceed 10000 to reach level 2 (effective level 5). ¡°High powered races¡±, this
+refers to the many bonuses the races get at the start of the game, start with
+given XP to compensate somewhat for their leveling disadvantage, so that they
+need only 1000 XP to reach level 2. You start noticing the difference at level
+3. Drow and Duergar/Gray Dwarves start with 5000 XP, so they need 1000 XP to
+reach level 2 (=effective level 4), Aasimar and Tiefling get 2000 XP at the
+start, but svirfneblin/Deep Gnomes are an exception to the rule: they get only
+5000 XP at the start, and need 5000 more XP to reach level 2. It is an
+overlooked glitch in the game (They were intended to start with 9000 XP). It is
+fixed in the Ease-of-use mod.
+
+
+FAVOURED CLASS: Races have a favoured class (their profession, like fighter or
+---------------
+wizard), which determines their speciality when multi-classing. The game gives
+you complete freedom to choose between races, genders, and classes (with the
+exception of a few alignment restrictions for classes, multiclassing limits for
+monks and paladins, and the Drow¡¯s gender is also significant), but you will
+be penalized 20% or more of a character¡¯s XP earned for having 2 classes which
+are more than 1 level apart. The exception is the favoured class, which is not
+considered in the determination of the XP penalty. So for example you can have
+a Lightfoot Halfling with 15 levels of sorcerer, 14 levels bard and 1 level
+rogue. The rogue level is disregarded because it¡¯s the Lightfoot Halfling¡¯s
+favoured class. I wouldn¡¯t advise this combination though, since you¡¯ll have
+a weak sorcerer, and the bard/rogue will have to cover both thieving and
+diplomacy skills in the group. I have better suggestions later. Keep in mind
+that a character¡¯s initial alignment limits their class choices, and as a
+result, their multiclassing options (unless you tweaked the alignment
+requirements in Ease-of-Use, I didn¡¯t because it makes the character creation
+too easy, and less fun). So a paladin/bard is out of the question,
+unfortunately.
+
+
+ABILITY bonuses, or ¡®MODIFIERS¡¯ are given for even values rounded down, so 12
+-------               ---------
+STR gets +1 Attack Bonus (AB), 13 as well, and 14 gets +2 AB. This is important
+in considering abilities, and when leveling up. I first tried to plan my party
+around the acquisition of ability enhancing items, but these become so numerous
+in the game that it becomes pointless, since you will be switching items
+constantly for your game tactics. Spoiler2!
+But remember that ability enhancing items and spells are not cumulative ¨C you
+can only apply one bonus per ability. So STR-, DEX-, and CON-enhancing items
+can be used on the same character, but a second STR-enhancing item will give
+no additional bonus (highest bonus counts, in the case of bonus vs. penalty
+items, the last equipped item counts). Neither are item bonuses cumulative with
+ability enhancing spells like Bull¡¯s Strength. Druid shapeshifts have a set
+STR/DEX/CON, so these can still be boosted with spells and items. Spoiler3!
+
+
+*------------------------------------*
+|  Chapter 2: CHOOSING MAIN CLASSES  |
+*------------------------------------*
+
+ABOUT MIX-INS:
+-------------
+To create an effective party, it is important to start off with a varied team
+with the right main classes. Unlike other games like Baldur¡¯s Gate 1 and 2,
+and Icewind Dale 1, this game uses third edition (3E) Dungeons and Dragons
+rules, including the leveling system. The 3E leveling system makes it very
+costly to be ¡®multiclass¡¯. In BG2, when a single class mage would become
+level 18, a multiclass cleric/mage would become roughly levels 14/14. So,
+multiclass characters would be able to cast level 7 spells at the same time
+that single class mages could cast level 9 spells. In IWD2 this works
+differently: IWD2 doesn¡¯t take class level into account, but the total
+character level. This means multiclass cleric/mages would be at level 9/9 at
+the time a single class character would be level 18! The multiclass caster
+would just be able to cast level 5 spells, while the single class mage could
+cast level 9 spells already. This is too big of a difference, and makes
+multiclassing far too inefficient. But the advantage of the 3rd edition
+ruleset, is that it allows for multiple mix-in levels taken, enabling you to
+gain bonuses from other classes. These mix-ins must be kept to a minimum and
+timed well, because every level taken sets you back permanently in your main
+classes¡¯ progression, and each subsequent mix-in level taken weighs more
+heavily than the previous one. XP sacrifices are often underestimated early
+on, since the XP cost of the mix-in continues to increase as you level up.
+Mix-in options are discussed in the next chapter. They are in a way comparable
+to an ECL penalty to your character, only you don¡¯t get a bonus to XP gains
+for being lower level.
+Single class units have their Base Attack Bonus maximized, and cast spells with
+better hit die and duration. There can be tremendous advantages to mixing in a
+single class, provided you choose the right combo and time it right.
+The mathematics of mixin in classes can be deceptive: Each class you mixed in
+gives you a cumulative penalty as you become higher level.
+Let's say you mixed in 1 class at level 2: You may think it's no big deal,
+because it was only 2000XP worth of delay. But by the time you are level
+9Main/1Mix-in, it will cost you 11000XP to reach your 11th level, and be at
+roughly the same competence in fighting/casting as a single class character
+would. At your 15th level, this delay extends to 16000XP. For sure, a single
+class character would have new spell levels ready for a whole dungeon's worth
+of gameplay, while your Mix-in unit is still waiting for them.
+That being said, the bonuses from mixing in the right class at the right time
+are often worth this delay. But when you're talking about mixing in 2 levels
+of another class, realize that you're more than doubling this delay: at level
+10, it's not 11000 but 23000XP you'll need to catch up. at level 15, it's not
+16000 but 33000XP you have to gain for your main class to be on par with a
+single class.
+Still, in this guide, I still advocate mixing in 2 classes at the right time,
+because it can be worth it. But you need to really think carefully about what
+you mix in. If you mix in 2 levels, it better be 2 *different* classes, to make
+the bonuses worth the delay.
+When we're talking about 4 Fighter levels mixed in, the delay is too much to
+handle. 50000XP at level 10 (11000 + 12000 + 13000 + 14000 to become Main class
+10 / Mix-in 4). 70000XP at level 15! The benefits of Weapon Specialization,
+Maximized Attacks and 3 extra feats are not worth the price you will pay at the
+start. The only instance I can think of when Fighter4 mix in is beneficial, is
+for a very high level Cleric. I'm talking about caster level 19+, after you
+have acquired level 9 spells already. This level will only happen if you replay
+the game in Heart of Fury mode. Clerics have mostly healing, buffing and
+no-saving-throw debuff spells in their repertoire. For Clerics, it may be more
+beneficial to invest in Fighter levels *at high level*.
+A 1-level mix in of Fighter brings a free feat and proficiency in shields,
+heavy armour and martial weapons, which can be worth it for a caster. You can
+always turn a 1-level mix-in into 4 levels later, if it serves your purposes. 
+From the above, it should be clear that you must aim towards getting a party
+of near-single-class characters, to keep spellcasting and other class bonuses
+up to speed.
+
+
+A SUMMARY OF the usefulness of all classes as MAIN CLASSES:
+  ----------                                  ------------
+Barbarian: A barbarian is a formidable warrior in the frontlines, with
+'staying power' like no other class has. They have more speed and HP, later
+gaining damage reduction (DR). Barbarian rages improve as well, and serve as
+their personal insta-casting buff ¨C no difficulties on the battlefield. Their
+HP have the potential to go over 600 at level 30, and at level 40, with quest
+bonuses and (mod) items equipped, can possibly even reach 1500+HP! Barbarians
+are great frontliners, especially when accompanying a cleric who can buff them.
+My original party contained a barbarian, but I¡¯ve replaced him with a bard
+now. He remains in the guide as an alternative character. DR can be available
+to everyone who uses armour and shields with the relevant Ease-of-use mod
+component installed. Even the +2AC from the War Chant of Sith bard song gets
+DR with it! DR is very useful, and even if you install the mod, the
+barbarian's DR is still a significant advantage.
+Bard: Bards are mediocre warriors, but this is not their best function. I
+advise against having a bard in a party with less than 5 members. In a full
+party, a bard offers a constant source of enhancing ¡®spells¡¯, as long as he
+keeps singing. The Lingering Song feat allows him to cast a spell or briefly
+fight in between, without the song wearing off immediately. Bards have a
+limited spell book, but with some useful spells among them, greatly enhancing
+your options. Spells must be picked from all available spells, and the bard is
+limited to the chosen spells, like a sorcerer. Spell level progression is very
+slow with bards; they are able to cast level 8 spells at bard level 26 (wizards
+would reach spell level 8 at wizard level 15). Early on, the slow progression
+is not severe, only the highest spell levels (7 and 8) become available very
+late. The songs are the main ability of a bard, and this makes them a good
+class for players who know how to use this.
+Cleric: Clerics, it is widely agreed, are the most overpowered class in the
+game. Being the only class with access to the Raise Dead and Resurrection
+spells alone, makes them vital for any party. Next is the level 3 spell Animate
+Dead, which gives long lasting summons that are very powerful at higher levels.
+Most importantly, the selection of buffing spells available to the cleric is
+unmatched by any other class. Their characteristics make them suitable to be
+used on the frontlines, especially when their CON or STR is maximized when
+leveling up, instead of WIS. The ¡®battlecleric¡¯, when properly buffed,
+outcompetes any warrior build in melee (except the modded & shapeshifted high-
+level druid, and the cleric-buffed barbarian). In overall power, usefulness and
+versatility, the cleric is the best. I have 2 frontline battleclerics.Spoiler4!
+Druid: The druid was short-changed in the original game, falling greatly behind
+mages and clerics. Druids can be compared to both, since they have a mix of
+offensive and healing spells, but few buffs. With a druid in the party, you
+have access to the buff spell Barkskin, which is quite useful. Druids can
+shapechange into various creatures, but the original shapes weren¡ät very
+impressive. The Ease-of-use mod gives additional druid spells and alternate
+shapeshift forms. The spell Stoneskin can now be cast among others, and the
+Half-Dragon shapeshift forms at high levels are obscenely powerful.
+Fighter: Fighters are rather uninteresting, since they gain no spells or
+abilities at high level, just a lot of extra feats. This eventually becomes
+less useful, when the best feats are taken. 4 levels enables you to choose 3
+feat slots in any weapon, making them better at dealing damage. I don¡¯t advise
+taking fighter as a main class, because all the frontliners, except the ranger,
+outmatch it.
+Monk: Monks gain many innate resistances, speed, immunities and abilities,
+becoming deadly at high level, but they start off a bit weaker than other
+warriors. They fight unarmed and unarmoured much better than with such gear. An
+interesting class for a warrior, but I prefer the versatility and variation of
+weapons over fists. There seems to be very little tactics involved in using a
+monk, save a handful of innate castable abilities. For the rest, they plow
+through most enemies the same way, with their enchanted fists. They can be weak
+against powerful enemies, if their fists haven¡¯t reached the required
+enchantment level to hit them. But I don¡¯t speak from experience. They are
+proficient in axes. Monks are lawful and restricted to orders, so mix-in
+options are limited: If you take (almost) anything else, you can¡¯t take monk
+levels anymore. To reap all the rewards of this class, you must focus on
+increasing your WIS. The Evasion feat will remain active even if you wear
+armour or a shield.
+Paladin: A full paladin gains a number of passive bonuses in the first 3
+levels, and starting at level 4 they can cast spells. Their spellbook is
+essentially a limited version of the cleric book, missing all the spells that
+made clerics great, but still with a few useful spells. Paladins need WIS to
+cast spells, and gain a Saving Throw (S.T.) bonus from CHA, meaning they need
+many of their abilities to be high, for combat, spells, and usefulness.
+Min-maxed paladins also end up with low DEX and mediocre abilities, and these
+reasons together convince me that paladin is an inferior main class. A
+well-buffed cleric can match a paladin in melee, and also cast all the same
+spells, and more. Also be advised that besides refusing rewards for quests,
+pure paladins also refuse to use subterfuge, meaning they can¡¯t use a certain
+disguise in a quest. Paladins are restricted to orders, so mix-in options are
+limited: If you take (almost) anything else, you can¡¯t take paladin levels
+anymore. Spoiler5!
+Ranger: A ranger main class is the least powerful character in the game. First
+of all, they have the worst spellbook in the game. You get +1 Attack Bonus to
+hit favoured enemies, and this AB increases when leveling. They start with an
+equivalent of the feats Ambidexterity and Two Weapon Fighting, on the
+condition that they wear light or no armour. In comparison, their bonuses
+don't compare to the bonuses that other classes get. At high level, you hardly
+notice that rangers even have spellbooks, that¡¯s how useless their spell
+selection is. The Light of Selune component Upgraded Classes gives rangers an
+'improved Reflex S.T. progression', but may also ruin the Reflexes of any
+other character that takes a level ranger as mix-in, so be warned. I advise
+against installing this subcomponent, as well as taking a ranger as main class.
+Rogue: In IWD2 you don¡¯t need a full rogue, as rogue tasks (lockpicking,
+disarming traps, etc.) are adequately performed with an intelligent, dexterous
+wizard, preferably with 1 or 2 rogue levels mixed in. At level 2 you get
+Evasion free, and at level 3 Uncanny Dodge. These rogue feats are reliable
+passive bonuses, and cannot be disabled. After level 10, more rogue feats can
+be chosen, which are very powerful. The most important ability a rogue gets,
+is its sneak attack, which adds an extra 1d6 damage per 2 levels if it attacks
+an unaware opponent, like when enemies are attacking another, or can¡¯t see or
+react to the rogue. Rogues remain relatively weak.
+Sorcerer: Sorcerers are the second strongest class in IWD2, after clerics.
+They are a popular and useful main class, especially for players who enjoy
+spellcasting. Many such players even take 2 sorcerers in their party! They have
+more spells per level than wizards, and can choose from all spells when
+leveling, instead of needing a scroll. These spells can be cast
+interchangeably, instead of requiring specific memorization before resting.
+Also, when leveling, new spells are immediately available, which can mean extra
+spells in mid-battle (I advise against this, because this reduces the XP your
+gain from kills. Level up just before entering a new map, so more enemies will
+spawn, to compensate). The main disadvantage of a sorcerer, is that they are
+stuck with the chosen spells, meaning they must choose wisely (read chapter 7
+for tips). Also, their spell level progression is one level behind wizards, and
+they don¡¯t get the extra feats that wizards do.
+Wizard: A wizard main class is very useful, its arcane spellcasting and INT is
+good to combine with rogue skills and intelligent dialogue options. Wizards get
+an extra feat every 5 levels plus one at level 1. They must learn spells from
+scrolls, which means that taking more than one wizard in your party would make
+it necessary to buy some essential scrolls. They have a slight advantage over
+sorcerers, since they can cast new spell levels at odd wizard levels (3, 5, 7,
+9, etc.), whereas the sorcerer learns them at even levels one level later (4,
+6, 8, 10, etc.). Wizards learn fewer spells per day than sorcerers, and must
+memorize castings before resting, making it necessary to anticipate your needs
+in advance. Specialist wizards get an extra spell per level, at the cost of
+one or two forbidden spell schools. Spoiler6!
+
+To form a good party in IWD2, you¡¯ll want a variety of (mainly) spellcasters
+to get the most out of the game. Of course, melee is an important part of the
+game, so you¡¯ll need melee warriors on the frontline too. To discover what
+is the best frontliner, I need to answer some questions: What is the best
+warrior main class? As explained above, this is a battlecleric. What is the
+best race for a BATTLECLERIC? Which are the best cleric domains? My SUMMARY,
+answering these questions, is below.
+
+
+WHICH CLASS: It is widely accepted that the buffs in the cleric's spell book
+----------- 
+offer unmatched combat prowess, so I don't think this needs *even more*
+explaining. The second most powerful class, however, is a difficult matter.
+Many say a paladin is the most powerful warrior, and this *might* be true. But
+the paladin has a mediocre selection of cleric spells in his spellbook, so
+there's hardly any difference - you¡¯re better off with another cleric.
+Min-maxing the abilities of a paladin results in poor DEX and limited WIS to
+accomodate for CHA. This means it¡¯s a poor ranged attacker and spellcaster.
+Its only advantages over clerics are S.T. bonus, better BAB, and the Spoiler5!.
+But the cleric's spell selection outmatches all of those bonuses.
+I think the barbarian deserves to be in second place, because it's truly
+different from a cleric, offering abilities like rage, DR, and loads of HP
+(=staying power in melee). When min-maxing a barbarian, you can maximize DEX,
+giving it better AC and ranged Attack Bonus (AB) than a paladin. Monks would
+come next, since they become powerful at high level, but are hard to
+multiclass. A fighter's many feats make them next in line, leaving rangers
+last with their poor spell selection. I should make mention of the high-level
+druid shapeshifts from the Ease-of-use mod, they are obscenely powerful, but
+only available in the late game.
+
+
+WHICH RACE: There are a number of effects to take into consideration, when
+-----------
+deciding which race to pick for a battlecleric. I'll list them in order of what
+I think is decreasing importance, but opinions on this are very divided:
+Spell Resistance (SR): I cannot emphasize enough how good it is to have a
+frontline battlecleric that is spell resistant, so your mages can bombard the
+battlefield more safely. Clerics have a somewhat poor Reflex S.T. progression,
+so would take a lot of  damage without SR, because they often fail S.T. from
+evocation spells and the like.
+Multi-classing options (MC): The ability to take mix-in levels of other classes
+becomes very important later in the game. A pure single class character becomes
+much less versatile than a character with a few mix-in levels. Also, races
+which can't multi-class, are forced to use Simple Weapons, or pick
+Martial/Exotic Weapon feats. Classes with mix-ins also have more options to use
+class-specific items.
+Martial Weapon Feats (MWF): Early in the game, most pure clerics are limited to
+Simple Weapons, and most of these give less damage than Martial Weapons. The
+Drow's proficiency in longswords and bows (all elves have this) is very
+welcome: It avoids them having to take weapon feats or a warrior level early.
+Constitution (CON): Constitution improves HP, Fortitude S.T. and Concentration.
+So, it helps clerics both in melee and in spellcasting.
+Elemental feats & diplomacy (EF&D): Basically, to get these you need 2
+skillpoints per level, to divide between Spellcraft, Diplomacy and
+Concentration. Humans can do this, all other races would need 10 or 12INT
+(depending on the class), and this is an inefficient tradeoff for a powergamer.
+Clerics, fighters, paladins and sorcerers are at the greatest disadvantage,
+since they start gaining 2 skillpoints per level at 12INT. Rogues have the
+greatest advantage, with 4 skillpoints/level at 10INT. All other classes get 2
+skillpts/level at 10INT. Taking average INT, just to get 2 skillpoints per
+level, is very wasteful. That¡¯s partly why many in my party are human.
+Strength (STR): Strength is quite important for a battlecleric, but it only
+helps them in combat, not when casting spells. For this reason, it is less
+important than CON.
+Wisdom (WIS): Wisdom seems like the most important ability of a cleric, but it
+is actually less important for a battlecleric. Every 2 points in WIS gives the
+cleric 1-3 extra spells (total, not per level). It also enhances the spell
+Difficulty Class (DC) by 1, but this is only useful for offensive spells which
+must overcome enemy S.T.. Clerics use healing and buffs mostly, so they don¡¯t
+really need high DC. With 19WIS, you can cast level 9 spells. After achieving
+20WIS (with bonus items), it's better to focus on CON or STR instead.
+Dexterity (DEX): Battleclerics will frequently utilize their DEX bonus for
+Reflex S.T. and ranged attacks, but heavy armours don¡¯t allow for a high DEX
+bonus to AC.
+Effective Character Level (ECL): Some races start at a 1, 2 or 3 level
+disadvantage, and this makes leveling up slower. The dynamic experience system
+of IWD2 slightly mitigates this disadvantage. In my humble opinion, it is the
+least important of these points. There are other considerations, but these are
+minor.
+
+Now to choose a race for your cleric. I listed the races in what I think is
+decreasing order, from best to worst race:
+Female Drow: +SR, +MC, +MWF, -CON, +DEX, -2ECL
+Human: +MC, +EF&D
+Aasimar: +WIS, -MC* (paladin mix-in only, read Spoiler5!), -1ECL
+Dwarf: +MC* (fighter mix-in only), +CON (Gray Dwarf -2ECL)
+Deep Gnome: +SR, -MC, -MWF, +CON, -STR, +WIS, +DEX, -3ECL
+Spoilers4&5!
+
+
+WHICH CLERIC DOMAIN: This is a very complicated and interesting decision, and
+------------------- 
+I eventually rank the most useful down to the least. And it doesn't hurt to
+compare other casters as well.
+The first consideration is the bonuses that the classes/cleric domains get.
+Some interesting ones are paladin S.T. bonuses from CHA, ranger dual-wielding
+in light or no armour, Bane cleric's Tyrant's Dictum (+1DC Will spells),
+Weapon Focus: Axe for Tempus clerics, bard songs, druid shapeshifting, etc.
+There are many more, but these aren't crucial for a frontline warrior. The
+bonuses are too numerous and complicated to all categorize and evaluate, so
+I must disregard these.
+Another thing to consider, is that Dreadmasters of Bane, and lawful good
+characters with a paladin level, have the potential to benefit from the
+spoiler mentioned above. This puts Bane clerics and Paladins ahead, as well
+as all classes with the opportunity (depends on multi-class options and
+alignment) to take this as a mix-in. Classes that qualify are lawful good
+rangers, Ilmater, Lathander and Helm clerics, all with paladin mix-ins.
+Druids, bards and rangers with banite mix-in also benefit.
+There are 3 types of feats that can be taken to improve your spellcasting:
+Spell Penetration, Elemental feats and Spell Focus:[school].
+1) SPELL PENETRATION feats have a major downside, because they will make your
+spells also break through your party¡¯s own SR. A wizard with Spell
+Penetration, casting a Fireball within range of a resistant ally, will then
+have a higher chance of harming the ally. This doesn¡¯t mean Spell
+Penetration feats should be dismissed outright, but it should be avoided if
+you have party members that use Spell Resistance (3 or 4 of my party have it),
+and you cast area damage spells with the caster in queston. Certain classes,
+used wisely, run no risk of damaging your party with their spells. Clerics for
+example, have very few spells which can harm the party, so taking Spell
+Penetration might be worth considering. Spell penetration will improve
+debuffing spells like Bane, Chant, Prayer, and even spells with no saving
+throw will be improved, like Recitation and Holy Word. It will only improve
+effects on enemies with SR, but these are arguably the most important to
+affect. Generally all clerics and paladins may benefit from Spell Penetration,
+improving their chances of affecting enemies with SR by 9% per feat, and
+without risking harm to your party when used wisely.
+2) ELEMENTAL FEATS give 20% bonus to damage dealt by spells of one type of
+element, and also bestow a passive damage resistance of 5 to that element. If
+you use a type of element often, then this feat is extremely helpful,
+significantly improving the effectivity of your caster¡¯s damage spells.
+Spirit of Flame enhances the numerous fire spells available to many casters,
+so this feat is by far the best of the four kinds. Scion of Storms would come
+second, since there are some good lightning damage spells, and then it¡¯s a
+toss-up between Aqua Mortis and Aegis of Rime, since there are few acid and
+cold damage spells. The main disadvantage of elemental feats, is that they
+require 10 or more (mod or INT dependant) points to be spent in Spellcraft
+skill, which can be difficult for non-wizards with low INT to achieve.
+Casters with low intelligence also get few skill points per level, meaning
+that for most casters it puts a strain on abilities (to aquire enough INT to
+get 2 skillpoints/level). Humans, who always get at least 2 skillpoints per
+level, are at a distinct advantage because of this. For other races, achieving
+the prerequisite 10 Spellcraft may not be worth the effort, since it will cut
+into their Concentration, or require them to get 10-12INT at the expense of
+other abilities.
+3) The most important consideration, is how to apply your SPELL FOCUS FEATS,
+to benefit your spellcasting. Each SF feat gives you +2DC for spells of that
+school. But this is only relevant if it is an offensive spell, because it is 
+meant to help you overcome enemy S.T.. This is all it does. It won't give
+longer durations or better effects; it just makes their spells harder to save
+against. Spell Focus influences the outcome of enemy saves positively in an
+optimal situation, that means no enemy SR, their S.T. isn¡¯t too high (or low),
+and they don¡¯t have immunity to the spell¡¯s effects. When all these
+conditions are met (and mostly they are), then each Spell Focus feat gives a 9%
+boost each, to results in its spell school. I checked each cleric domain's
+spell selection, searching for spells of the types Enchantment, Evocation,
+Necromancy and Transmutation, because these schools can be focused in.
+So I searched for all the attack spells that utilize spell DC, in these four
+schools, for all the classes and domains. The results should be interesting,
+since it will also give tips for which SF feats to take. I wasn't sure if all
+magic weapons and offensive barriers use spell DC in combat, so I included
+them just in case.
+* asterisks indicate if there is another spell on that spell level, of the
+same school type. For example, if there are 2 Evocation attack spells on any
+(domain) level, I just count one, and include an asterisk. So 6*** means there
+are 9, but only 6 can be memorized at once.
+Alignments are abbreviated between brackets. Enc=Enchantment, Evo=Evocation,
+Nec=Necromancy, Tra=Transmutation.
+Ilmater (LG, NG, LN): 3 Nec, 1 Enc.
+Lathander (LG, NG, CG, TN): 6* Evo, 1 Nec. (5 are fire evocation)
+Selune (NG, CG, CN): 5* Evo, 1 Enc.
+Helm (LG, LN, TN, TE): 2 Enc, 2 Evo.
+Oghma (NG, LN, TN, CN, NE): 3 Enc, 2 Evo, 1 Nec. (Wail o/t Banshee)
+Tempus (CG, TN, CN, CE): 2 Tra, 1* Evo.
+Bane (LN, LE, NE): 6*** Enc, 2 Nec, 1 Tra.
+Mask (TN, LE, NE, CE): 2 Enc, 2 Evo, 1 Tra, 1 Nec.
+Talos (CN, NE, CE): 5** Evo, 4* Nec, 3Tra, 1 Enc. (7 do electrical damage; 4*
+ Evo, 2 Tra) (Wail o/t Banshee)
+Bard (NG, CG, TN, CN, NE, CE):12 Enc on 5 lvls, 5 Evo on 5 lvls, 4 Tra on 2
+ lvls, 2 Nec on 2 lvls. (Wail o/t Banshee)
+Druid (NG, LN, TN, CN, NE): 19 Evo on 8 lvls, 12 Tra on 6 lvls, 4 Nec on 4
+ lvls, 3 Enc on 3 lvls. (6 fire, 3 electrical)
+Paladin (LG): 2 Evo, 1 Tra.
+Ranger (ALL): 5 Evo, 4 Tra, 3 Enc.
+Sorcerer/Wizard (ALL): 16 Enc on 6 lvls, 33 Evo on 9 lvls, 22 Nec on 9 lvls, 21
+ Tra on 8 lvls. (many powerful offensive spells!) [available spells limited by
+ specialty school or sorcerer¡¯s spell picks]
+
+
+Remember that I am evaluating these main classes' EFFECTIVENESS AS FRONTLINERS
+                                                  ----------------------------
+primarily, but also as spellcasters. According to my analysis, the strongest to
+weakest melee combatants would be:
+* The Dreadmaster of Bane with GSF: Enchantment.
+* The Morninglord of Lathander with GSF: Evocation (Unholy Blight is Evocation,
+ so why is Holy Smite Necromancy?). Spirit of Flame would improve damage.
+* The Stormlord of Talos with GSF: Evocation, then GSF: Necromancy, later
+ Transmutation if possible. Scion of Storms would work very well.
+* The Painbearer of Ilmater with GSF: Necromancy.
+* The Watchknight of Helm with GSF: Enchantment.
+* The Battleguard of Tempus has few attack spells, but a Deep Gnome could take
+ this for example, and take combat abilities and feats when leveling, instead
+ of SF. The Axe feats make it an interesting battlecleric build. I rank them
+ 6th because they miss out on quest bonuses that casters above can get, due to
+ alignment limitations.
+* The Silverstar of Selune with GSF: Evocation.
+* The Lorekeeper of Oghma with GSF: Enchantment, then Necromancy.
+* The Demarch of Mask, all SF is of limited use.
+* The Druid offers loads of attack spells, many can be improved with SF.
+ Start with GSF: Transmutation, then Evocation. More focus isn¡¯t needed after
+ that, but Necromancy is slightly more useful than Enchantment. Spirit of Flame
+ and Scion of Storms feats work wonders too. Druids rank 10th because their
+ combat buffs are fewer than clerics, and it makes them average frontliners.
+ But as offensive spellcasters, or when modded & shapeshifted at high level,
+ they should be on top of the list! Spell Penetration would be bad for druids,
+ if you have party members with SR. They beat melee classes by virtue of the
+ Heal spell, and shapeshifting.
+* The Paladin is like an inferior, combat oriented cleric. It offers few
+ offensive spells. Take GSF: Transmutation if you want your Lower Resistance
+ to work better. And Evocation aids 2 spells at level 6.
+* The Ranger is almost like an inferior, combat oriented druid, like what the
+ paladin is to the cleric. But it has a few unique spells. Take similar SF
+ feats as the druid. But rangers have no Necromancy, and have little use for
+ elemental feats.
+* The Wizard/Sorcerer: if you paid a little attention to CON, DEX & STR at the
+ start, the arcane specialists can pitch in with combat, maybe even melee. All
+ elemental and SF feats are useful, depending on your available spells, and
+ casting style.
+* The Bard; the master of no trades. GSF:Enchantment suits them well, Evocation
+ is nice too, but you might want to improve their only 2 Necromancy spells
+ (Horror, Wail o/t Banshee). You probably won¡¯t get around to Transmutation;
+ those spells are OK too. Elemental feats aren¡¯t that useful, but Spell
+ Penetration may be handy, depending on your spells. I choose to give up on
+ melee with bards, partly because their spell feat requirements don¡¯t leave
+ room for combat feats. 
+The elemental feats mentioned are optional if you¡¯re human and have feats to
+spare; don¡¯t adjust a character just to get them. Clerics without elemental
+feats do fine, so don¡¯t increase INT for extra skills, and definitely don¡¯t
+reduce Concentration! Spell Penetration should be seen as extra boost to
+debuffing spells, but is of low priority.
+
+
+*----------------------------------------*
+|  Chapter 3: MIX-INS, FEATS AND SKILLS  |
+*----------------------------------------*
+
+I believe in the power of ¡®mix-in¡¯ levels of classes (read about Mix-In and
+leveling issues in previous chapter), so you can concentrate mainly on your
+most important class. Most of my characters are near-specialists, with only
+a few levels of other classes mixed in. I have only 1-3 levels mixed-in in the
+normal mode game, to avoid setting your main class back more than one spell
+level. There is much criticism about 3rd edition rules for this reason, since
+it allows the creation of ¡°¨¹ber-characters¡±. But it makes a single game more
+inclusive and entertaining. You no longer have to worry if you¡¯re missing out
+because you can¡¯t start a certain dialogue, or can¡¯t wear items. Neither do
+you have to choose whether to take along a paladin or monk; now you can take a
+bit of all of them with you. My party can wear and use all of the items. 
+
+
+A SUMMARY OF the usefulness of all classes as MIX-INS, in alphabetical order:
+  ----------                                  -------
+* Barbarian: A level barbarian will increase your HP, add a little movement
+ speed, give 1 rage/day, and martial weapon proficiencies. Requires a
+ non-lawful character.
+* Bard: One level allows you to use bard items. At 2nd level a bard can cast
+ spells, but this requires 11CHA, one trick around this is that the 1st level
+ spell Identify can be used regardless of low CHA. The most useful bard mix-in
+ has 5 levels for access to Tymora¡¯s Melody song. Luck is a very powerful and
+ influential bonus, as it boosts the DICE ROLLS themselves. You strike a hit
+ more often and roll more damage, your spells have higher DC and hurt more/work
+
+ better. If you¡¯re ¡®lucky¡¯ and cast Bull's Strength for example, the 1d4+1
+ STR bonus will get better results. The spell Luck is limited to 10 rounds for
+ 1 person, and there are few items in the game which influence luck. But the
+ Tymora's Melody song can be cast unlimited, and it gives luck and more bonuses
+ to the entire party! But a 5 level mix-in is very pricy, and should be delayed
+ until your main class is high enough. Requires a non-lawful character.
+* Cleric: A cleric level bestows the abilities of that cleric order on the
+ character, which varies. These bonuses are mostly of limited value, and not
+ worth taking a mix-in for. Clerics are the most powerful class to have as main
+ class, though. As a mix-in they might boost S.T. and give heavy armour and
+ shield proficiency. See the sorcerer description below for a potential
+ bug-abuse. Spoiler4!
+* Druid: I see little point in taking a druid mix-in, except some additional
+ Entangles.
+Fighter: Gives extra feats, and 4 levels enables you to choose 3 feat slots in
+ any weapon, making them better at dealing damage. More than 4 levels just
+ delays your main class more. Again, this is a pricy mix-in, so best undertaken
+ in HoF mode.
+* Monk: An interesting class for a warrior, but I prefer the versatility and
+ variation of weapons over fists. As a mix-in, they are potent for their
+ (unarmoured) AC bonus from WIS. That would require you don¡¯t wear any body
+ armour though. One level of monk also provides the Evasion feat, allowing you
+ to avoid reflex-spell damage entirely if you made your Reflex S.T.. They are
+ also proficient in axes. Monks are lawful and restricted to orders, so as a
+ mix-in most of the time you must take the levels consecutively: If you take
+ (almost) anything else, you can¡¯t choose monk levels anymore. To reap all
+ rewards of this mix-in class, you must focus on increasing your WIS, so
+ combine with a divine casting class preferably. But the Evasion feat alone can
+ be valuable enough to take a level late in the game. It¡¯s beneficial for a
+ high level sorcererX/paladin1, for example. The Evasion feat will remain
+ active in armour.
+* Paladin: A full paladin is a reasonable build, but it¡¯s better as a mix-in.
+ One level gives full weapon proficiencies to a spellcaster, and S.T. bonuses
+ from CHA. Not to mention access to paladin items, highly advisable. Ideal to
+ mix in with sorcerers and high CHA characters. A second level gives you an
+ Aura of Courage, meaning better S.T. vs. fear/panic. Paladins are lawful good
+ and restricted to orders, so as a mix-in most of the time you must take the
+ levels consecutively: If you take (almost) anything else, you can¡¯t choose
+ paladin levels anymore. It¡¯s ideal to mix in with a sorcerer, to gain a huge
+ S.T. bonus, and martial weapon proficiencies. Spoiler5!
+* Ranger: A full ranger is the least appealing character in the game, but just
+ one level gives you the feats Ambidexterity and Two Weapon Fighting free on
+ the condition that you wear light or no armour, arguably the most useful
+ bonuses a single level can offer. Not very useful to warriors, since you¡¯d
+ prefer to use heavy armour, and maybe a shield or a two-handed weapon, but
+ for arcane spellcasters it¡¯s superb: Arcane spellcasters won¡¯t want to use
+ armour or shields, since they give you a casting failure chance. They need
+ their assigned feats badly for enhancing their spells, and they really benefit
+ from using two weapons. You get +1 to hit a favoured enemy and all martial
+ weapon proficiencies to boot. Since spellcasters will be casting spells more
+ often than fighting in melee, the equipped bonuses from two weapons are
+ preferable over using a 2-handed weapon. The Light of Selune component
+ Upgraded Classes can make taking a level in this damage your Reflex S.T., so
+ don¡¯t install this. The ranger mix-in and the Armoured Arcana feat (see Feats
+ section below) both give spellcasters some equipment options, but it¡¯s best
+ to choose only one, depending on whether you can spare a feat or a mix-in
+ level...
+* Rogue: In IWD2, you don¡¯t need a full rogue. Mixing in rogue levels with a
+ wizard is *ideal*, as they both use their INT modifier for spellcasting and
+ skill points. Starting a character as a rogue gives it much more skill points.
+ At level 2 you get Evasion free, and at level 3 Uncanny Dodge. These rogue
+ feats are reliable passive bonuses, and cannot be disabled. I recommend rogue
+ 2 / wizard X. Bards can also use this mix-in.
+* Wizard: One wizard level gives a free feat, which may become a useful mix-in
+ later in the game, like fighter. It also enables characters to use wands and
+ scrolls. Fighter is still 1st choice is you just want the feat. Spoiler6!
+* Sorcerer: Sorcerers are useless as a mix-in besides a bug abuse: Add a level
+ sorcerer to a specialist mage, and you lose spell school restrictions for the
+ mage (but a level cleric does the same thing). So an Illusionist with a level
+ sorcerer can then also scribe, memorize and cast Necromancy and Abjuration
+ spells. It¡¯s pretty cheesy though, once I heard of it I went and tried, but
+ ended up reloading an old save. It just felt like breaking the spirit of the
+ game. I like the feeling of being ¡®forced¡¯ to use other spells due to school
+ restrictions, it gives your spellcasting more charm. I have used it after
+ entering IWG2, because in the past my druid couldn¡¯t cast Stoneskin in IWG2
+ (problem fixed). My illusionist now takes GSF:Necromancy at level 30, in IWG2.
+
+
+FEATS are important choices during the game (Mike Marshall¡¯s feats list was a
+-----
+real eye-opener, though I didn¡¯t go along with ALL his recommendations).
+Choose the right ones to make your characters more potent and resilient, don¡¯t
+waste them. Fighters and wizards get bonus feats every 2 and 5 levels,
+respectively, plus another feat at the first level (this is not mentioned in
+the rules or manual)! Fighters get feats at levels 1, 2, 4, 6, 8, etc., wizards
+get them at levels 1, 5, 10, 15, 20, etc. Unless you¡¯re human or strongheart
+halfling (they start with an extra feat) or have one of these classes in a
+character, you can count on 1 feat every 3 levels + 1 at level 1. Be warned:
+don¡¯t put off important feats too long: You¡¯ll be really pissed if you chose
+Dash instead of SF: Necromancy for your sorcerer. I wanted to convey all the
+useful feats, so you can judge for yourself which complement your game play and
+which don¡¯t, and then take those first. For more info, check out Mike
+Marshall¡¯s online guide to feats. Certain feats have ability requirements,
+these abilities are measured by the character¡¯s base ability, so equipping a
++2DEX item on a 13DEX character won¡¯t enable it to pick Ambidexterity
+(requires 15DEX), for example.
+Unlike earlier versions of my guide, I now advise to take the Rapid Shot feat,
+timed for its importance. It¡¯s more important for some characters, for whom it
+will be their main attack, because their melee is below average. Still, melee
+and/or spellcasting are more necessary for a character¡¯s development. A ranged
+combat situation can¡¯t be continued for long when enemies have approached:
+they get +4AB while you hold a ranged weapon, and you get ¨C8AB to hit them.
+For my wizard and sorcerer, ranged attacks are their best weapon, so they try
+to run away if targeted. My party isn¡¯t an ultimate ranged force, but they
+range-attack very well because of high DEX. I hate wasting enchanted quiver,
+because these are valuable items for selling off. Rapid Shot doesn¡¯t damage
+you by lowering the Attack Bonus (AB) for the first attack, because subsequent
+attacks get higher AB, which always results in an improved average AB. The
+slightest form of enemy DR weakens the damage output of most ranged attacks
+significantly. The Ease-of-use component ¡®Shields and Armour provide damage
+reduction¡¯ makes this effect worse, because enemies also get it.
+Another important feat not yet discussed, is Armoured Arcana. It¡¯s not a
+popular strategy, but it has merit for protecting your weak mages, especially a
+non-combat-oriented bard. It can be compared in usefulness to the Expertise
+feat, where you get an AC bonus at the expense of AB. Armoured Arcana costs a
+feat, but won¡¯t reduce AB. Mages can then use a shield with 5% less chance of
+spell failure. Some small shields only have 5% failure, so they can then be
+safely equipped. If a mage doesn¡¯t have shield proficiency from mix-ins, it
+suffers a penalty to AB, Hide, Move Silently and Pick Pockets. Luckily there
+are small shields out there that have a penalty of ¨C0, making them usable by
+non-shield-proficient characters at no disadvantage.
+Skills are acquired by allocating skill points when leveling up. The higher
+your INT, the more skill points you get per level. A little-known fact about
+this, is that certain classes get different amounts of skill points: Rogues get
+4 skillpts/level at 10INT, this is well-known, making rogues the most skillful
+class. Most other classes get 2 skillpts/lvl at 10INT, but there are
+exceptions. The cleric, fighter, paladin and sorcerer start getting 2
+skillpts/lvl at 12INT, not at 10. A great advantage of humans in this regard,
+is that they gain an extra skill point each level, regardless of INT. This
+allows your low-INT spellcasters to take another feat besides Concentration,
+and I have taken 2 humans in my party, partly for this reason.
+
+
+
+*----------------------------------------*
+|  Chapter 4: SHORT TACTICAL DISCUSSION  |
+*----------------------------------------*
+
+This chapter of the guide discusses relevant spells and tactics to get your
+party started in Normal mode (not HoF mode), as well as timing a few mix-ins
+with relation to quest spoilers (check the spoilers list).
+
+
+CHAPTER 0: This can seem like the most difficult level of the game; taking
+---------
+damage could result in quick death, and Raise Dead is a long way off. If you
+have Undead Targos mod installed, also be prepared for difficult encounters
+with skeletons. Since all classes are roughly similar in the beginning, you can
+use all your characters in melee, to quickly take down the opponents before
+they can damage you. The 1st level druid spell Entangle will be a lifesaver for
+the early levels and will stay useful, allowing you to take down enemies with
+ranged attacks. For significant opponents, the drow¡¯s Faerie Fire will make
+you hit better, and it¡¯s surprising how well this little spell works (unlike
+the druid version, the drow¡¯s innate Faerie Fire casts almost instantly), it
+even bypasses SR. The Bless spell will perform a similar service, but due to
+its long casting time, it is best cast before combat. Its counterpart Bane is a
+bit less useful, since it must be cast during combat, but it is still viable in
+combination with an Entangle spell (or any other spell that delays enemies
+enough). Grease can be a boost to an entangled area, forcing enemies to stay in
+longer. Grease still has effects if enemies make their save, so stays useful.
+
+CHAPTER 1: Using the right spells in the right situations is part of the fun of
+---------
+playing. The Shaengarne Bridge is the most difficult part, since you¡¯re trying
+to save the bridge before it gets destroyed. Tactics mod makes it even more
+difficult. Spoiler7! The roof of the Horde fortress is also a challenge, and
+pre-buffing is recommended before entering. Bull¡¯s Strength (on clerics and
+druid) and Cat¡¯s Grace (on illusionist) can be cast. Illusionist, sorceror,
+druid and bard benefit from a casting of Mage Armor each. The druid spell
+Barkskin is a great AC booster for the weakest AC characters, so use all lvl2
+spell slots for this. Bless is useful, as mentioned before. Mirror Image can be
+a lifesaver, and is best kept in reserve, only cast before combat with
+spearhead and decoy tactics. Magic Missile and Chromatic Orb will be limited in
+the beginning, but gain strength up until level 9. From caster level 6 onwards,
+Chromatic Orb is able to stun or hold an opponent, and because it targets the
+reflex saving throw, it¡¯s even useful against enemy clerics!
+The Dreadmaster of Bane, with Tyrant¡¯s Dictum and SF: Enchantment, will have a
+number of enchantments that will prove useful, such as Bane, Command, Hold
+Person and Dire Charm. The bard can pitch in with Charm Person and Dire Charm,
+but don¡¯t harm charmed enemies. Area spells like Snilloc¡¯s Snowball Swarm,
+Web, Spike Thorns and Fireball come into play too. Call Lightning takes a while
+to cast, and is outdoors-only. Animate Dead summons are helpful and last long.
+Spoilers8&9!
+
+CHAPTER 2: In this chapter, a number of buff spells come into play: Blur,
+---------
+Protection from Arrows, Magic Circle against Evil, Emotion: Hope, Blink and
+Stoneskin. Blur is perhaps less useful, but handy to combine with Blink for
+even better protection. Blink is a costly spell for a short-lasting caster-only
+buff, but can be worthwhile against powerful monsters, and in decoy tactics.
+Protection from Arrows can only be cast by the sorceror, and is only useful
+against heavy archers, or large groups or ranged attackers. Magic Circle
+against Evil will be castable by many characters, the druid and clerics start
+with it since their Animate Dead summons are poor early on anyway. Later, the
+sorceror and bard can take over. Emotion: Hope is what makes the bard shine,
+since she casts it at spell level 3 (bard level 7). So, it may have been
+available in chapter 1 already. This spell gives enormously useful bonuses, and
+lasts quite long, but undead are unaffected. Stoneskin is a great long-lasting
+spell, fortunately castable by sorceror (and druid if mods are installed). Cast
+Stoneskin on everyone before large battles. Fire damage spells are especially
+useful in chapter 2. The bard song Tymora¡¯s Melody will become available, so
+use it all the time.
+
+CHAPTER 3: By this time you should have a mid-level party, and be able to cast
+---------
+some mid-level spells. Most of the best mid-level spells are not buffs, with
+the notable exception of Mass Haste, which is an effective buff for a group of
+summons as well. The clerics must focus their spells on healing, because Raise
+Dead, Heal, etc. cannot be cast by shift-clicking, unlike healing at spell
+levels 1-4 (shift-clicking higher level spells will cast the level 4 spell Cure
+Critical Wounds). The bard will be behind in spell levels, but the War Chant of
+Sith should make it worthwhile, at level 11. The druid can be both healing and
+casting damaging spells, to suit playing style. 2 difficult battles are in this
+chapter; with Limha the witch, and the Ghost Lights. The only way to tackle
+Limha fairly (Tactics mod enhanced battle) is to dispel her successfully, to
+get rid of her protections. An accidental trick I found was to leave the area,
+and return later to fight her after her buffs wear out. As for the Ghost
+Lights, don¡¯t try to face them in melee, or they¡¯ll overwhelm you with
+electricity. Spread out, stay mobile, and shoot arrows at them whenever they
+appear ¨C it¡¯s the only way I know of. Spoiler10!
+
+CHAPTER 4: In this chapter, party levels can vary, and spells and playstyles
+---------
+can make a lot of difference. Most important buffs and spells have been covered
+now, for the rest look in the chapter Spells. Be sure to get the Ring of Charm
+(+2CHA, Charm Person 1/day) from the tiefling Dolon Daemba in the monastery,
+either by combat or pickpocketing (reload until successful). 2 hard battles
+here are worth mentioning, although they can be avoided. The Iron Golems are
+deadly, and can only be taken down by +3 slashing/bludgeoning weapons, and
+electricity slows them. A gang of summons will partly distract them from
+attacking your party, so take advantage of this, because you need to meet them
+in melee. A drow raiding party is also very deadly, and similarly, the summons
+can block the path of the sneak attacking assassins. Take this chance to kill
+the priestess first, and hope that you can then survive the onslaught.
+Dispelling their invisibility will be of no use, since the assassins will
+simply drink another invisibility potion, reducing the loot. Spoilers6&20!
+
+CHAPTER 5: Like the previous and next chapter, I won¡¯t go into spellcasting
+---------
+details, because figuring out useful combos is a fun part of the game. Access
+to a greater variety of items is gained, and many of your tactics may be
+adjusted for this. The battle with the Lost Followers is perhaps the most
+difficult battle in the game (especially with Tactics installed). I advise
+patience when engaging in this battle ¨C the longer you delay it, the more high
+level spells you¡¯ll have available; they aren¡¯t going anywhere, so there¡¯s
+no rush. Perhaps delay it until chapter 6. Spoilers4, 5&21!
+
+CHAPTER 6: The powerful enemies you face allow you to discover which of your
+---------
+spells stand up to the challenge. Don¡¯t forget to try out some spells you may
+rarely use, like Holy Aura, which will often be more useful than Mass Heal.
+Spoiler11!
+
+*--------------------------------------------*
+|  Chapter 5: THE PARTY, AND BATTLE TACTICS  |
+*--------------------------------------------*
+
+My party has 6 members, 4 are Underdark dwellers with level adjustments, the
+others are human. All classes are incorporated in the most efficient manner I
+think is possible. Unfortunately I couldn¡¯t have all classes as main class,
+but their abilities serve well in their mix-in capacity. Female gender is
+necessary for the drow (clerics).
+SR is a great advantage against enemy spells, but your own spells will become
+very high level, so it will still be roughly 50-50 to resist them. Still, your
+chances depend on the spell itself, as it seems. Other guides write about fire
+spells being the most resisted and cold spells the least, but upon performing
+test-blasting (area damage spells) on my own party, I can¡¯t confirm that. All
+I can say is that SR is no guarantee, but more like a chance to avoid damage
+completely. Obviously it helps in the long run. Skull Trap (I prefer to call it
+Precision Fireball) is a personal favourite, and it is completely resisted most
+of the time, but can really sting when one gets through. Reflex S.T. is the
+most important S.T. in my opinion; it can halve your damage taken for a lot of
+Evocation blasting spells. Fortitude saves are made for Transmutation,
+Necromancy and various other spells, and Will saves are obviously made for
+Enchantments and other mental attacks. You should aim to get all S.T. high.
+Benign area effect spells are: Horror, Confusion, Malison, Chaos, Symbol of
+Hopelessness (possibly other symbols), Wail of the Banshee and Slow. If you
+really don¡¯t want to damage your own, it would seem SF: Enchantment is the way
+to go. But most of these don¡¯t damage enemies either, just buy you more time.
+It¡¯s still a sound strategy against large groups, as you can take them on a
+few at a time. Be prepared with a backup plan, though: Quite a few enemies,
+such as demons and undead, are immune or resistant to Necromancy and
+Enchantment.
+I experienced the relative ease that a party has when it has few or no mix-in
+levels early on, and in the new versions of the guide I wanted to emphasize
+this importance, by listing two parties: First, the party in normal mode. Then
+another list with the party as it multiclasses further in HoF mode. Read the
+excel sheet for exact leveling instructions (available on sorcerers.net).
+The abilities, or ¡®Stats¡¯, below are listed in this order.
+STR=Strength
+DEX=Dexterity
+CON=Constitution
+INT=Intelligence
+WIS=Wisdom
+CHA=Charisma
+
+Normal mode party's STARTING STATS. Quick overview, stats aligned as above:
+                    --------------                          
+Name	       	Alignment   	Stats		Gender, Race	Classes taken
+Jaheira	   LG	18-18-16-5-18-5	F. Drow		Morninglord of Lathander/Pal1*
+Viconia	   LN	18-18-16-5-18-5	F. Drow		Dreadmaster of Bane / Ftr 1*
+Jan Jansen NE 	12-20-18-18-5-1	M. Svirfneblin	Illusionist / Rogue 2 / DoB1*
+Bodhi	   NE	6-20-16-14-4-20	F. Drow		Bard / DoB1*
+Imoen	   LG	16-18-18-3-3-18	F. Human	Sorcerer / Pal 1 / Rgr 1* 
+Minsc	   LN	18-16-18-3-18-3	M. Human	Druid  / Monk 1 / DoB 1*
+Korgan	   CE	18-18-20-3-14-1	M. Duergar	Barbarian / Ftr 1
+The 1st class in line is the main class, the rest are mix-in classes.
+After normal mode (at around level 16-20) other mix-ins become viable.
+* 	DoB=Dreadmaster of Bane, Ftr=Fighter, Pal=Paladin, Rgr=Ranger.
+Spoilers4,5&6!
+
+HEART OF FURY STATS, at level 40. This assumes you travel through IWD2 and IWG2
+-------------------
+twice each: once in normal mode and once in Heart of Fury mode. Quick overview:
+*spoiler* stats including vanilla game + IWG2's quest & potion bonuses.
+Name	       	Alignment   	Stats			Classes
+Jaheira	   LG	22-18-34-5-22-7	Morninglord of Lathander 36 / Pal 1 /
+¡¡¡¡¡¡¡¡			Conjurer 1 / Fighter 2*
+Viconia	   LN	18-18-26-5-22-5	Dreadmaster of Bane 36 / Fighter 4*
+Jan Jansen NE 	12-20-18-28-9-1	Rogue 2 / Illusionist 35 / DoB 1 / Ranger 1 /
+¡¡¡¡¡¡¡¡			Fighter 1*
+Bodhi	   NE	6-20-16-14-8-30	Bard 39 / Dreadmaster of Bane 1
+Imoen	   LG	18-18-18-3-5-28	Sorcerer 33 / Paladin 1 / Ranger 1 / Monk 1 /
+¡¡¡¡¡¡¡¡			Fighter 2 / Rogue 1 / Necromancer 1* 
+Minsc	   LN	18-14-18-3-36-3	Druid 34 / Monk 1 / DoB 1 / Ranger 1 /
+¡¡¡¡¡¡¡¡			Fighter 2 / Transmuter 1*
+Korgan	   CE	18-18-30-3-14-1	Barbarian 36 / Fighter 4*
+The upgraded stats shown here reveal the end values at level 40, including
+quest and potion bonuses/penalties, but not including item/equipment bonuses.
+*	These mix-in classes are NOT required for quest bonuses, and these
+can be taken at any point, but preferably as late as possible. Read the party
+members¡¯ summaries for more details.
+After level 25, other mix-ins become viable, but these are not essential, such
+as 2 fighter levels and a wizard level for 3 extra feats, a barbarian level
+for speed; use your imagination.
+In Tactics4IWD2 mod, a feature is added in HoF mode: Some bosses will drop
+additional potions of permanent bonus. I haven¡¯t completed a run-through in
+HoF with Tactics yet, so I can¡¯t report much about this. Spoilers22&23!
+
+BATTLE TACTICS
+--------------
+More is explained in the chapter Items and Spells, but this section describes
+general tactics with as few spoilers as possible.
+In my experience, battles in IWD2 are pretty scrappy; you can¡¯t always exploit
+the targeting of the AI and hope the monsters will keep attacking your
+frontliners. If you get too close, they retarget and may go after your arcane
+spellcasters. This makes it essential to have a robust party able to stand
+their ground. My arcane spellcasters aren¡¯t complete pushovers in melee, and
+that makes battles so much more survivable. So called ¡®ultimate powergaming
+parties¡¯I¡¯ve read about seem to be too specialized, and have major
+weaknesses. My party is built to reduce the weaknesses at a minimum of
+sacrifice. At the end of a battle, your mages may be the only party members
+with enough HP to finish off the enemy, while near-dead frontliners retreat.
+Then you¡¯ll be very glad they can actually melee. I will explain the roles of
+my party members in detail now, and the actions they take in a skirmish:
+
+JAHEIRA
+------- plays most of normal mode as a full cleric, until a paladin mix-in is
+necessary. Before then, she is limited to using simple weapons, bows and
+longswords, just like Viconia. She is a battlecleric with good starting WIS,
+and utilizes her Evocation spells to attack the enemy.
+In HoF, she will start to mix in other classes. As a Lathander Cleric with GSF:
+Evocation feats, her Evocation spells have enough spell DC to hurt most
+enemies. Upon seeing the first enemies, she casts an initial evocation spell
+from her cleric spell book, and then buffs (some buffs are best to cast in
+combat, or just before, because they also debuff enemies), attacks, and/or
+heals. She leads many of the enemies to her, as she is one of the first to be
+seen. The Holy Word spell gives her a powerful ability to quickly halt evil
+and neutral characters, but since she¡¯s in a mixed-alignment party, it should
+be used carefully. She is the most combat-oriented character, more even than 
+Viconia.
+
+VICONIA
+------- is a pure cleric for the majority of the normal mode game. She is
+poised to go into melee at will, and there are numerous longswords, bows and
+maces in the early game that she can use. Her initial action in combat should
+be an enchantment, then she should go into melee, or continue spellcasting.
+When enemies are near, she has the spells needed to disperse or weaken most
+groups. As a Banite with Tyrant¡¯s Dictum (+1DC for Will S.T. spells), GSF:
+Enchantment feats, bonus WIS from items, and Spoiler4!, her enchantment domain
+spells have a similar spell DC to a powergamed cleric with maximized WIS. Only
+against undead and other immune creatures are her enchantments useless. When
+enemies approach, she should meet them in melee, either dual wielding or with
+a shield. She can wield damaging weapons well, and with the right spells (Holy
+Power, Champion¡¯s Strength) she is deadly. Viconia has many offensive
+enchantments memorized, but these are easily converted into healing spells by
+shift-clicking them.
+Jaheira and Viconia are spell resistant battleclerics, so can engage in melee,
+and be blasted by friend and foe with spells at reduced risk of suffering
+damage. Your clerics are also important for summoning, especially in HoF mode,
+where the enhanced enemies are best tackled with enhanced summons. Animate Dead
+is the best, giving long lasting undead summons immune to cold, necromancy and
+enchantments. Be careful using the Gate spell: All summons that require you to
+be protected from evil are independent, so you can use them to kill blue-
+circled characters (for example, you want a villager¡¯s loot, pick pocketing
+doesn¡¯t work, and you don¡¯t want the village to go hostile on you).
+
+JAN JANSEN
+---------- is the third member of the party, primarily an Illusionist, but his
+ample skill points make him an accomplished rogue as well. He can scout around
+to prepare your attack, but don¡¯t try to Sneak Attack with him; his bonus
+damage is too low. He begins as the parties¡¯ staple archer, since his high
+DEX and low STR will allow him to do more damage with a bow than in melee. When
+he gains the Armoured Arcana and Expertise feats, he will become a good decoy
+too, preferably when *not* carrying a ranged weapon. Later, the Weapon Finesse
+feat will allow him to be a competent melee combatant, but his ranged skill
+will always outshine his melee. If he happens to break his hiding in shadows,
+and be seen by the enemy, he is spell resistant, so pursuers can be blasted
+with spells while he retreats and the battleclerics advance. This character
+has many levels of defense against spells: High Reflex S.T. combined with the
+rogue¡¯s Evasion ability make it most likely that he will get no damage from
+Evocation spells, even if they manage to get through his SR. He can search for
+and disable traps, hide, find hidden doors, and open locks. His high Spellcraft
+is useful for seeing what spells your enemies are casting (so you can respond
+when necessary). Extra feats from mage levels will eventually allow him to
+focus (SF) in all spell schools, even in his originally forbidden schools.
+While Imoen is a general offensive blaster, Jan Jansen can memorize those
+spells that target a special weakness of your opponents. Jan Jansen is used for
+fine-tuning your tactic against enemies, and he can do his share of the
+blasting too. He¡¯s the most versatile team member of all. There was an issue
+about the position of this character in my party: In my first game, I had him
+in position 6, last in line. But this caused him to get significantly less XP
+than the characters first in line. The cause of this, is that when XP gains
+aren¡¯t dividable by 6, the first in line usually get the remaining points.
+This can add up to a huge difference eventually. Since this character already
+has a 3 level ECL disadvantage plus mix-in levels, it was important to place
+him forward. He couldn¡¯t be on the frontline, so position 3 of 6 was the best
+I could do.
+
+BODHI
+----- is fourth in line, and offers refreshing tactics to a battle. Her ability
+to sing is unlimited, effectively giving the party a potentially constant and
+infinite buff. All her songs serve different purposes, and even the level 3
+song can occasionally be more useful than the later songs, in certain
+situations.
+-The Ballad of Three Heroes (Level 1): +1 AB +1 damage, this song later becomes
+ redundant, since Tymora¡¯s Melody also affects attack and damage rolls.
+-The Tale of Curran Strongheart (Lvl3): Immunity to fear effects. This is
+ useful in specific situations.
+-Tymora¡¯s Melody (Lvl5): +1 luck, +3 S.T. and +2 to some rogue and wizard
+ skills. This song is very powerful, and useful in many situations. It¡¯s the
+ staple bard song in HoF.
+-The Song of Kaudies (Lvl7): 50% chance per round to remove sound-based effects
+ on allies; occasionally handy.
+-The Siren¡¯s Yearning (Lvl9): Enemies are enthralled (immobile as long as
+ undamaged) for 10 rounds, if they fail their S.T.. It¡¯s unclear whether SF:
+ Enchantment feats affect this song¡¯s DC, but I can only hope so. This is the
+ bard¡¯s only offensive song, and is good against weak-willed monsters.
+-The War Chant of Sith (Lvl11): +2AC, (+2DR w/Ease-of-use mod), and 3HP/round
+ regeneration during combat. This is the favourite of many players, but I
+ think it doesn¡¯t measure up to the level 5 song: The bonuses become less
+ significant at higher levels, especially in HoF, where enemies hit hard and do
+ huge damage.
+Bodhi is the party spokesperson. Conversation skills are not essential to the
+game, but I don¡¯t like going through the story wondering if I missed out on
+interesting options. Some of the dialogue is forced on first encounter when
+entering a map, so she won¡¯t be spoken to. I still wouldn¡¯t put her in 1st or
+2nd place, since after such talks combat often starts. Conversation skills are
+useless in force-talks anyway. For a lot of normal mode she will have limited
+conversation skills, because she will be dividing skillpoints between Bluff,
+Diplomacy and Intimidate. Still, it will be more than sufficient to meet all
+dialogue requirements, along with the CHA modifier.
+
+IMOEN
+----- is a strong offensive spellcaster, with high level Evocation and
+Necromancy spells to really hurt the enemy. It¡¯s not necessary to give her any
+Diplomacy, since the bard is a much better diplomat. Continually casting spells
+and/or attacking with ranged weapons is the best way to use her, unless he gets
+attacked. Especially in melee, you might want to send another party member to
+her aid. Her build is designed to be able to melee reasonably well, even in HoF
+mode, when necessary. Arcane spellcasters will always be the weakest in a
+party, but at least she¡¯s versatile enough to fight in melee. After mixing-in
+paladin for a quest in chapter 1, mixing-in ranger is useful for Spoiler10!,
+though this can be delayed until the very end of chapter 4. ¡®Ultimate¡¯
+Powergamers will criticize the levels spent on mix-ins, but they never admit
+results of actual combat encounters to you. Battles get scrappy quickly, and
+you¡¯ll be glad you¡¯ve taken those few levels. Not to mention ¡°paladin + high
+CHA = better S.T.¡±: She has the highest average ST in the party, which is a
+good substitute for SR. A single paladin level is for using paladin items,
+activating the CHA bonus to S.T., and enabling paladin dialogues (Paladins
+don¡¯t accept rewards, so be warned). A mix-in of monk much later gives her
+another protection from Evocation spell damage; monk Evasion works especially
+well with the paladin-CHA-bonus to S.T., because the Reflex S.T. will be very
+high. Later in HoF, mixing in fighter, rogue and wizard levels will give her
+useful feats, when leveling as sorcerer is less crucial.
+
+MINSC
+----- is mainly a druid, and druids have a good amount of Evocation &
+Transmutation attack spells. A varied amount of spells, especially with
+Ease-of-use. Together, the clerics and druid will give the party plenty of
+healing spells, probably all you need before resting, so feel free to load up
+on attack spells with him. An advantage non-evil clerics have over druids is
+the shift-click to convert any memorized spell to a corresponding
+Cure ____ Wounds; for this reason it¡¯s best to leave healing to your clerics,
+because it doesn¡¯t cost spell slots. The new customdll fix allows druids to
+Shift-Click spells to convert them to a corresponding Summon Animal __ spell.
+He can blast the enemies with spells as long as he can until it gets really
+scrappy, or you can send him into melee sooner, to give you a larger
+frontline. He can shapechange, and with the Ease-of-Use component Alternate
+Druid Shapeshifting, you get really powerful, elemental resistant half-dragon
+forms. The red half-dragon can stand in the middle of a sea of fire, fighting
+safely while surrounding enemies are being burnt to a crisp. Be advised that
+shapechanging sometimes dispels all spell effects, but only rarely. The druid
+has an important level 2 spell: Barkskin. It gives a generic AC bonus for quite
+a long duration. Cast them on the entire party to save you lots of combat
+damage. You should have at least 6 level 2 spell slots invested in this. I
+mix-in a level monk early on, because it gives him an AC bonus from WIS, which
+carries over to shapeshift forms! The monk mix-in also gives proficiency in
+axes.
+
+                         KORGAN
+Alternative party member ------ is fourth in line; he is meant to replace the
+bard Bodhi, for more melee-oriented players, and those who don¡¯t want to play
+with bards. He can also potentially replace Viconia, for those who think they
+can manage with a single cleric, and don¡¯t care about having frontliners with
+SR. He has no SR or Evasion, and he has a low Will S.T., so be aware of these
+weaknesses. He sounds useless, does he? It¡¯s a pain when he gets charmed in
+the beginning, but towards the end of the normal mode game you don¡¯t have any
+more worries. There are items in the game he can use to cheesily be immune to
+most every Enchantment spell in the game, he¡¯s unintentionally ideal for using
+them. Spoiler12! You have the option to accept the risk of spell and combat
+damage because he has DR as a barbarian, and he has the HP to survive it. He
+serves as an excellent distraction/rescuer if an enemy tries to target your
+arcane spellcasters. A mage killer-killer¡­ He can also hide in shadows like a
+thief, sneak past enemy lines, and go berserk on enemy mages from behind.
+You¡¯ll enjoy pulling that off! Since the berserk is his only ¡®spell¡¯, you
+can use him as a decoy: Make him the only character the enemies can see, so
+they all target him, then in a mild situation a few enchantments cast upon the 
+enemies will give him an easier time. In HoF some groups of enemies will break
+through even your strongest summons, so having him targeted, and then casting
+Otiluke¡¯s Resilient Sphere on him, will give your spellcasters a free hand to
+blast away (this doesn¡¯t work anymore with Tactics mod installed).
+This team of 6 should be versatile enough to survive any encounter in IWD2,
+even sailing through HoF with few difficulties.
+
+
+*----------------------------*
+|  Chapter 6: PARTY MEMBERS  |
+*----------------------------*
+
+Read the accompanying excel sheet for exact leveling details. Spoiler11! 
+* Mix-ins in ITALIC are suggestions for the late game, they are not critical
+for the character, or for quest bonuses. It is often specified in the text at
+what time I took those mix-ins, otherwise check the excel sheet.
+Square brackets behind feats [ ] contain the level at which the feat is taken.
+Sometimes a letter is included, and this indicates that the feat is special: W
+for wizard, F for fighter, and H for human. For example, [F2] would mean that
+the feat is from the second fighter level.
+
+
+JAHEIRA in detail
+-----------------
+Jaheira is a lawful good female Drow, she starts as a Morninglord of Lathander
+(an unlikely alignment and ridiculous deity for a Drow, but I made up a story
+for her). A paladin level should be taken in anticipation of Spoiler5! In HoF
+mode, she takes 2 fighter and 1 conjurer levels for some extra feats when
+leveling in cleric is not crucial. This is an evoker-battlecleric, with some
+party-friendly crowd control to use on slow-Reflex enemies. The conjurer level
+is specialist, so 2 castings of Identify can potentially be used and memorized.
+The choice of conjurer is purely cosmetic, to signify the cleric¡¯s role in
+healing and buffing.
+Jaheira is considered the party leader, because she was in position 1 at the
+start of the game. This is important for Spoilers22&23!
+LATHANDER X / PALADIN OF HELM 1 / FIGHTER 2 / CONJURER 1*
+Why Morninglord of Lathander? They get some good fire damage spells, so she
+can participate in blasting enemies with spells like a mage. This is a
+straightforward character, there is little to explain. You might not like the
+idea of having two or three Drow in the party, so you can always choose a
+Half-Elf or Human¡­ They would have higher HP and quicker leveling, but you¡¯d
+miss out on SR. If you don¡¯t care for the warrior mix-ins, deep gnomes make
+very good pure clerics; they are still spell resistant, but don¡¯t have
+longsword or bow proficiency. On a positive note, a human Morninglord would
+get 2 skillpoints per level, and would be free to acquire 10 Spellcraft, a
+prerequisite for elemental feats like Spirit of Flame, which would improve her
+fire spells. One of the mods improves the rules so her INT modifier won¡¯t make
+her have to take more than 10 points in Spellcraft to get access to elemental
+feats. Without it, you¡¯d need 13 spellcraft because of the ¨C3 INT modifier.
+It¡¯s very tempting to give a Morninglord the Spirit of Flame feat, but she
+functions fine without it, and it¡¯s too complicated to meet the prerequisite
+10 Spellcraft, so I advise against it.
+Jaheira¡¯s abilities: 18STR, 18DEX, 16CON, 5INT, 18WIS, 5CHA {improve CON}
+Because she¡¯s in front she will often be force-talked to, but my bard (or
+sorcerer if there is no bard - read on) will be my selected diplomat wherever
+possible.
+I strongly advise you to give some attention to her CON when leveling, because
+it gives a bonus to concentration and increases HP. STR is a viable option, if
+you think dealing damage quicker is better than having more HP. If choosing
+STR, a two-handed weapon will help deal more damage. Also, I wouldn¡¯t improve
+her INT or CHA abilities anymore: INT is useless (she only needs Concentration
+skill), CHA is also unimportant; S.T. from the paladin mix-in doesn¡¯t compare
+to the benefit of CON, STR or even WIS. DEX gives Reflex S.T., but clerics will
+always have below average Reflexes, and her armour limits her DEX bonus for AC
+anyway. 13DEX is a requirement for Dodge and Rapid Shot. You¡¯re able to select
+Ambidexterity (15DEX required), but you should delay picking it. Leave dual
+wielding as an option for the late game. Use a shield or 2-handed weapon until
+you can dual-wield.
+Her base skills at level 30 are: Concentration 33. I don¡¯t advise taking 10-14
+points in Spellcraft to gain access to the elemental feat Spirit of Flame,
+it¡¯s just too costly.
+Chosen feats at level 30 were: First take Power Attack[1], Cleave[3],
+GSF:Evocation[6&9], Improved Critical[12], Rapid Shot[15], Two-Weapon
+Fighting[18], Ambidexterity[F1], Blind Fight[21], 1x Bastard Sword[F2], Heroic
+Inspiration[24], Dodge[27],  Discipline[30]. After level 30: Combat
+Casting[33], 1x Spell Penetration[36], Heretic¡¯s Bane & 2x Spell
+Penetration[39&W1].
+Since Jaheira will only cast her offensive Evocation spells as first strike, or
+in a killzone, the Spell Penetration feats can be taken safely. The main
+disadvantage of these feats, is that they make her own spells break through her
+and her party¡¯s SR as well. Jaheira¡¯s few offensive spells won¡¯t damage the
+party unless she¡¯s careless.
+I prefer never to take a first weapon slot in anything except Bastard Sword,
+and this only for a warrior. Jaheira has very few weapon proficiency slots
+(because early on she¡¯s a character without a level in a warrior class). But
+she has proficiency in the martial weapons Bow and Long Sword, because of her
+elven heritage. If you think you aren¡¯t dealing out enough damage with
+longswords, bows and maces, be patient: There are powerful weapons of this type
+(also added by mods), so you will regret it if you take a martial weapon feat.
+You¡¯ll miss out on feats in the long run.
+
+
+VICONIA in detail
+-----------------
+Viconia is a lawful neutral female Drow. She plays most of normal mode as a
+pure Dreadmaster of Bane, taking one level fighter when the need for more
+weapon proficiencies arises. She then levels up in HoF mode carefully as
+fighter again, to avoid having to take non-class skills: Skip the fighter skill
+points and allocate them later as cleric points, for this it¡¯s best to
+alternate fighter and cleric (if you haven¡¯t got the latest customdll
+installed), to increase your feats and cleric skills through ¡®skill point
+squatting¡¯. Since leveling fast in cleric is important to get spells early, it
+is advisable to at least take the last 3 levels fighter late in game (start no
+sooner than level 18), when leveling cleric is less crucial.
+BANE X / FIGHTER 4*
+DON¡¯T make the mistake of having a MALE Drow cleric with another side class,
+or you will get an XP penalty. Drow are a surprising race, since their gender
+determines their favoured class. Male Drow are good wizards, not clerics.
+Why a Dreadmaster of Bane? With all the WIS bonuses, cleric abilities, and
+GSF:Enchantment, you can barely notice I haven't maximized WIS! She'll
+eventually have an effective 26-27WIS with all rewards and items, and an
+enchantment domain spell DC of +13! Together, the Banite¡¯s Tyrant¡¯s Dictum,
+WIS-boosting equipment, Spoiler4!, and GSF: Enchantment makes her
+Will-saving-throw spells work very well, especially enchantments.
+Why not a monk mix-in later in the game? Because first of all her WIS isn¡¯t
+maximized, so she¡¯s better off wearing armour than getting a WIS AC bonus.
+And the Evasion feat works best with a high Reflex S.T., which is not the case
+with clerics. And because of the 4 fighter levels (prerequisite for weapon
+specialization), the 3 monk levels required to avoid an XP penalty is pricy.
+Viconia¡¯s abilities: 18STR, 18DEX, 16CON, 5INT, 18WIS, 5CHA {improve CON}
+When leveling up, CON or STR are the best options, WIS is not as good for a
+battlecleric, as the only real bonuses are 1-3 extra spells (total, not per
+level) per 2 points of WIS, and a slow increase in spell DC.
+Her base skills at level 30 are: Concentration 33.
+Chosen feats at level 30 were: First choose First take Power Attack[1],
+Cleave[3], GSF:Enchantment[6&9], Improved Critical[12], Two-Weapon
+Fighting[F1], Ambidexterity[15], 1x Bastard Sword[18], Blind Fight[F2], 2x&3x
+Bastard Sword[21&F4], Rapid Shot[24], Discipline[27], Combat Casting[30]. After
+level 30: 2x Axe[33], Maximized Attacks[36], 3x Axe [39].
+It is important to note that the bastard swords mentioned in this guide are
+significantly enhanced by Ease-of-use mod¡¯s ¡®Improved Bastard Swords¡¯
+component: If you aren¡¯t going to install the component, then the available
+bastard swords aren¡¯t worth the trouble, and you will be better off
+specializing in longswords. Specializing in a 2-handed weapon and taking the
+Two-Weapon Fighting and Ambidexterity feats sounds counterintuitive, but it
+offers her a wide variety of combat options. She is a battlecleric after all.
+In normal mode, enhancing her spellcasting is crucial for her enchantments to
+be effective, since her enchantments will help the party through the early &
+mid game. In HoF mode her combat skills are improved to include weapon
+specialization.
+
+
+JAN JANSEN in detail
+--------------------
+Jan Jansen is a neutral evil male Svirfneblin (=Deep Gnome), he starts as a
+rogue, but he specializes in Illusionist mostly, taking another rogue level to
+get more rogue skills and Evasion (No damage from Reflex-S.T.-spells if save is
+successful. Without Evasion, saving against these spells would give half
+damage. Failing a Reflex S.T. still gives full damage). The function of the
+Dreadmaster of Bane mix-in is explained in a spoiler under the Minsc section
+too, but see a spoiler below for more detail. He takes a level ranger
+eventually (best to wait until after level 18 unless you really need
+dual-wielding).
+ROGUE 2 / ILLUSIONIST X / BANE 1 / RANGER 1 / FIGHTER 1*
+Since the maximum level attainable is 30, or 40 with the level 40 patcher, it
+is only worthwhile to take 1 mix-in level of fighter (wizards gain an extra
+feat every 5 levels). If any mix-in level listed is not taken, then a second
+fighter level does gain him a feat.
+Why Svirfneblin? I love the Svirfneblin. They¡¯re like slippery little
+leprechauns with their enhanced AC and SR. A non-detectable rogue, level
+adjustment be damned, it¡¯s brilliant. If you choose any other possible race
+for this character (Lightfoot or Strongheart Halfling, Tiefling, Human,
+Half-Elf, Moon Elf or male Drow) you¡¯ll skip the disadvantage of the level
+adjustment and can choose any type of wizard (though Halflings and Tieflings
+can¡¯t take other mix-ins than rogue of course), but you¡¯ll be missing out on
+some great defensive abilities.
+Why rogue/illusionist/dreadmaster? The rogue levels not only enable the
+valuable Evasion feat, they also combine perfectly with mage INT, allowing him
+to take many rogue skills. Illusionist is the gnomish speciality, so I had to
+choose that. It wouldn¡¯t be my first choice, since he can¡¯t cast Abjuration
+(protections) or Necromancy spells (they are powerful at high level), but my
+sorcerer covers those. The nice thing about this, is that I am now left to
+choose from spells that I otherwise wouldn¡¯t choose, like Emotion: Hope,
+Otiluke¡¯s Resilient Sphere and Fireshield instead of Stoneskin. Stoneskins
+can be provided by my sorceror and druid (thanks to Ease-of-use and Light of
+Selune mod). Spoiler13! The other mix-ins are optional, and best taken later
+in the game. I intended him to be a weakling firing arrows at the back, but I
+was pleasantly surprised by his defence skills despite his HP: He¡¯s not that
+weak at all; he doesn¡¯t drop so quickly in melee, and actually serves as an
+excellent decoy. I had him dual wield small blades in HoF, and it turns out he
+can do his share of melee when it becomes necessary. Jan Jansen, Imoen and
+Bodhi are all arcane spellcasters, so there is no shortage of powerful spells
+at your disposal! It¡¯s handy to have Jan Jansen focus in Transmutation and
+Enchantment; he has enough feats to afford it. Enchantment should not be
+dismissed: They are party-friendly (except some ¡®Emotion:¡¯ spells) and
+affect most of the targets. Ambushed by goblins? No problem; you¡¯ll be spoilt
+for choice deciding which Enchantment to unleash upon them. You probably
+won¡¯t get the leaders, but they will definitely disperse the group. Simply do
+what the AI does to you so often: Hold, Confusion, Feeblemind and Dominate the
+dumber critters. If these spells can take out 1 or 2 of your party, imagine
+what they can do to enemy hordes¡­who needs Wail of the Banshee?
+If you feel really cheesy, take advantage of the unlocked spell schools caused
+by the cleric mix-in, to allow him to cast Abjuration and Necromancy spells¡­
+I consider this a bug, so it would be cheating. Besides, you can fine-tune the
+sorcerer and wizard in your party to cover all of your needs. By the time I
+reach level 30, it becomes too tempting to cast necromancy, so I take
+GSF:Necromancy feats. Intentionally avoiding necromancy despite being able to
+use it seems too much like roleplaying, and this is a powergaming guide after
+all.
+Jan Jansen¡¯s abilities: 12STR, 20DEX, 18CON, 18INT, 5WIS, 1CHA {improve INT}
+INT is what this character needs most, good for spells, identifying, getting
+rogue skills, and he is necessary for quest options requiring high INT (I can
+think of just one that Bodhi couldn¡¯t handle). He needs decent CON for HP and
+Fortitude S.T.. S.T. are this character¡¯s weakness (below average Fortitude
+and Will S.T.), if you can consider it a weakness. The rogue class complements
+his wizardry with bow proficiency, but that¡¯s irrelevant after you take a
+level ranger. His INT allows him to make the most of his rogue skills too.
+Ranger allows dual-wielding and all warrior weapon proficiencies at the cost of
+one level. But for the normal mode game, he will rely on a shield + Armoured
+Arcana feat. If you are uncertain if the ranger level is worthwhile, wait as
+long as you can with that. Once you¡¯ve figured out your tactics, you will know
+if it¡¯s worthwhile.
+His base skills at level 30 are: Alchemy 15, Concentration 32, Disable Device
+16, Hide 15, Knowledge (Arcana) 13, Move Silently 17, Open Lock 15, Search 19,
+and Spellcraft 32. Note that this is probably the minimum of points that you
+can get out of leveling. If you installed Customdll component ¡°Save Skill
+Points¡±, then you could delay an unlimited number of skill points, to allocate
+later, when the relevant skills are class skills. A ranger has Hide, Move
+Silently and Search as ¡®class skills¡¯ (cost 1 point instead of 2), so this
+will boost rogue skills. Spoiler19! It is very important to get the priority of
+all the skills right: Try to maximize Concentration (for casting) unless you
+need rogue¡¯s skills more. Getting Open Lock to about 10 should come first,
+then the same for Spellcraft (for feats and scribing scrolls), Search and
+Disable Device, then Knowledge (Arcana) for identifying, and Alchemy for
+quests. The rogue¡¯s Hide and Move Silently skill can easily be augmented with
+items, so improving those skills is of the lowest priority, and best left until
+after you are confident with all other skills.
+Chosen feats at level 30: First take Rapid Shot[1], GSF:Evocation[3&W1],
+Armoured Arcana & Expertise[6&W5], Spirit of Flame[9], Precise Shot &
+Discipline[12&W10], Blind Fight[15], GSF:Transmutation[18&W15], Improved
+Critical[21], GSF:Enchantment[24&W20], Scion of Storms[27], Aqua Mortis[W25],
+
+GSF:Necromancy[30&F1]. Many reasonable choices after level 30: Dodge[33],
+Combat Casting[W30], Aegis of Rime[36], Great Fortitude[39], Iron Will[W35].
+The few offensive combat feats he takes, despite having the most feats, are
+Rapid Shot, Precise Shot and Improved Critical, this is mainly to improve his
+ranged combat. Spoiler15!
+
+
+BODHI in detail
+---------------
+Bodhi is a neutral evil female drow. She starts as a bard, and remains pure
+bard for quite some time. Before a certain point in the game, as discussed in
+Spoiler4!, she takes a level Dreadmaster of Bane. This is the only mix-in she
+acquires in the entire game. Other mix-ins can¡¯t be taken, because of her
+race.
+BARD X / BANE 1
+Bodhi is a new character in my party, an experiment of sorts, and replaces my
+barbarian, Korgan. Since she takes the place of my old barbarian, this
+seriously alters the tactical balance of my party: A pure warrior is now
+replaced by a character practically incapable of melee combat. Now there are
+more weak arcane spellcasters who don¡¯t wear armour (4 out of 6 don¡¯t wear
+regular armour now), and less combat-worthy frontliners. But the extra spells
+added into the equation compensate for this, and create a new dimension of
+singing and spellcasting. Bards have a unique spell selection, and are very
+powerful when used properly.
+Why a bard? When I still had a barbarian, one of my clerics had a 5 level
+mix-in of bard, for the powerful Tymora¡¯s Melody song. This was an interesting
+build theoretically, but in practice, a frontline battlecleric doesn¡¯t keep
+singing. A full bard is a spellcasting/singing oriented build, and should be
+kept in the back mostly, maybe occasionally used as a decoy. There is a song in
+her repertoire for every situation, and her spellcasting greatly increases
+options. Compared to a sorcerer or wizard, bardic spell progression is much
+slower; the difference becomes greater at higher levels. The final spell level
+for a bard (8) can be cast at bard level 26, while wizards and sorcerers get
+level 8 spells at level 15 and 16, respectively. Their spell table progresses
+so slowly, that they actually don¡¯t gain any new spells at some levels! It
+seems like bards have a vastly inferior spellbook because of this delay, but
+their repertoire of songs can be used unlimited, and this makes it hard to
+compare. If you can use a bard properly, then she is a very good team member,
+otherwise take the alternative, Korgan (below). As I explained before, a
+mix-in of bard was not practical for a frontliner; you end up fighting instead
+of singing.
+You basically have 2 ways to go with Pick Pockets: Forget it completely and
+give up on ever picking a villager¡¯s pockets, you then get lots more skill
+points to allocate elsewhere. Another way to get a villager¡¯s possessions,
+is to summon a monster that requires protection from evil (demons & elementals)
+to kill villagers. Be careful that it doesn¡¯t kill off important merchants or
+quest-related characters, though. Only high skill in Pick Pockets stands a
+chance of picking a HoF mode villager¡¯s pocket, and some are even beyond the
+possibility of pickpocketing.
+Bodhi¡¯s abilities: 6STR, 20DEX, 16CON, 14INT, 4WIS, 20CHA {improve CHA}
+Bodhi¡¯s base STR will stay at 6 throughout the game, and if you use her
+correctly it will never come into play. The 14INT allows for the Expertise
+feat, and opens up a lot of valuable dialogue options, making Bodhi the best
+diplomat. Her 20DEX is most useful for her Reflexes and AC, but she shouldn¡¯t
+be doing ranged attacks too often; using bows distracts from singing. CON is
+also maxed at the start, to keep her alive, and improve her Fortitude. There is
+little use for WIS, so don¡¯t choose this when leveling. CHA is the ability to
+increase when leveling, because it improves her spellcasting and dialogue, and
+hopefully the Siren¡¯s Yearning song too.
+Her actual skills at level 30 are: Bluff 13, Concentration 33, Diplomacy 13,
+Intimidate 13*, Pick Pocket 16, Spellcraft 29 and Use Magic Device 1. Always
+maximize Concentration, and try to optimize conversation skills. For an
+explanation about why conversation skills are left so low, read Spoiler18!
+*Intimidate isn¡¯t a class skill, but there are situations requiring
+intimidation, so it is useful to have all conversation skills. Use Magic Device
+is a poor skill to use, because you always have a chance to take magic damage
+if the attempt to cast fails. But taking one point in it activates it, and
+since it works on CHA, the modifier brings it up a lot. Use Magic Device
+becomes even less useful once you¡¯ve taken a level cleric later on, so I
+advise against spending more than 1 point in it, unless there¡¯s nothing else
+to improve. Don¡ät start taking points in Spellcraft until after you¡äve
+optimized all conversation skills and pickpocketing.
+Chosen feats at level 30 were: First take Lingering Song[1], Armoured
+Arcana[3], Expertise[6], GSF:Enchantment[9&12], Dash[15], GSF:Evocation[18&21],
+GSF:Necromancy[24&27], Discipline[30]. After level 30: Combat Casting[33],
+Blind Fight[36], Subvocal Casting[39].
+The bard¡¯s spellbook doesn¡¯t have many elemental damage spells, so there is
+little need for such feats, or their 10 Spellcraft requirement, fortunately.
+But the bard does need a lot of SF feats (only GSF:Transmutation is useless if
+you don¡¯t pick Blindness or Slow, which I don¡¯t), so in the beginning she
+can¡¯t get feats fast enough. I chose Enchantment before Evocation, but you
+may prefer to enhance Evocation first, for better Chromatic Orbs. Necromancy
+comes into play at high levels, when you can select Wail of the Banshee and
+Horror. Combat feats are not useful for my bard, and besides the defensive
+feats Expertise, Armoured Arcana and Blind Fight, none are taken. Dash makes
+her a better, faster decoy, and the remaining feats are meant to improve her
+casting chances in combat.
+
+
+IMOEN in detail
+---------------
+Imoen is a lawful good female Human starting as a sorceress. Before you get to
+a certain point in the game you should take a level paladin (Paladin type only
+matters if you installed Customdll: Paladins of Mystra can then also advance
+as sorcerers). I took one level around level 8, for Spoiler8!. If you value
+the ability to dual wield weapons effectively, a level ranger enables this at
+1 level sacrifice, take the level by chapter 4 at the latest for Spoiler10!. A
+level monk can be taken in HoF mode to enable the Evasion feat. Three feats
+can be gained by taking two levels fighter, and a level necromancer (again,
+specialist wizard for 2 castings of Identify, necromancer is a cosmetic
+choice). The rogue level is taken very late, solely to use rogue items.
+SORCERER X / PALADIN ILMATER 1 / RANGER 1 / MONK o/t BROKEN ONES 1 / FIGHTER 2
+/ ROGUE 1/ NECROMANCER 1*
+Why sorcerer/paladin/ranger/monk/rogue? The level ranger is to make her more
+versatile in combat; she can¡¯t effectively use armour or a shield due to spell
+failure, so she¡¯s better off with a 2-handed weapon or dual wielding. Dual
+wielding gives her an extra attack per round of almost equal AB as her first
+attack with her main hand, not to mention you benefit from the bonuses of two
+weapons, so she¡¯ll be more effective this way. She¡¯s not a melee fighter, but
+you will need her to be able to hit things during the game (and you get a hold
+of the HoF paladin sword later, the modded version from Ease-of-use has a
++10AB!). A level ranger makes her much more versatile in combat at the price of
+only 1 level. She really needs those weapon feats, since she must allocate the
+11 given feats to mostly spellcasting. She gets a 12th for being Human, a feat
+she can use well. I did think of making her a Wild Elf, but she really needs
+the feat and especially the skill points. The combination of the Evasion feat
+from the monk level, with the high paladin¡¯s S.T. bonus from CHA, offers a
+cheesy protection from spell damage. Be aware that the 2nd paladin level
+enables her to radiate an Aura of Courage, giving a constant bonus against fear
+effects, if you find that worthwhile. The rogue level is explained in chapter
+8. Spoiler10! 
+Why not a rogue/bard/sorcerer? Too much on her plate. She¡¯ll need a lot of
+skill points (meaning INT) to cover casting skills, diplomacy and thieving
+skills. It¡¯s better to have a dedicated rogue/mage, and maybe a bard, like I
+have in my party.
+Imoen¡¯s abilities: 16STR, 18DEX, 18CON, 3INT, 3WIS, 18CHA {improve CHA}
+Sorcerers rely on their CHA, so this is the advancement of choice. Don¡¯t
+bother increasing any other stat; she is a professional spell slinger and must
+advance in this. His overall S.T. will be the best of the group due to the
+paladin levels and CHA, and no other ability offers anything that could compete
+with CHA bonuses.
+Her INT is minimal since she will only use the skill points given (just for
+Concentration and Spellcraft). Even investing in Diplomacy is unnecessary
+because of the bard in the team. Her DEX is important for AC and because
+she¡¯ll be using ranged weapons often. He also needs good CON for HP or she¡¯ll
+drop like a fly. Maximizing the initial stats should suffice her requirements.
+She¡¯s a bit weakish due to low HP and AC, but her AB isn¡¯t bad. Try to keep
+her out of heavy melee if possible, but if he is attacked you still have a
+fighting chance; she¡¯s weakish, not weak. She has just as much HP as Jan
+Jansen, higher saving throws, but a lower AC and no innate SR.
+This character has a variety of weapons, armour and tactics she can employ to
+adapt to the circumstances: She¡¯s strong with a bow, dual-wields in light or
+no armour, and can cast powerful spells. She¡¯s also proficient with martial
+weapons early on, which can be useful in conjunction with STR-enhancing spells.
+Spoilers8&16!
+Sorcerers don¡¯t get extra feats like wizards, so you¡¯ll need to choose feats
+wisely. That¡¯s also why ranger dual-wielding comes in so handy. I decided
+early on not to give her any weapon feats; it¡¯s just not worth it. Fortunately
+the paladin¡¯s CHA bonus to S.T. also makes it less important to take feats
+that enhance S.T..
+Her actual skills at level 30 are: Concentration 33 and Spellcraft 31. She
+doesn¡¯t need Diplomacy, since my bard will be doing most if not all of the
+talking. Naturally, investing in Diplomacy is wise in absence of a bard.
+Spellcraft gives another check for the party to identify enemy spells, so
+improving it remains useful.
+Chosen feats at level 30: First take GSF:Evocation[1&H1], Discipline[3], Rapid
+Shot[6], Spirit of Flame[9], GSF: Necromancy[12&15], Improved Critical[18],
+Combat Casting[21], GSF:Transmutation[24&F1], GSF:Enchantment[27&F2], Blind
+Fight[30]. After level 30: Scion of Storms & Aqua Mortis[33&W1], Aegis of
+Rime[36], Luck of Heroes[39]. {A single slot in Armoured Arcana would enable
+him to use the powerful HoF shields with no spell failure chance, but by the
+time it¡¯s worth taking, you¡¯re better off dual-wielding anyway. Save your
+feats!} Spoiler11! 
+Like Jan Jansen, she takes the combat feats Improved Critical and Rapid Shot.
+It¡¯s mainly for her ranged attacks, but it also improves her melee and magic
+weapons. Discipline may seem like an odd feat to take early, but the extra will
+and concentration serve the party¡¯s main nuker well.
+
+
+MINSC in detail
+---------------
+Minsc is a lawful neutral male Human starting as druid, then taking a level
+Monk of the Old Order, but concentrating on druid after that. This is an
+excommunication from the monk¡¯s order (like paladin), so you must be certain
+you won¡¯t decide to add another mix-in later of anything more than 2 levels.
+He takes a level ranger when the need to dual wield arises. The Bane cleric
+level can¡¯t be explained without Spoiler4!.
+DRUID X / MONK o/t O.O. 1 / BANE 1/ RANGER 1 / FIGHTER 2 / TRANSMUTER 1*
+Why a mix-in monk? Monks are powerful at high levels, but it takes a while to
+nurture them. Also, I like to use the weapons I find anyway, and this character
+is ideal for 2-handed weapons in the party. Besides the ability to use monk
+items, the level gives Evasion and S.T. bonuses. Evasion allows a monk to take
+no damage from spells that give ¡°half damage if save vs. Reflex¡±, if the monk
+makes its reflex save. Obviously your WIS goes to your AC when you¡¯re not
+wearing armour, so don¡¯t. When you use the druid¡¯s shapeshifting ability, you
+still get the WIS AC bonuses! Customdll fix allows monks to wear robes, which
+is great. Spoilers5&17!
+A level Ranger gives this character the option to dual wield at a cost of 1
+level, and all missing weapon proficiencies. It can be taken very late in the
+game, if desirable. Similarly, 2 Fighter levels late in the game give 2 extra
+feats, but this should also be done at such a late stage, that being 2 more
+levels behind as a druid hardly matters.
+You must choose a Monk of the Old Order, because you need neutral alignment to
+be able to choose druid as well (another mistake I made first time around when
+following Dave Milward¡¯s party tips ¨C forgot to make the ranger neutral, so
+he couldn¡¯t become a druid. Stupid of me). In fact, lawful neutral is the only
+alignment that allows for the combination of monk and druid.
+Why a Human? There¡¯s no huge difference in abilities between Humans and
+Half-Elves, so you¡¯re free to choose. Half-Elves get immunity to sleep spells
+and bonus vs. Enchantment spells, while Humans get an extra feat at 1st level
+and more skill points per level. There are no races that have monk or druid as
+favoured race, so my choices were limited to Human or Half-Elf. The skill
+points are not essential, but help you cover the 2 most important skills: The
+first point per level goes to Concentration obviously, you also need 10-14
+points in Spellcraft for elemental feats. Half-Elves would get sub-optimal
+concentration, or no elemental feats. For this reason I¡¯d advise you to take
+Human; you don¡¯t get immunity to sleep and S.T. vs. Enchantment ¨C but think
+about it; your Will S.T. is through the roof already. So you decide: Are the
+immunity and Enchantment S.T. worth that extra feat and skills? The answer is
+definitely NO. Humans beat Half-Elves in any build.
+Minsc¡¯s abilities: 18STR, 16DEX, 18CON, 3INT, 18WIS, 3CHA
+WIS improves his AC, Will S.T., spell DC AND the druid¡¯s amount of spells.
+Improve his WIS at every opportunity for this reason. It¡¯s not worthwhile to
+improve any other ability. If you¡¯re not going to optimize his WIS, go for a
+svirfneblin druid or female drow dreadmaster 1 / druid X, and wear armour
+instead. In those cases, improving CON or STR is a viable alternative, but the
+bonuses are inferior to those offered by WIS. Clerics are great frontline
+divine casters, but druids need high WIS. Spoiler2!
+This character serves as an effective warrior as well as a divine offensive
+spellcaster. Since a shield would make him lose his AC bonuses, two handed
+weapons and dual wielding are most practical here. Polearms, quarterstaves and
+2-handed axes are good, but getting bonuses from two equipped weapons is a
+great option. When he¡¯s shapeshifted at high level, he becomes the best melee
+warrior, the half-dragons (from Ease-of-use mod) are so powerful, I hesitate
+to use them, preferring to utilize his spellcasting for tactics and
+enjoyability. Be warned that shapeshifting sometimes dispels all his buffs
+(i.e. Bull¡¯s Strength, Cat¡¯s Grace, Barkskin, Stoneskin, Mage Armor), so I
+use it most often when my buff spells have run out. Each shapeshift also heals
+12HP, so it¡äs a handy little resource as well. On the plus side, the bonuses
+from some-but-not-all equipment carry over in the shapeshifted form. The final
+¡°Elemental Half-Dragon¡± form has a set STR of 40, allowing for a boost over
+that! The additional STR-damage with a 2-handed weapon from a STR of 48 is 1.5
+x 19 = 28!! And that¡¯s just the STR bonus, the sword also does 2d6+4 slashing
+damage. Take into consideration that the final elemental sword (+4 enchanted)
+does extra damage in all four elements, then you will agree that no fighter can
+ever beat this. Use with caution, at the risk of spoiling your own fun. Even
+Slayer Knights of Xvim would crap their demonic pants at the sight of this
+terror! But it¡¯s the crowning achievement of the druid; the point where he
+becomes more powerful than even the cleric or sorceror. So I wouldn¡¯t want to
+miss it.
+His actual skills at level 30 are Concentration 33 and Spellcraft 31. Because
+the druid is unarmoured, he can make use of his innate Hide ability; you can
+sneak in behind enemy lines and shapeshift ¨C deadly and funny! ¡°Hey, where
+did that Half-Dragon come from?¡± The most useful skill for the leftover skill
+points to be put into was Spellcraft, giving the party another chance to
+identify enemy spells as they¡¯re being cast. By level 30, 4 party members will
+have high Spellcraft.
+Chosen feats at level 30: First take GSF:Transmutation[1&H1], Power Attack[3],
+Cleave[6], Spirit of Flame[9], Improved Critical[12], Scion of Storms[15],
+GSF:Evocation[18&21], Combat Casting[24], Rapid Shot[F1], Blind Fight & Aegis
+of Rime[27&F2], Aqua Mortis[W1], Precise Shot[30]. After level 30: Heretic¡¯s
+Bane[33], Dirty Fighting[36], Luck of Heroes[39]. Spoiler11!
+This build is spellcasting oriented, but you may need fighting skills first,
+so pick feats in the order befitting your play style. The improved druid spell
+selection from the Ease-of-Use pack adds a number of acid and cold damage
+spells, so the feats Aqua Mortis and Aegis of Rime are worthwhile, but not
+urgent. The spell Tremor is much appreciated on level 8, so this is a good
+reason to temporarily install the Upgraded Classes component from the Light of
+Selune mod. Once you pick Tremor at level 8, save the game or export the
+character, and uninstall Upgraded Classes, because it has severe penalties that
+can be avoided by uninstalling it.
+
+
+Alternative to a bard or 2nd cleric, for melee-oriented players:
+
+KORGAN in detail
+----------------
+Korgan is a chaotic evil male Duergar (=Gray Dwarf). He is a pure Barbarian at
+the start of normal mode, but he takes 1 level Fighter as soon as he wants to
+wear heavy armour and gain a free feat. I advise waiting with more mix-ins
+until after 20th level if possible, so that he has Tireless Rage. Towards the
+start of HoF, he should take 3 more Fighter levels to gain weapon
+specialization. BARBARIAN X/FIGHTER 4
+Korgan has been removed from my old party, since he was the least powergaming-
+efficient character, but I keep him in the guide to offer an alternative for
+melee-focused players. He is the only character in the guide that has no quest
+bonus to abilities, or any protection from spells (SR or Evasion).
+Why a barbarian/fighter? His HP will be through the roof (can go over 600 at
+level 30, and hypothetically reaches 1478HP at level 40 with enhancing (mod)
+items and quest bonuses), so he can act as a better meat shield than any summon
+in the game. Unfortunately there¡¯s only one way to be immune to damage, and
+that¡¯s Otiluke¡¯s Resilient Sphere. The best way to protect from death is
+having lots of HP. You might not like taking damage, even despite his getting
+damage reduction (DR), since you¡¯ll want to heal it. So use him wisely: Before
+you leave a map to travel for hours, you only need to equip him with
+regenerating items and he¡¯ll heal en route. Not to mention you get good value
+out of Heal spells when you use them on him. At medium level he starts getting
+DR, which is like a weak but constant Iron Skins spell, sparing him heaps of
+damage. The rage ability becomes deadly at high levels when he doesn¡¯t tire.
+Sneak into enemy lines and go berserk. ¡°Great fun, heh heh! Right, Boo?¡±
+Why not a Half-Orc? In my opinion the CON bonus is preferable over the STR
+bonus of the Half-Orc. Dwarven racial abilities are also beneficial, but I
+mainly chose Duergar because I wanted an evil Underdark character. If you
+dislike the level penalty, you can take any other dwarf instead, of course. I
+see the ECL as a bonus for a pure warrior in my party, because I wouldn¡¯t want
+a non-spellcaster to bring the average party level up too fast, since this
+lowers XP gained from kills to the detriment of my spellcasting builds. It¡¯s a
+bit far-fetched I admit, but choosing an ECL race gives an x% bonus to the
+average XP gained from kills, to the whole party. So even if I wanted to
+maximize STR instead of CON, I¡¯d still make it this gray dwarf character.
+Why not a paladinX/fighter4? Paladins need STR, CON, WIS and CHA to be decent,
+ending up with low DEX to accommodate (meaning poor ranged attacks and AC). And
+their spell book is a very poor replica of the cleric spellbook. They have
+higher S.T., but this only helps them against spells. If you want more
+spellcasting, take another cleric, or a sorcerer. At least a barbarian brings
+other ¡®abilities¡¯ into the equation: Staying power from loads of HP and some
+DR.
+What you must try to avoid, is getting him charmed or even confused, since
+he¡¯ll tip the scales in the enemies¡¯ favour. The rage ability slightly
+improves his Will S.T., but what he really needs is spells/items which give
+immunities or remove the mental state. Fortunately they can be found, the
+divine casters can oblige with the spells until you find items. Spoiler12!
+Korgan¡¯s abilities: 18STR, 18DEX, 20CON, 3INT, 14WIS, 1CHA {improve CON*}
+The ability points are best put in his CON to improve his HP, alternatively
+STR is useful, but HP is the best option I think. *If you choose to advance
+STR, find a good 2-handed weapon like a greataxe, to get a 1.5x STR modifier to
+damage.
+His actual skills at level 30 are: Concentration 4 (to access the Maximized
+Attacks feat), Hide 8 and Move Silently 4, and 1 skill point remains stored for
+level 31. Unfortunately you can¡¯t ¡®skill point squat¡¯ with this build, and
+all relevant skills will take 2 skill points for each point advancement.
+Fortunately the patch makes it unnecessary to wait 2 levels before leveling up
+for a skill, since you can store a skill point for the next level.
+Chosen feats at level 30 were: First take 1x Bastard Sword[1], Power Attack[3],
+Cleave[6], Improved Critical[9], Rapid Shot[12], Two-Weapon Fighting[F1],
+Ambidexterity[15], 2x Bastard Sword[18], Blind Fight[21], 2x Axe[F2], 3x
+Bastard Sword & MaximizedAttacks[F4&24], Heroic Inspiration[27], Dirty
+Fighting[30]. After level 30: 3x Axe[33], 2x Extra Rage[36&39].
+Vary the order to fit your needs. When you have Tireless Rage at high level,
+you might prefer to take fighter levels to gain more weapon feats. But I¡¯d
+stick with barbarian levels, as this improves your DR, amount of rages and HP.
+With relation to Viconia: If you take Korgan in the party, and he has Bastard
+Sword and Axe specializations, it might be better to give Viconia different
+martial weapon specializations instead. Or give Korgan a greataxe, and Viconia
+gets Bastard Swords and something else¡­
+
+
+*---------------------*
+|  Chapter 7: SPELLS  |
+*---------------------*
+
+Useful spells on each spell level are listed in order of priority, the most
+important spells are bold. For early game tactics with low level spells, see
+chapter 4. Be advised that some spells increase or decrease in usefulness as
+you progress.
+
+JAHEIRA's Spellbook:
+-------------------
+Clerics do not require the ¡®Cure ____ Wounds¡¯ type conjuration spells on
+levels 1-4, you can shift-click on any memorized spell to convert it to an
+equal level cure. This doesn¡¯t convert to Healing Circle, Heal, or Mass Heal.
+Cleric Level 1: Bless, Remove Fear, Armour of Faith, Sanctuary
+C. L. 2: Bull¡¯s Strength (important buff spell, lasts 1 hour/level of caster,
+	`in HoF you can equip caster with luck bonus items to get better
+	casting results), Remove Paralysis (1 casting per cleric), Draw Upon
+	Holy Might (not before caster level 12), Chant (optional for big
+	battles, though the slow movement may be problematic)
+C. L. 3: Animate Dead (best summon), Prayer, Magic Circle against Evil (when
+	Animate Dead becomes good, the bard and sorcerer take over duties),
+	Invisibility Purge (1 casting for emergencies, only if Imoen hasn¡¯t
+	picked See Invisibility), Remove Disease (optional, but unnecessary
+	after the bard takes it)
+C. L. 4: Recitation (this spell is the best simultaneous buff/ debuff spell,
+	with NO save), Holy Power, Lesser Restoration
+C. L. 5: Raise Dead, Iron Skins (very good to reduce damage, lasts long but
+	only on caster), Champion¡¯s Strength, Flame Strike, Healing Circle
+C. L. 6: Heal, Divine Shell (only if you think it¡¯s better than another
+	casting of Heal)
+C. L. 7: Holy Word (specific use for my party, must be cast out of range of
+	evil allies, stops everything evil for 1 round = 6 seconds),
+	Resurrection, Elemental Barrier
+C. L. 8: Mass Heal, Fire Storm, Holy Aura
+C. L. 9: Gate, Summon Monster IX
+Lathander Level 1: Sunscorch (chance to blind shortly)
+L. L. 2: Bull¡¯s Strength or Lesser Restoration
+L. L. 3: Aganazzar¡¯s Scorcher
+L. L. 4: Holy Smite
+L. L. 5: Raise Dead or Flame Strike
+L. L. 6: Heal or Fire Storm
+L. L. 7: Sunbeam
+L. L. 8: Aura of Vitality
+L. L. 9: Mass Heal or Meteor Swarm (her best blasting spell)
+Conjurer Level 1: Identify (can be cast with low INT)
+
+VICONIA's Spellbook:
+-------------------
+Cleric Level 1: Bless, Command, Bane, Armor of Faith, Doom, Sanctuary
+C. L. 2: Hold Person, Bull¡¯s Strength, Remove Paralysis (1 casting per
+	cleric), Draw Upon Holy Might
+C. L. 3: Animate Dead (best summon), Prayer, Magic Circle vs. Evil
+C. L. 4: Recitation, Holy Power, Lesser Restoration (optional against energy
+	draining from certain undead)
+C. L. 5: Greater Command, Iron Skins (very good to reduce damage, lasts long
+	but only on caster. Not worthwhile before cleric level 12), Champion¡¯s
+	Strength, Raise Dead, Healing Circle (can heal Improved Invisible
+	allies, because it doesn¡¯t need to target them)
+C. L. 6: Heal, Divine Shell (only if you think it¡¯s better than another
+	casting of Heal)
+C. L. 7: Resurrection (doesn¡¯t cause the character to lose a level, contrary
+	to spell description), Greater Shield of Lathander (shortly buff a
+	decoy so it can be blasted by allies)
+C. L. 8: Mass Heal, Symbol of Hopelessness, Holy Aura (mass SR and more against
+	dangerous enemy spellcasters)
+C. L. 9: Gate (beware of their cold spells though), Summon Monster IX
+The Dreadmaster¡¯s (Banite) domain spells get +1DC vs. will S.T..
+Banite Level 1: Bane
+B. L. 2: Silence or Horror
+B. L. 3: Dire Charm
+B. L. 4: Emotion: Despair
+B. L. 5: Greater Command (the best spell to buy you time)
+B. L. 6: Feeblemind
+B. L. 7: Gate or Suffocate
+B. L. 8: Power Word: Blind
+B. L. 9: Mass Dominate ¨C the Banite¡¯s crowning achievement
+
+JAN JANSEN's Spellbook:
+----------------------
+His spell selection depends on what you manage to scribe, and whether you took
+a cleric level to negate the school restrictions. These recommendations are
+partly dependant on which scrolls you encounter first, and assuming you don¡¯t
+take advantage of Necromancy and Abjurations enabled by the cleric level.
+Cleric Level 1: Cure Light Wounds (Jan Jansen is evil, so he can¡¯t shift-click
+	to cure)
+Banite Level 1: Bane
+Illusionist Level 1: Chromatic Orb, Grease, Mage Armor, Magic Missile
+I. L. 2: Snilloc¡¯s Snowball Swarm, Mirror Image (purchase scroll), Melf¡¯s
+	Acid Arrow, Web (purchase scroll), Blur, Cat¡¯s Grace (may be worth
+	purchasing)
+I. L. 3: Fireball, Flame Arrow, Icelance, Lance of Disruption, Lightning Bolt,
+	Slow (best with GSF:Transmutation at high level, but be aware it will
+	dispel Haste), Stinking Cloud (may be worth purchasing, the easiest way
+	to immobilize enemies with high will and reflexes)
+I. L. 4: Emotion: Hope, Malison, Otiluke¡¯s Resilient Sphere (unhittable decoy
+	cheese without Tactics mod installed; still useful against bosses with
+	Tactics mod, worth purchasing early), Vitriolic Sphere, Fire Shield
+	(Blue & Red)
+I. L. 5: Sunfire (be aware that it blinds drow & gray dwarves), Greater Shadow
+	Conjuration, Chaos, Shroud of Flame, Lower Resistance
+I. L. 6: Mass Haste, Chain Lightning, Acid Fog, Disintegrate (may be worth
+	purchasing)
+I. L. 7: Mass Invisibility, Mordenkainen¡¯s Sword (it¡¯s not a summon like in
+	BG2, it¡¯s an equipped ranged magic weapon, and is very damaging),
+	Suffocate, Delayed Blast Fireball, Malavon¡¯s Rage (mage killer in
+	normal mode, sneak up to mages while Jan Jansen is hidden, and cast.
+	It¡¯s too weak for HoF though)
+I. L. 8: Great Shout, Fiery Cloud (when you have enemies trapped in a ¡®kill
+	zone¡¯ this is the most damaging spell: 6d6 for 10 rounds amounts to
+	60d6 ¨C see how many HoF monsters can survive that!), Iron Body
+I. L. 9: Meteor Swarm, Mass Dominate (the best spell to tackle many dumb
+	enemies; have Jaheira go in as a decoy and cast Holy Word to pin them
+	down; then cast Emotion:Despair, Chant, Recitation and/or Malison; they
+	won¡¯t stand a chance! Let them mop up the Will-save survivors, then
+	turn them on each other one by one. A huge battle survived without a
+	scratch! But don¡¯t harm them, or they¡¯ll go hostile.), Executioner¡¯s
+	Eyes (some enemies aren¡¯t vulnerable to spells, this helps you kill
+	them before they kill you)
+
+BODHI's Spellbook:
+-----------------
+Cleric Level 1: Cure Light Wounds (Bodhi is evil, so she can¡¯t shift-click to
+	cure)
+Banite Level 1: Command
+Bard spells are listed in the order in which I suggest they be picked. Bards
+acquire their first 4 spell picks quickly, the other picks take longer. Behind
+the words ¡°Maybe/Later¡± I mention other spell pick options, which may be
+worth taking, and can be additional picks after level 30. Imoen has a similar
+sorcerer spell book, so I¡¯ve done the same with her.
+Bard Level 1: Charm Person, Chromatic Orb, Grease, Mage Armor, Colour Spray
+	(still works against high level enemies), Minor Mirror Image, Summon
+	Monster I. Later/Maybe: Protection From Evil, Cure Light Wounds.
+B. L. 2: Mirror Image, Cat¡¯s Grace, Blur (with Blink for decoy tactics),
+	Eagle¡¯s Splendour (cast on Imoen for a bonus to trading, on self for
+	better dialogue, on both for higher spell DC), Dire Charm, Power Word:
+	Sleep, Horror. Maybe/Later: Hold Person & See Invisibility.
+B. L. 3: Emotion: Hope, Invisibility Sphere, Confusion, Blink, Remove Disease,
+	Remove Curse, Magic Circle against Evil. Maybe/Later: Dispel Magic &
+	Cure Serious Wounds.
+B. L. 4: Dismissal, Improved Invisibility, Cure Critical Wounds, Dominate
+	Person, Hold Monster, Shout, Neutralize Poison. Maybe/Later: Spirit
+	Armour & Summon Monster IV.
+B. L. 5: Healing Circle, Shadow Conjuration, Power Word: Silence, Summon
+	Shadow, Summon Monster V, Phantom Blade
+B. L. 6: Mass Haste, Shades, Great Shout, Greater Shadow Conjuration, Summon
+	Invisible Stalker, Summon Monster VI
+B. L. 7: Summon Efreeti, Mass Invisibility, Prismatic Spray, Summon Djinni
+B. L. 8: Mass Dominate, Wail of the Banshee, Power Word: Blind
+
+IMOEN's Spellbook:
+-----------------
+The sorcerer spells are listed in the order in which I suggest they be picked.
+For spell levels 1-6, the final two or three spells can only be picked after
+level 20, which is too late to be accessed in normal mode. So take that into
+consideration when devising your own spell picks. After level 30, a few more
+spell picks become available. I make suggestions after the words
+¡°Maybe/Later¡±, just like I did with Bodhi. Be advised that these spell picks
+are geared towards the other party members as well; a sorceress should pick
+Emotion:Hope sooner in the absence of a bard, for example.
+Sorcerer Level 1: Chromatic Orb, Magic Missile, Grease, Mage Armour (+4 AC
+	bonus from armour for 1 hour/level), Ray of Enfeeblement, Shield (like
+	Mage Armour, it acts as body armour or bracers, so it stacks with a
+	normal shield), Shocking Grasp. Maybe/Later: Colour Spray.
+S. L. 2: Mirror Image, Web, See Invisibility (useful if you need to dispel your
+	own Improved Invisibility during combat, so you can target allies for
+	healing and buffs), Blur, Protection from Arrows (up to +4 arrow
+	protection at high level), Horror, Melf¡¯s Acid Arrow. Maybe/Later:
+	Cat¡¯s Grace (1d4+1DEX for 1 hour/level, take much earlier if there¡¯s
+	no bard). [Also take Eagle¡¯s Splendour if you don¡¯t have a bard]
+S. L. 3: Fireball, Blink, Magic Circle Against Evil, Stinking Cloud, Skull Trap
+	(¡®Precision Fireball¡¯, my personal favourite), Slow, Flame Arrow.
+	Maybe/Later: Dispel Magic. [Take Invisibility Sphere if you have no
+	bard, for emergencies]
+S. L. 4: Stoneskin (one of the best combat protections), Malison, Fireshield
+	(Blue), Otiluke¡¯s Resilient Sphere, Mordenkainen¡¯s Force Missiles,
+	Fireshield (Red). Maybe/Later: Emotion:Hope. If no bard is present,
+	replace the Fireshields with Emotion:Hope and Improved Invisibility,
+	respectively.
+S. L. 5: Sunfire, Greater Shadow Conjuration (a non-hostile illusionary demon),
+	Lower Resistance, Chaos, Lesser Planar Binding: Fire Elemental (for
+	luring enemies into firey killzones, be careful not to damage it unless
+	it doesn¡¯t matter at that point), Animate Dead (when you¡¯ve run out
+	of the cleric version). Maybe/Later: Cone of Cold.
+S. L. 6: Mass Haste (ideal to cast after summoning and/or important battles),
+	Shades (very powerful non-hostile demons), Disintegrate, Tenser¡¯s
+	Transformation, Chain Lightning, Acid Fog. Maybe/Later: Globe of
+	Invulnerability.
+S. L. 7: Delayed Blast Fireball (1d8 fire/level, no limit - the ultimate
+	blasting spell!), Mordenkainen¡¯s Sword, Seven Eyes, Finger of Death,
+	Mass Invisibility. Maybe/Later: Summon Efreeti (immume to fire damage,
+	but handle with care).
+S. L. 8: Fiery Cloud (6d6 fire damage per round for 10 rounds ¨C that¡¯s 60d6
+	over time! This is potentially the most damaging spell in the game),
+	Mind Blank (any level 8 spells left before resting? This one lasts 24
+	hours and will still be there when you wake), Horrid Wilting (harms
+	party members, unlike Abi-Dalzim¡¯s Horrid Wilting in BG2), Symbol of
+	Hopelessness. Maybe/Later: Iron Body.
+S. L. 9: Executioner¡¯s Eyes (crucial for the final battles), Wail of the
+	Banshee (long casting time, area around caster, so move in behind a
+	decoy), Meteor Swarm, Aegis (inferior to lvl7 Seven Eyes, pales in
+	comparison to BG2¡¯s Absolute Immunity). Maybe/Later: Black Blade of
+	Disaster.
+Necromancer Level 1: Identify (can be cast with low INT)
+
+MINSC's Spellbook:
+-----------------
+Druid Level 1: Entangle (outside areas only), Burning Hands*, Frost Fingers,
+	Sunscorch, Ice Dagger*
+D. L. 2: Barkskin (up to a +5 generic AC bonus, other spells barely compete),
+	Web*, Lesser Restoration
+D. L. 3: Magic Circle against Evil*, Call Lightning (outside only), Spike
+	Growth (slows and harms), Icelance*, Storm Shell (may be handy when you
+	risk elemental damage), Neutralize Poison, Mold Touch and Snakebite
+	(both spells are strengthened by GSF:Transmutation)
+D. L. 4: Stoneskin* (it¡¯s often best to pick mostly these at this level),
+	Dispel Magic (druid¡¯s high spell DC has best chance of dispelling
+	enemies), Spike Stones
+D. L. 5: Insect Plague (makes spellcasting impossible by 100% disruption),
+	Shroud of Flame*, Sunfire* (blinds Drow and Duergar) [LoS mod¡¯s
+	Upgraded Classes adds Stoneskin, but it¡¯s already on level 4], Static
+	Charge (if you¡¯re too lazy to install mods)
+D. L. 6: Acid Fog* (no saving throw), Chain Lightning* (best electric damage),
+	Acid Storm*, Healing Circle
+D. L. 7: Heal, Aura of Vitality, Creeping Doom, Fire Storm, Sunbeam
+D. L. 8: Tremor* (moved from 9 to 8 by Light of Selune¡¯s Upgraded Classes ¨C
+	it¡¯s well worth installing and uninstalling for memorizing this spell
+	alone! Read chapter 1 ¡®Three things I discovered¡­¡¯ for details on
+	how to pull this off), Fiery Cloud* (if you¡¯re too lazy to get
+	Tremor), Whirlwind (if you haven¡¯t installed mods)
+D. L. 9: Shambler (long lasting ally, fights well for you, especially if you
+	buff him. Less tough than a high level Animate Dead), Tremor (powerful
+	mass-disabler, it bypasses enemy SR), Mass Heal, Elemental Legion
+	(elementals turn hostile from eachother, so this spell is impractical
+	and bugged)
+* The asterisk marks druid spells that were added by the mods Ease-of-use and
+Light of Selune. You can also get them by dropping my LISTSPLL.2DA into the
+Override folder.
+Transmuter Level 1: Identify (can be cast with low INT)
+Cleric Level 1: Armour of Faith, Command, Bless
+Banite Level 1: Bane
+
+KORGAN's Spellbook:
+------------------
+[No spell book]
+Korgan can use items, innate race & class abilities, but has no spellbook.
+
+
+*------------------------------------------------------*
+|  Chapter 8: USE OF ITEMS AND BUFF SPELLS (spoilers)  |
+*------------------------------------------------------*
+
+The items you use and the spells you cast to buff up your characters are what
+make them truly powerful, and figuring them out is one of the most enjoyable
+parts of the game. I¡¯ll tell you what I used with my party. Be warned that
+this chapter contains abundant item spoilers. Don¡¯t forget that much of the
+character¡¯s tactics are already described in chapters 4 and 5, such as group
+buff spells.
+Important: When casting a buff spell that gives a dice roll value bonus, a
+casting with luck gets better results. You could enhance the dice roll by
+equipping a luck item on the caster to raise it. In normal mode you find a
+Rabbit¡¯s Foot lying around in Targos, and the HoF item Young Ned¡¯s Knucky
+gives a +2 luck bonus (you have to pick Jemeliah¡¯s pocket, quite a challenge
+in HoF. You could also summon a demon next to him, but be sure to kill it off
+before it kills any merchants). The Tymora¡¯s Loop ring even gives +3 luck, but
+this is a rare item drop in chapter 6.
+The most useful ability enhancing buff spells that involve dice rolls are:
+Bull¡¯s Strength 1d4+1STR 1hr/lvl, Champion¡¯s Strength 1d4+4STR 10min/lvl,
+Cat¡¯s Grace 1d4+1DEX 1hr/lvl, Eagle¡¯s Splendor 1d4+1CHA 10rounds/lvl, and
+Tenser¡¯s Transformation 2d4STR 2d4DEX 1round/lvl.
+
+JAHEIRA's Items & Buffs:
+-----------------------
+She hasn¡¯t got weapon specialization because she lacks the 4 fighter levels
+needed. Fortunately, as a drow, she is proficient in Longswords, allowing her
+to use some good weapons without needing to take a warrior level early. There
+are many useful longswords and maces in the game, so she can use these. You
+probably won¡¯t be able to purchase Angurvadal +5 from Ribald Barterman in
+Targos yet (BG2 mod items, available again in Kuldahar), but there are many
+interesting swords and maces you should try out in the meantime: The Flaming
+Star +1, the Mountains of Selune and Moonblade of Selune are worthwhile, and
+later she has nearly the whole range of proficiencies, so she can use almost 
+every weapon. The Cera Sumat paladin sword can be used to dispel enemies¡¯
+buffs when necessary, but sometimes it isn¡¯t the best weapon at her disposal,
+because she gets all martial weapon proficiencies.
+Wear good plate armour; it¡¯s the overall AC, taking DEX bonus into account,
+that matters. The Air Genesi Armour is available in the Wandering Village, and
+gives a +2 boost to the cleric¡¯s mediocre reflexes (be sure to give the other
+cleric the Dragon¡¯s Belt, so both clerics have better reflexes).
+The Aasimar¡¯s Aura is also a good armour, the Protection from Evil when
+equipped serves as a reliable +2 deflection bonus.
+The Indomitable Bands is the HoF equivalent of the Brazen Bands, with the added
+effect of giving 10/+2 Damage Reduction. The downside is that this DR would
+supercede Stoneskin, rendering the spell ineffective, but it works in
+conjunction with a cleric¡¯s Iron Skins. It¡¯s a handy protection device for
+Jaheira or Viconia.
+Equip a good shield in her off hand, since she can¡¯t dual wield (yet). A
+two-handed weapon is an option, but she is only proficient in quarterstaves
+early on, and the selection of these is poor. A shield available early in HoF
+is worth mentioning: Mooncalf¡¯s Shield is the HoF upgrade of Tabard¡¯s Shield,
+and offers Protection from Arrows while equipped.
+As for ranged weapons: Slings and thrown weapons are the only ones that allow
+STR bonus to damage. The only 2-handed version of these is Flying Death axe,
+which is best used by Minsc because he can¡¯t use a shield in the off-hand.
+For the clerics Jaheira and Viconia, try to get both +1 Returning Fire Bullets
+as quest rewards from Lord Pyros.
+When it becomes available in Kuldahar, the Every God Ring (+5WIS) should be
+purchased and given to Minsc, not Jaheira. She uses WIS-bonus items when
+they¡¯re found, potentially wearing a second Every God Ring, if found.
+Jaheira can get as many or as few buff spells as you like: I¡¯d save Iron Skins
+and Barkskin for tough battles. If you have more than one character able to
+cast it, Cat¡¯s Grace improves her archery skill and Reflex S.T., but don¡¯t
+bother if it¡¯s too troublesome. Bull¡¯s/Champion¡¯s Strength is always
+worthwhile and recommended.
+
+VICONIA's Items & Buffs:
+-----------------------
+In the beginning Viconia is limited to longswords, bows and simple weapons, but
+when she takes a level fighter, her options increase. After 4 fighter levels,
+she takes weapon specialization feats. She takes Ambidexterity and Two-Weapon
+Fighting feats, and chooses specialization in Bastard Swords and Axes. Later
+she should dual-wield the most powerful bastard swords to be found, and use an
+axe if and when the need arises. There are a wide variety of axes in the game;
+Viconia won¡¯t let them go to waste. The Axe of the Unyielding is an
+interesting weapon, a simulation of the BG2: Throne of Bhaal weapon. Its
+regeneration ability is far higher than any other item in the game. The damage
+is not as high as some of the more powerful weapons in the game, but it makes
+an excellent off-hand and/or traveling weapon.
+As for Bastard Swords: By the end of normal mode you¡¯ll find Cold Fire, which
+deals cold and fire damage, and gets really enhanced by Ease-of-Use. Bastard¡¯s
+Son gives Executioner¡¯s Eyes spell effect while equipped (Executioner¡¯s Eyes
+gives among other things +4AB, making it good for dual-wielding even without
+the required weapon proficiency or dual-wielding feats, equip it in the
+off-hand to enhance a powerful main hand weapon), and Bastard Sword of Heroism
+is a 4d10+3 (+5 enchanted) slashing weapon! Bastard Swords mentioned are
+greatly enhanced by Ease-of-use mod, but without the mod, Bastard Swords
+aren¡¯t worthwhile.
+The armour you wear requires some thought: she has +4 AC from DEX, +6 with
+Cat¡¯s Grace, so sometimes light armour gives her a better AC. But don¡¯t
+disregard the heavy armours you find; for example the Mithral Field Plate
+Armour +2 gives a +10 AC, allowing a +2 DEX bonus. The total +12 AC is the same
+as the best light armour you find + DEX bonus. And if you installed Ease-of-use
+mod component ¡®Armors and Shields give Damage Reduction¡¯, this benefits heavy
+armours more than light ones.
+She is often used in combat, so you are posed with a dilemma of taking and
+dealing damage. The Gauntlets of Weapon Skill/Specialization improve her weapon
+AB (and damage), but often the fact that she risks death in combat can be more
+important. A mod-merchant item called the Bands of the Master offers a 5/+1 or
+15/+3 (HoF) Damage Reduction. This would supersede Stoneskin (10/+5), rendering
+the spell useless, but works in conjunction with Iron Skins (10/-). This makes
+it most useful for my clerics. She uses a +2WIS item until a 3rd Every God Ring
+becomes available late in HoF, then her enchantment DC will be awesome.
+Buff spells for Viconia are simple: She casts her own Iron Skins (otherwise she
+needs a Stoneskin), and might get a Cat¡¯s Grace and Barkskin if available. And
+Jaheira can best cast Bull¡¯s Strength early on, so Viconia can concentrate on
+Hold Persons.
+
+JAN JANSEN's Items & Buffs:
+--------------------------
+Hide Failed. When you see that in your screen, it means your scout needs to get
+out of the area quickly. Sometimes he isn¡¯t spotted straight away (thanks to
+innate Non-Detection) and can escape unharmed, but if he is, he¡¯ll have to run
+ahead of the enemy mob while the party blasts them with spells, fights them, or
+pelts them with ranged attacks. He can achieve the highest AC of my party, but
+in HoF mode it¡¯s no guarantee.
+An evil mage was bound to drop a Robe of the Evil Archmagi, so you get it for
+free if you just wait. Swing from the Masts and the HoF version Crow¡¯s Nest
+are rogue headbands that give +1 and +3 generic AC bonus, respectively. The
+Circlet of Netheril (+4INT) also competes for the head slot, so choose the
+headgear that fits the situation. Jaheira¡¯s Harper Pin is another mod merchant
+item that¡¯s very powerful, with +5! to all S.T., and the effect of a Shield
+spell when equipped (+7AC body armour). Jan Jansen can use this well, or the
+mod item Amulet of Protection +3.
+The Silent but Deadly bow can be found in a container in Targos, it gives a +3
+boost to his Hide and Move Silently skills, and will be his weapon of choice
+for the first half of normal mode. Depending on the situation, he uses Bracers
+of Archery, Gauntlets of Weapon Expertise or Brazen Bands (not the HoF version;
+the HoF Indomitable Bands doesn¡¯t allow Stoneskin to work, so don¡¯t use it on
+a Stoneskinned character). Chimandrae¡¯s Slippers (+5DEX) are found in Chapter
+6, great for boosting his AC, improving his rogue skills and good for his
+archery.
+He has freedom to choose what he wants for ranged attacks. Personally I would
+give him a (cross)bow that allows multiple attacks per round (most crossbows
+don¡¯t, those are useless. Hagnen¡¯s Folly and the Hell Bolter are the best
+crossbows) and the Infinite Bolt (LoS mod item) or the Flasher Master Bruiser
+Mate, a BG2 mod item purchased from Ribald Barterman: It¡¯s only a 1d2+1
+returning ¡®bolt¡¯, but it casts a stun effect on the area after every hit,
+doesn¡¯t affect allies, and damages nearby opponents. Its only drawback is that
+it¡¯s extremely expensive: around 237,000 gold can¡¯t be afforded until
+Kuldahar at the earliest.
+His melee weapons of choice are short swords and daggers, to get AB from DEX
+with the Weapon Finesse feat, but be aware that not all Small Blades are
+Finesse-able, so check the AB. The Brilliant Short Sword +5 ignores armour
+bonuses for hitting, and Tsuki no Ken is a BG2 mod item giving a large list of
+bonuses. When using shields, be aware that he won¡¯t have shield proficiency
+until he takes a cleric mix-in. Before you have shield proficiency, he can use
+the Giant¡¯s Cap, which gives +4AC and ¨C0 penalty to AB and rogue skills. Just
+one feat in Armoured Arcana is enough to nullify the shield¡¯s 5% spell failure
+chance. When he eventually takes a ranger level, he can also dual wield. Making
+him a short, evil ranger, dual-wielding daggers, not unlike Belkar from the
+Order of the Stick: http://www.giantitp.com/comics/oots0003.html
+Buff spells: You may prefer to use the Little Giant belt (+4STR) instead of
+casting Bull¡¯s Strength if you¡¯re afraid it might be dispelled, or you might
+find it more practical to give that to a frontliner. This belt, and many
+similar items can only be worn if and when he has taken a warrior level, i.e.
+ranger. Cat¡¯s Grace is vital until you get Chimandrae¡¯s Slippers. Mage Armour
+makes him even less hittable, but it¡¯s not cumulative with the Shield spell
+bonus from Jaheira¡¯s Harper Pin. The only spells that remain useful to him are
+Stoneskin and Barkskin. The advantage of having to rely on few buff spells, is
+that he can scout around safely. If he springs a trap that dispels magic, or is
+spotted by a mage and subsequently dispelled, there is little harm done.
+Tenser¡¯s Transformation can later be used in extreme situations, where he is
+needed in combat.
+
+BODHI's Items & Buffs:
+---------------------
+Bodhi should never engage in combat. She will be standing in the back, casting
+and singing, or perhaps running around as a decoy. So, her equipment is somewhat
+less important than the rest of the team, especially weaponry. As a drow bard,
+she is proficient in longswords, bows and simple weapons, but all she really
+needs, is to hold a weapon for its bonus effect. I bought her a mod item
+quarterstaff in Targos, which gave her some extra speed. So when she¡¯s
+targeted, she can run like a decoy. She could use bows or crossbows without
+the need for high STR, but I see combat with bards as a last resort only. She
+could also use Angurvadal +5 to get her STR set to 22, becoming a good melee
+combatant. In the late game, there may be times when she¡¯d be of more use in
+melee than singing any kind of song. In those cases, she could be Mirror
+Imaged, and sent in with the Angurvadal longsword. But I never felt the need
+for this. She¡¯s last in line for weapon priority. I settle for the Wroth
+bastard sword, since my lawful warriors can¡¯t use it anyway; +4STR +4CON
++2S.T. +20% move speed; enhanced by Ease-of-use¡¯s Improved Bastards Swords,
+the HoF Bloody Wroth gets double those bonuses!
+Her body armour slot can best be kept empty in the beginning, since there is a
+shortage of robes, and armour gives casting failure chance. But you should be
+able to acquire a second Robe of the Evil Archmagi before the end of normal
+mode (first one is for Jan Jansen). You can give her a regular chainmail when
+she¡¯s not casting spells.
+The most important thing about Bodhi¡¯s equipment, is bard-only items. She¡¯s
+the only one who can use the bard instruments that are encountered. They¡¯re
+quite handy.
+She can buff herself with Mage Armour. Depending on your tactics, she could use
+Bull¡¯s Strength, but there¡¯s little point if you¡¯re not attacking with her.
+Cat¡¯s Grace gives an AC and reflex S.T. bonus. And castings of Barkskins and
+Stoneskins are welcome if available. Active songs serve as very good buffs,
+especially Tymora¡¯s Melody and the War Chant of Sith.
+
+IMOEN's Items & Buffs:
+---------------------
+Imoen is weak in melee, but an unrivalled spellcaster: She gets all the feats
+needed to enhance her spellcasting damage. Her AC doesn¡¯t get as high as the
+others¡¯, so she should be kept in the back mostly. Her S.T. are the highest on
+average, and with no innate SR, she needs them. On the topic of SR, her best
+weapon is the Cera Sumat paladin longsword, especially when she can dual-wield
+
+normal and HoF versions for 15+30=45SR. Cera Sumat and the Robe of the Good
+Archmagi together give 15+9=24SR, such a SR value is not bad at mid-level, but
+less useful later on. Unless there is a need to dispel enemies, Imoen can get
+more out of the sword than Jaheira can. The HoF Light of Cera Sumat has +10AB,
+which really brings her attacks on par with the rest. Earlier I mentioned that
+Light of Selune mod restricts the paladin sword to 13WIS characters, for this
+reason you should install the Ease-of-use component Improved Holy Avenger after
+the Light of Selune mod, to replace this important item. You could buy the Robe
+of Sorcere (+3 deflection, +1S.T., +3CHA) from Malavon Despana in the
+Underdark, which is a LoS mod item. Towards the end of the game you find the
+Master¡¯s Robe that gives +2INT +3CHA but no deflection bonus, and Imoen can
+use this robe if you didn¡¯t buy the Robe of Sorcere earlier, otherwise let
+Bodhi wear it; the higher INT improves her skills and dialogue. When CHA is an
+even number, the Ring of Charm works just as well (+2CHA, Charm Person 1/day.
+Kill or pickpocket Dolon Daemba in the monastery to get it).
+A deflection bonus can alternatively be gained from another item, I prefer
+Sulo¡¯s Hook in the off-hand, and buy the Dagger of Warding later on to replace
+it. When you get the HoF version of the paladin sword, you¡¯ll want to
+dual-wield both swords to get 45 SR, so then you should get your deflection
+bonus from a ring, necklace or cloak.
+Light of Selune adds a bowyer who sells a powerful bow, the Emerald Bow, which
+gives high damage bonuses vs. evil creatures. You need a good ranger in the
+party to even be able to buy it, but you can always travel back to the village
+from the Underdark later. Also, the Falcon Arrow is a +1 (+5 enchanted)
+returning arrow that only Imoen can use.
+A variety of small shields are available in HoF mode, which give only 5%
+casting failure chance, so you might consider getting a single feat in Armoured
+Arcana at very high level, but I prefer dual wielding. The spells Shield and
+Mage Armour work together with equipping a shield, but not with armour.
+In HoF, the rogue-only headband Crow¡¯s Nest offers a valuable combination of
+generic +3AC bonus, and +3CHA, making it worth taking a level rogue just for
+this.
+Buff spells: Mage Armour is a good idea to give her, and you can wear the
+Brazen Bands in the gauntlets slot and get a generic AC bonus too (AC bonuses
+from other bracers count as body armour, and they give DR with the appropriate
+Ease-of-use mod component). Brazen Bands: +5 generic AC, to get this you must
+release the djinn from the Avarine Decanter immediately without looking at his
+store. Bull¡¯s Strength, Cat¡¯s Grace, Barkskin and Stoneskin are all great
+boosts, reducing Imoen¡¯s relative weakness. Tenser¡¯s Transformation can be
+used in extreme situations, where she needs to engage in combat. Seven Eyes is
+a powerful defense, but costly.
+
+MINSC's Items & Buffs:
+---------------------
+Druids in the unmodded game are a cross between arcane and divine spellcasters,
+with a very limited selection of spells in both categories. The Light of Selune
+mod changes this drastically, along with some parts of the Ease-of-Use pack,
+increasing the druid¡¯s selection of arcane spells, and the shapeshift forms.
+Minsc is now a fearsome and dangerous spellcaster, with damaging spells as well
+as useful buffs. My focus has been on enhancing his spell power, this is what
+most of his feats have gone to. He is an above average fighter as well, but
+this is mainly due to the qualities of his classes: Druids are proficient in
+longswords and polearms, the monk level gives proficiency in axes and
+crossbows. His best selection of weapons are Polearms (spears and halberds) and
+two-handed Greataxes. You can use the +2 Greataxe (random reward from Yquog),
+the Ice Spear +4 (Battle Squares reward) and purchase the Halberd of the North.
+You may be lucky to acquire the Massive Greataxe of Flame +5 by the end, which
+does the most damage of any 2-handed weapon. Flying Death is a thrown
+two-handed axe, best for when Minsc wants to keep his distance (clerics are
+better off with a sling+shield). I advise against purchasing the Massive
+Halberd of Hate +4: Although it gives very high damage even if you¡¯re not
+fighting Good creatures, it¡¯s also vampiric, so besides healing you, it can
+cost you XP from kills if the opponent dies from HP draining. After taking a
+ranger level later on, dual wielding becomes worthwhile, and you¡¯re no longer
+limited to axes, polearms and simple weapons ¨C then you have the whole range
+of weapons to choose from, except Bastard Swords. Try the Greater Flail of the
+Elements (1d8+5 +2d6 fire, cold & electricity), it has an unmentioned +5AB. The
+bonuses from two equipped weapons are preferable over just one, but often
+damage dealt by a two-handed weapon will be more. Remember to never use a
+shield, because it disables the AC bonus from WIS, which is better than any
+shield bonus.
+The customdll fix allows him to wear robes and gain their deflection bonus, so
+wear the best robe you can find. The Chain of Drakkas(¡¯ Fury) are coded as
+robes, so he can wear them without losing WIS AC bonus, and then he can also
+receive a DR bonus (with the Ease-of-use mod component)! The Every God Ring
++5WIS gives an AC bonus, as well as willpower, more spells and spell DC.
+Restless Soles are shoes added by one of the mods, they enhance his Move
+Silently skill as well as his ever-important Reflex S.T.. Thunder Clap bracers
+and the HoF equivalent give an extra attack or two per round, which can make a
+big difference. The Black Raven Sash belt is monks-only and gives +1AB, the HoF
+version is very expensive but gives +2AB +2 damage. The book of leaves casts a
+finite number of barkskins ¨C I bought it, but never used it.
+The most powerful attack a druid gets, comes at high level, when you transform
+into a half-dragon form (requires Ease-of-Use) that wields an elemental sword.
+Transforming has dispelled buff spells for me before, so be prepared to re-cast
+them when he transforms back. All weapons are locked in place during the
+transformation (even arrows), but the item effects of the weapons you had
+equipped don¡¯t take effect in the shapeshifted form.
+Buff spells: Minsc benefits from all of them: Bull¡¯s Strength, Cat¡¯s Grace,
+Mage Armor gives a long lasting +4AC, Minsc can get this bonus because he
+isn¡¯t wearing armour (doesn¡¯t stack with the Chain of Drakkas). This bonus is
+preferable over the Bracers of Defence, because you can use the gloves slot for
+another item. But wearing Bracers of Defense would give DR, with the relevant
+Ease-of-use mod component installed. Of course, Barkskin and Stoneskin keep him
+strong in melee.
+
+
+KORGAN's Items & Buffs:
+----------------------
+In the normal game, his melee power carries the weaker characters through
+difficult situations, later his melee is still important. But in HoF, direct
+melee is the most risky form of combat. Of course, he¡¯s very strong in a
+forced combat situation, where you can¡¯t prepare beforehand, but as a
+non-spellcaster, he¡¯s the least powerful character in HoF mode. He gets the
+Gauntlets of Weapon Skill/Specialization for obvious reasons.
+Korgan has specialized in both Axes and Bastard Swords, Bastard Swords offer by
+far the most damaging one-handed weapons in the game, but only with the
+Improved Bastard Swords component from the Ease-of-Use pack. Axes include the
+most damaging 2-handed weapons, and the most damaging ranged weapon (Flying
+Death) is an axe. The Axe of the Unyielding is an interesting weapon, a mod
+simulation of the BG2: Throne of Bhaal weapon. Its regeneration ability is far
+higher than any other item in the game, and the +1CON can give extra HP sooner
+than normal. The damage is not as high as some of the more powerful weapons in
+the game, but it makes an excellent off-hand and/or travelling weapon. Later
+on, you¡¯re spoilt for choice in axes and bastard swords. There¡¯s a chance
+that the Massive Greataxe of Flame will be dropped randomly in HoF; this is the
+most damaging two-handed weapon.
+He ends normal mode with bastard swords which make me very glad I took Bastard
+Sword, Ambidexterity and the Two-Weapon Fighting feats: Cold Fire deals cold
+and fire damage, and gets really enhanced by Ease-of-Use. The Rage of Chaos
+gives the effects of Chaotic Commands while equipped, this is a good off-hand
+weapon since his Will S.T. is the lowest of the lot (but casting a spell
+instead will free up his off-hand). Bastard¡¯s Son gives Executioner¡¯s Eyes
+while equipped (great off-hand weapon), Bloody Wroth gives +8STR +8CON +4S.T.!
+(which is ideal in the off hand when you¡¯re NOT going to rage, and aren¡¯t at
+risk of being charmed etc.), and the Bastard Sword of Heroism is a 4d10+3(+5)
+slashing weapon! The most powerful combo is to have a mage cast Executioner¡¯s
+Eyes, and have him equip the Bastard Sword of Heroism and Bloody Wroth in the
+off-hand. When dual wielding, be aware that both hands suffer a ¨C2 AB, because
+the off-hand weapon is not light. But this is barely a problem for a full
+warrior class with high BAB.
+Being evil has as main benefit that he can use a number of items not usable by
+good or neutral characters, the major drawback is that he can¡¯t stand in the
+radius of the cleric spells Holy Smite and Holy Word.
+Buff spells are personal preference: You don¡¯t need Bull¡¯s Strength if you
+equip (Bloody) Wroth later in the game. If an item only gives a STR bonus and
+nothing else, I prefer to use Bull¡¯s Strength and equip a different item such
+as Bastard¡¯s Son. Cat¡¯s Grace is recommended, hopefully your chosen armour
+allows AC bonus from DEX, otherwise it only improves ranged attacks and
+Reflexes. Stoneskin and Barkskin are very useful, since he¡¯ll be in melee
+often. If you¡¯re not using the Houndstooth Collar and Rage of Chaos, then a
+mental warding spell can protect you, when expecting to fight priests or mages.
+Mind Blank is the best.
+
+
+*-------------------------------*
+|  Chapter 9: LIST OF SPOILERS  |
+*-------------------------------*
+
+*Spoiler1* The svirfneblin/deep gnome is worst off with 3 levels behind, so he
+is the one to use the Adventuring Tome on when you reach the monastery.
+*Spoiler2* Since there are some good WIS-improving items in the game, it¡¯s
+useful to have more than one character with classes utilizing WIS. 1 item is
+worth taking into account. The Every God Ring is a +5 WIS ring.
+*Spoiler3* The ¨C2 DEX penalty of the Bracers of Icelandic Pearl can be
+neutralized by wearing a DEX-enhancing item as well, just put it on after the
+bracers. One item gives a STR-bonus that works differently, and in conjunction
+with spells or other STR bonus items; Angurvadal +5 sets STR to 22, allowing
+for another boost over that.
+*Spoiler4* A Dreadmaster of Bane gets a valuable quest bonus (+2WIS), so if
+you have mix-ins when you face Hiephierus, they get it too. This can also be
+repeated in HoF mode for a total of +4WIS. If you don¡¯t take the cleric level
+before entering the cave in Kuldahar¡¯s graveyard, it is largely useless.
+Sometimes the bonus isn¡¯t applied, so check it before and after battle. Replay
+until it works, or just edit in NearInfinity.
+*Spoiler5* Taking a level paladin before fighting the Lost Followers in the
+Kuldahar graveyard will give you a quest bonus of +1STR and +1WIS, which you
+get again in HoF mode. This amounts to a great advantage. This is a viable
+alternative to taking 4 fighter levels. In fact, taking a level paladin is
+almost as good in combat as a fighter's Weapon Specialization (+1 AB, +2
+damage), because +2STR gives +1 AB, and +1 damage (1.5 with a two-handed
+weapon). So eventually, a paladin level does almost as much as 4 fighter
+levels, but for all weapon types, and also gives more WIS! Not to mention, 
+mixing in 2 fighter levels later will still give 2 feats. Fighting the Lost
+Followers is not easy, so unless you¡¯re desperate to get the bonus early, I
+advise that you delay this encounter as long as you can. The XP bonus is fixed
+by Tactics mod, so being higher level in this battle doesn¡¯t reduce your
+reward.
+*Spoiler6* One quest related mix-in level could be taken before the drider
+area: In the Underdark, you encounter Imphraili¡¯s lab. A transmuter with 10
+effective Alchemy (Minsc needs 14 due to the INT modifier) can create a potion
+that gives +5HP, and again in HoF. If you have a level Transmuter before then,
+you could take advantage of this slight bonus.
+*Spoiler7* A scroll of Invisibility Sphere can be found before the Shaengarne
+Bridge, but my party is unable to memorize it at this point. You may want to
+cast Invisibility Sphere from this scroll before entering the Shaengarne Bridge
+map, since you¡¯ll find another scroll later on. It is possible to save the
+bridge without it, but not easy.
+*Spoiler8* The Moonblade of Selune can be kept as a quest reward if you have a
+level paladin already, and say the right things. You can complete the Moonblade
+mission without returning it: A paladin can get the owner to give it back to
+you as a reward instead of money, just do and say the right things. You could
+just keep the sword and not talk to Emma Moonblade, but you will miss out on
+XP. If you¡¯re not a paladin, and turn in the sword, you get very cheap healing
+(1 gold for a Heal makes the rest of the mission easy). I¡¯d say it¡¯s a reason
+to get a paladin level early, remember that you don¡¯t need to talk to Emma
+Moonblade immediately ¨C you can delay the paladin mix-in until the end of
+chapter 1, and talk to her then. The Moonblade of Selune is a magic damage
+weapon that doesn¡¯t get a STR bonus to damage. When you need to gang up on an
+enemy that is vulnerable to magic, it can be used by Imoen. As long as Imoen is
+not the target of a big monster, you can use the Moonblade to let her inflict
+quite some magic damage, handy when fighting a powerful and resistant monster.
+Later on it stays a good off-hand weapon for Imoen, and can also be used by
+Jaheira when tackling opponents most vulnerable to magic damage.
+*Spoiler9* Near the end of chapter 1 there are points in the game where enemies
+spawn indefinitely (Horde Fortress, Goblin Warrens), and this can be utilized
+cleverly to level up characters before moving to chapter 2; I advise taking
+them up until average party level 8 if you have the patience¡­ After saving,
+reloaded games don¡¯t spawn enemies anymore. You also get quest bonus XP for 
+stealthiness, meaning you should try to progress through the warrens leaving 
+as many drum posts intact as you can. Failing to rest in a map area will spawn
+opponents that give XP too. You could ¡®pretend to rest¡¯ and reload if you 
+accidentally do rest, this way you can earn lots of XP, and maybe gold or
+items.
+*Spoiler10* By the end of this chapter, the sorceror can take a level ranger,
+so that she is offered to buy a powerful bow, that allows for a STR bonus to
+damage! The only bow with STR bonus to damage (from Light of Selune mod) in the
+game can be bought in the Wandering Village. But the bowyer will only offer it
+to a good ranger, and it¡¯s expensive (14000 in normal mode, 70000 in HoF).
+There is also a +5 enchanted returning arrow you can purchase. Ultimately only
+Imoen can use them, so be sure to get a level ranger and buy it before
+departing for Kuldahar (you can travel back to the Wandering Village from the
+Underdark), or the merchant won¡¯t even offer the bow to you. The merchant
+gifts a necklace to you after purchase, that she can¡¯t use because it¡¯s only
+usable by non-lawful. You can kill the bowyer, and he will drop the gold you
+paid for his bow.
+*Spoiler11* Near the end of the game you will get to choose a tattoo (Great
+Fortitude, Iron Will, or Lightning Reflexes) to apply to a character. Be
+friendly to the Thayvian enclave and do what they ask. And use your diplomat.
+Make sure the character has need of it and hasn¡¯t already chosen the feat. I
+chose to give Lightning Reflexes to Minsc before schedule, since his Reflex
+S.T. was important (with Evasion). In fact, Lightning Reflexes is the best
+tattoo, so I gave it to Imoen in HoF mode too.
+*Spoiler12* The Houndstooth Collar and Rage of Chaos bastard sword together
+cover all Enchantment spells I can think of.
+*Spoiler13* Jan Jansen¡¯s Banite level allows him to gain WIS bonuses from a
+quest, thus improving your Will S.T., and together with the +5WIS ring, even
+allows you to cast level 1 cleric spells. The same is true for Bodhi. Taking
+this cleric mix-in also improves their saving throws.
+*Spoiler14* There is a bard item in normal mode that requires 13WIS, it casts
+Heal 1/day, but Bodhi can only use it in late HoF while wearing an Every God
+Ring.
+*Spoiler15* There are many small blades in the game, some with high deflection
+bonuses to defence. Dual wielding daggers/short swords is preferable over the
+rather poor selection of quarterstaves in the game. Since Jan Jansen¡¯s a
+spellcaster, he¡¯s better off dual wielding weapons with bonus effects.
+*Spoiler16* Later on, the Paladin level really pays off with the wonderful +5
+sword Cera Sumat. The worst things about the Light of Selune mod both relate
+to Imoen: 1) The Paladin sword gets a requirement of 13WIS making it unusable
+by my sorceress. This is unacceptable to me, and it¡¯s easily fixed by
+installing Ease-of-use¡¯s component Improved Holy Avenger AFTER Light of
+Selune. 2) The more irritating problem is that sorcerers have to pay 2 skill
+points for Diplomacy. This problem is due to the Upgraded Classes part of the
+mod, and is easily fixed by uninstalling that part.
+*Spoiler17* Minsc drinks both normal mode and HoF Potions of Holy Transference
+(+2WIS ¨C1DEX each) to gain even more WIS. Another potion that is dropped, is
+the Potion of Clear Purpose (+1WIS ¨C2CON). This is a bad trade-off, so it¡¯s
+best to just sell the potion. So eventually his WIS will be 36, with a bonus
+item it can be 41, causing an enormous spell DC modifier of +15, +19 for
+Evocation and Transmutation. There are only 3 druid Enchantments, and 4
+offensive Necromancy spells, so these can wait. But compared to the +14DC
+maximum that the arcane spellcasters get at level 40, the druid¡¯s spells
+become far more reliable!
+*Spoiler18* IWD2 Dialogue checks never exceed 20; 13+CHA-modifier is more than
+enough.
+*Spoiler19* Rogue skill checks, for the most part, don¡¯t exceed 20. I believe
+that Search, Hide and Move Silently will work better with even higher values.
+But for most rogue skills, 14 + INT/DEX modifier will cover all needs.
+*Spoiler 20* A character with 13INT and 16CHA (the bard) can get an Underdark
+trader to sell and buy items with a 20% discount/markup. Bluff Heggr Splitsteel
+when first talking to him, and demand this trading bonus from him. If you
+don¡¯t have the required abilities, he will fight you instead.
+*Spoiler 21* When you meet Lord Pyros, you can gift him an Antidote for free to
+get a reward. It¡¯s worth reloading until you are given the rare +1 Returning
+Fire Bullet. You can offer a potion on 2 separate occasions, so you can get 2
+rewards.
+*Spoiler 22* The Tactics4IWD2 mod gives a special reward to the Iyachtu Xvim
+quest. Dependent on your choice, it will reward +1WIS (good) or +1STR (evil)
+to the party leader. The character in 1st position at the start of the game,
+in my case Jaheira, determines the party leader. If you installed the mod
+without adding my file to the Override folder, your party will also be subject
+to alignment change, converting your good or evil party members to neutral.
+The battle against Iyachtu Xvim is epic! I played the battle because I didn¡¯t
+want to miss it, but reloaded to get the evil reward.
+*Spoiler 23* Reaching the end of Shadows of Amn in the IWG2 conversion will
+allow you to complete the highly rewarding quests in the ¡®Hell¡¯ plane. The
+character in 1st position at the start of the game, in my case Jaheira, gets
+these bonuses. These do not alter your alignment, and some rewards do not apply
+correctly. Left to right:
+	Sarevok: Regardless of your choice, you are rewarded +1WIS, +1CHA.
+	Ctrl+Y kill Sarevok immediately after his dialogue, or the game crashes!
+	Greed: The evil choice gets you the Blackrazor sword (mediocre) and
+	+15HP. The good choice rewards +2 S.T., but check it works, because I
+	got ¨C1 once! Not good¡­
+	Selfishness: The good path will reward you with SR, but the price is
+	high: -2DEX, -2HP, and the XP subtraction penalty is severely bugged.
+	The evil path is recommended, giving you a +2AC bonus which didn¡¯t
+	apply in my case.
+	Fear: Taking the good choice will reward you with 100/+1 damage
+	resistance, but this isn¡¯t much good against enemies of any
+	significance. The evil decision should be rewarded with +2CON, but I
+	got +4CON every time! I¡¯m not complaining.
+	Pride: The reward for taking the evil path is merely an XP bonus. I
+	prefer the good path, which rewards you with +4 resistance to fire,
+	cold and electricity.
+
+
+*---------------------------------------------------------------------*
+|  Chapter 10: LIST OF ABBREVIATIONS, ACKNOWLEDGEMENTS, VERSION INFO  |
+*---------------------------------------------------------------------*
+
+AC:	Armour Class; a defensive bonus against enemy hit rolls.
+(B)AB:	(Base) Attack Bonus; a bonus to attack rolls to hit an opponent.
+BG2:	Baldur¡¯s Gate 2; the most popular Infinity Engine RPG.
+CHA:	Charisma; ability used by bards, paladins and sorcerers.
+CON:	Constitution; ability that improves the overall sturdiness.
+DC:	Difficulty Class; defines how hard a spell is to save against for
+	opponents.
+DEX:	Dexterity; improves overall Reflexes and coordination.
+DR:	Damage Reduction; class, spell or item effect that reduces damage
+	taken.
+ECL:	Effective Character Level; refers to races with a level penalty.
+(G)SF:	(Greater) Spell Focus; feat(s) which enhance the DC of a single spell
+	school.
+HoF:	Heart of Fury; a more difficult gameplay mode, selectable in
+	Configuration.
+HP:	Hit Points; determines how much damage can be taken before death.
+INT:	Intelligence; ability used by wizards, also increases skill points.
+IWD2:	Icewind Dale 2; this game.
+IWG2:	Icewind Gate 2; conversion of BG2: Shadows of Amn to the IWD2 engine.
+mod:	Modification; a fan-made alteration to the game, to be installed
+	separately.
+SR:	Spell Resistance; ability that allows for a chance to resist most spell
+	effects.
+S.T.:	Saving Throw(s); a defensive bonus against dice rolls from offensive
+	spells.
+WIS:	Wisdom; ability that improves Willpower and divine spellcasting &
+	abilities.
+XP:	Experience Points; representation of gained experience from gameplay.
+
+I should first thank the creators of guides I read:
+Icewind Dale II Guide to Feats by Mike Marshall:
+http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/icewind_dale_ii_feat.rar
+&download=yes
+Icewind Dale 2 Walkthrough by Dave Milward:
+http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2Walkthrough.zip
+&download=yes
+Icewind Dale II Character Development Guide by Mike Malone:
+http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/iwd2char.zip&download=yes
+Icewind Dale 2: Ultimate Powergaming Party FAQ by Ken J. Egervari:
+http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/icewind_dale_ii_upp.zip
+&download=yes
+Jukka's Ultimate Powergaming Party (JUPP) by Jukka Mikkonen:
+http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/icewind_dale_ii_jupp.zip
+&download=yes
+And last but not least, the board members of Sorcerer¡¯s Place, who gave me
+the inspiration and insight to create the updated second, third, fourth and
+fifth versions of this guide. Thanks go to: Acrux, AjaX, akridian, Caradhras,
+countduckula, crucis, JT, kmonster, MindChild, Mudde, Odd Hermit, Sir Rechet,
+Tal Rasha, Taluntain, and all the other great people who debate with me here:
+http://www.sorcerers.net/forums/forumdisplay.php?f=23
+
+
+Version History:
+> The main differences between version 1 and version 2 of this guide (version
+1 was not designated 1), are the mix-ins of Dreadmaster of Bane and Monk of
+Ilmater, switching my first cleric from Tempus to Bane and switching the
+alignment to accommodate, a few minor insights added, and some layout
+improvements.
+> Version 3 was released after realizing that a lawful neutral bard/cleric is 
+not possible. My barbarian is replaced with a bard, but kept in as an
+alternative character. Also in version 3, I attempt to make the party more
+useful in normal mode, by emphasizing the need for delaying mix-ins and timing
+them well. My two clerics change names, mix-ins and cleric orders. My clerics
+gave up diplomacy and elemental feats in favour of maximized concentration.
+Mix-ins of fighter and wizard are added in the very late game to nearly all my
+party members, for 3 extra feats. A short tactical discussion and list of
+spoilers, and abbreviations are added in new chapters, and there are some more
+layout improvements.
+> Version 4 significantly re-evaluates feats, which is the result of many
+discussions on sorcerers.net. The feats which have improved in importance are
+Rapid Shot, Armoured Arcana, Combat Casting, and Spell Penetration. Feats which
+were put into to perspective, and slightly decreased in importance, are S.T.
+and Spell Focus feats. In light of the Armoured Arcana feat, the ranger mix-in
+is also re-evaluated, and my characters now take it even later, or not at all.
+My bard character is changed from human into a drow, because of this race¡¯s
+more useful abilities, and the practical uselessness of strength for bards.
+Finally, the mistaken quest bonus for transmuters is corrected; they don¡¯t get
++1 to strength. An excel file is included in the download which details all the
+leveling choices precisely.
+> The changes in CharCreaTips versions 5 and 6 are minor. Most attention goes
+to other included files, which are focused on making it easy to install, play
+and troubleshoot the Icewind Gate 2 mod, which converts the Baldur¡¯s Gate 2:
+Shadows of Amn game, and part of Throne of Bhaal, to the Icewind Dale 2
+interface.
+> The changes in CharCreaTips version 7 are partly of a cosmetic nature. I also
+re-evaluated feats once again, as the important Blind Fight was completely
+overlooked until now. Precise Shot is chosen for mainstay ranged attackers.
+Saving throw feats are taken out, but Discipline is introduced, and given
+higher importance than Combat Casting.
+
